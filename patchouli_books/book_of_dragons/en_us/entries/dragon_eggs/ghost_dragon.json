@@ -1,0 +1,19 @@
+{
+    "name": "Ghost Dragon",
+    "icon": "dragonmounts:ghost_dragon_egg",
+    "category": "dragon_eggs",
+    "pages": [
+         {
+            "type": "spotlight",
+            "item": "dragonmounts:ghost_dragon_egg",
+            "title": "Conditions",
+            "text": "The dragon egg will turn into a Ghost Dragon Egg if you make it a nest below level 65 in complete darkness!"
+          },
+          {
+            "type": "entity",
+            "entity": "dragonmounts:ghost_dragon",
+            "scale": 0.8,
+            "offset": 0.15
+          }
+    ]
+  }

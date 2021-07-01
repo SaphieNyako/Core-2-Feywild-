@@ -1,0 +1,23 @@
+{
+    "type": "feywild:fey_altar",
+    "ingredients": [
+      {
+        "item": "druidcraft:elderflower"
+      },
+      {
+        "item": "minecraft:egg"
+      },
+      {
+        "item": "minecraft:yellow_dye"
+      },
+      {
+        "item": "feywild:lesser_fey_gem"
+      },
+      {
+        "item": "feywild:summoning_scroll"
+      }
+    ],
+    "output": {
+        "item": "druidcraft:yellow_lunar_moth_egg"
+    }
+  }

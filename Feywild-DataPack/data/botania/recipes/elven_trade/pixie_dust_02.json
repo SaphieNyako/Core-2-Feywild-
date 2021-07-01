@@ -1,0 +1,22 @@
+{
+    "type": "botania:elven_trade",
+    "ingredients": [
+      {
+        "item": "feywild:fey_dust"
+      },
+      {
+        "item": "feywild:fey_dust"
+      },
+      {
+        "item": "feywild:fey_dust"
+      },
+      {
+        "item": "feywild:fey_dust"
+      }
+    ],
+    "output": [
+      {
+        "item": "botania:pixie_dust"
+      }
+    ]
+  }

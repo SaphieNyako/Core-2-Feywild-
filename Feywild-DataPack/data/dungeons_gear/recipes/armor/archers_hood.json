@@ -1,0 +1,27 @@
+{
+    "type": "feywild:dwarven_anvil",
+    "ingredients": [
+        {
+          "item": "feywild:schematics_dungeons_gear_armor"
+        },
+      {
+        "item": "minecraft:leather_helmet"
+      },
+      {
+        "item": "druidcraft:crushed_fiery_glass"
+      },
+      {
+        "tag": "minecraft:arrows"
+      },
+      {
+        "tag": "minecraft:arrows"
+      },
+      {
+        "tag": "minecraft:arrows"
+      }
+    ],
+    "output": {
+        "item": "dungeons_gear:archers_hood"
+    },
+    "mana_usage": 500
+  }

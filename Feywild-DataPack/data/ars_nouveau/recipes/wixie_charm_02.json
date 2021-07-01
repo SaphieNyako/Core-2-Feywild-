@@ -1,0 +1,23 @@
+{
+    "type": "feywild:fey_altar",
+    "ingredients": [
+      {
+        "tag": "minecraft:saplings"
+      },
+      {
+        "tag": "forge:gems/emerald"
+      },
+      {
+        "item": "minecraft:crafting_table"
+      },
+      {
+        "item": "minecraft:brewing_stand"
+      },
+      {
+        "item": "ars_nouveau:wixie_shards"
+      }
+    ],
+    "output": {
+      "item": "ars_nouveau:wixie_charm"
+    }
+  }

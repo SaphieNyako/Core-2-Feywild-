@@ -1,0 +1,251 @@
+{
+    "replace": false,
+    "trades": [ {
+      "type": "goblintraders:basic",
+      "offer_item": {
+        "item": "wyrmroost:blue_geode_dragon_armor",
+        "count": 1
+      },
+      "payment_item": {
+        "item": "feywild:greater_fey_gem",
+        "count": 4
+      },
+      "price_multiplier": 0.0,
+      "max_trades": 2,
+      "experience": 10
+},
+      
+      {
+        "type": "goblintraders:basic",
+        "offer_item": {
+          "item": "minecraft:saddle",
+          "count": 1
+        },
+        "payment_item": {
+          "item": "feywild:lesser_fey_gem",
+          "count": 5
+        },
+        "price_multiplier": 0.0,
+        "max_trades": 24,
+        "experience": 20
+  },
+        {
+            "type": "goblintraders:basic",
+            "offer_item": {
+              "item": "ars_nouveau:mana_gem",
+              "count": 1
+            },
+            "payment_item": {
+              "item": "feywild:greater_fey_gem",
+              "count": 1
+            },
+            "price_multiplier": 0.0,
+            "max_trades": 24,
+            "experience": 20
+      }, 
+      {
+        "type": "goblintraders:basic",
+        "offer_item": {
+          "item": "ars_nouveau:mana_bloom_crop",
+          "count": 1
+        },
+        "payment_item": {
+          "item": "feywild:lesser_fey_gem",
+          "count": 1
+        },
+        "price_multiplier": 0.0,
+        "max_trades": 24,
+        "experience": 20
+      }, 
+      {
+        "type": "goblintraders:basic",
+        "offer_item": {
+          "item": "minecraft:gunpowder",
+          "count": 2
+        },
+        "payment_item": {
+          "item": "minecraft:emerald",
+          "count": 1
+        },
+        "price_multiplier": 0.0,
+        "max_trades": 32,
+        "experience": 20
+      },
+      {
+        "type": "goblintraders:basic",
+        "offer_item": {
+          "item": "feywild:mandrake_seed",
+          "count": 2
+        },
+        "payment_item": {
+          "item": "minecraft:emerald",
+          "count": 1
+        },
+        "price_multiplier": 0.0,
+        "max_trades": 15,
+        "experience": 20
+      },
+      {
+        "type": "goblintraders:basic",
+        "offer_item": {
+          "item": "minecraft:emerald",
+          "count": 6
+        },
+        "payment_item": {
+          "item": "minecraft:turtle_egg",
+          "count": 1
+        },
+        "price_multiplier": 0.0,
+        "experience": 200
+      },
+      {
+        "type": "goblintraders:basic",
+        "offer_item": {
+          "item": "minecraft:emerald",
+          "count": 8
+        },
+        "payment_item": {
+          "item": "minecraft:pufferfish_bucket",
+          "count": 1
+        },
+        "price_multiplier": 0.0,
+        "max_trades": 4,
+        "experience": 200
+      },
+      {
+        "type": "goblintraders:basic",
+        "offer_item": {
+          "item": "minecraft:sponge",
+          "count": 1
+        },
+        "payment_item": {
+          "item": "minecraft:emerald",
+          "count": 8
+        },
+        "price_multiplier": 0.0,
+        "experience": 50
+      },
+      {
+        "type": "goblintraders:basic",
+        "offer_item": {
+          "item": "minecraft:chipped_anvil",
+          "count": 1
+        },
+        "payment_item": {
+          "item": "minecraft:damaged_anvil",
+          "count": 1
+        },
+        "secondary_payment_item": {
+          "item": "minecraft:iron_ingot",
+          "count": 4
+        },
+        "price_multiplier": 0.0,
+        "max_trades": 2,
+        "experience": 50
+      },
+      {
+        "type": "goblintraders:basic",
+        "offer_item": {
+          "item": "minecraft:anvil",
+          "count": 1
+        },
+        "payment_item": {
+          "item": "minecraft:chipped_anvil",
+          "count": 1
+        },
+        "secondary_payment_item": {
+          "item": "minecraft:iron_ingot",
+          "count": 4
+        },
+        "price_multiplier": 0.0,
+        "max_trades": 2,
+        "experience": 50
+      },
+      {
+        "type": "goblintraders:basic",
+        "offer_item": {
+          "item": "feywild:dwarven_anvil",
+          "count": 1
+        },
+        "payment_item": {
+          "item": "minecraft:anvil",
+          "count": 1
+        },
+        "secondary_payment_item": {
+          "item": "feywild:fey_dust",
+          "count": 4
+        },
+        "price_multiplier": 0.0,
+        "max_trades": 2,
+        "experience": 50
+      },
+      {
+        "type": "goblintraders:basic",
+        "offer_item": {
+          "item": "minecraft:terracotta",
+          "count": 2
+        },
+        "payment_item": {
+          "item": "minecraft:clay",
+          "count": 1
+        },
+        "price_multiplier": 0.0,
+        "max_trades": 64,
+        "experience": 20
+      },
+      {
+        "type": "goblintraders:basic",
+        "offer_item": {
+          "item": "minecraft:book",
+          "count": 2
+        },
+        "payment_item": {
+          "item": "minecraft:leather",
+          "count": 1
+        },
+        "secondary_payment_item": {
+          "item": "minecraft:paper",
+          "count": 3
+        },
+        "price_multiplier": 0.0,
+        "max_trades": 32,
+        "experience": 20
+      },
+      {
+        "type": "goblintraders:basic",
+        "offer_item": {
+          "item": "feywild:fey_ink_bottle",
+          "count": 1
+        },
+        "payment_item": {
+          "item": "minecraft:ink_sac",
+          "count": 1
+        },
+        "secondary_payment_item": {
+          "item": "feywild:fey_dust",
+          "count": 2
+        },
+        "price_multiplier": 0.0,
+        "max_trades": 12,
+        "experience": 20
+      }, 
+      {
+        "type": "goblintraders:basic",
+        "offer_item": {
+          "item": "feywild:summoning_scroll",
+          "count": 1
+        },
+        "payment_item": {
+          "item": "minecraft:feather",
+          "count": 1
+        },
+        "secondary_payment_item": {
+          "item": "minecraft:paper",
+          "count": 1
+        },
+        "price_multiplier": 0.0,
+        "max_trades": 5,
+        "experience": 20
+      }
+    ]
+  }

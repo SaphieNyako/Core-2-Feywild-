@@ -1,0 +1,27 @@
+{
+    "type": "feywild:dwarven_anvil",
+    "ingredients": [
+        {
+          "item": "feywild:schematics_dungeons_gear_armor"
+        },
+      {
+        "item": "minecraft:iron_helmet"
+      },
+      {
+        "item": "minecraft:feather"
+      },
+      {
+        "item": "minecraft:feather"
+      },
+      {
+        "item": "druidcraft:amber"
+      },
+      {
+        "item": "mysticalworld:silver_ingot"
+      }
+    ],
+    "output": {
+        "item": "dungeons_gear:heros_helmet"
+    },
+    "mana_usage": 500
+  }

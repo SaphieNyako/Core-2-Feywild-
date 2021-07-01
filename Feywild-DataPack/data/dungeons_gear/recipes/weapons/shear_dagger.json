@@ -1,0 +1,28 @@
+{
+    "type": "feywild:dwarven_anvil",
+    "ingredients": [
+        {
+          "item": "feywild:schematics_dungeons_gear_weapons"
+        },
+      {
+        "item": "dungeons_gear:dagger"
+      },
+      {
+        "item": "dungeons_gear:dagger"
+      },
+      {
+        "item": "botania:manasteel_shears"
+      },
+      {
+        "item": "botania:manasteel_shears"
+      },
+      {
+          "item": "feywild:spring_tree_sapling"
+      }
+    ],
+    "output": {
+      "item": "dungeons_gear:shear_dagger",
+      "count": 2
+    },
+    "mana_usage": 1000
+  }

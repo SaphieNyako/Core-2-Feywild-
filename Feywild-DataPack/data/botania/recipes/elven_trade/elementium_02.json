@@ -1,0 +1,16 @@
+{
+    "type": "botania:elven_trade",
+    "ingredients": [
+      {
+        "item": "feywild:greater_fey_gem"
+      },
+      {
+        "item": "feywild:greater_fey_gem"
+      }
+    ],
+    "output": [
+      {
+        "item": "botania:elementium_ingot"
+      }
+    ]
+  }

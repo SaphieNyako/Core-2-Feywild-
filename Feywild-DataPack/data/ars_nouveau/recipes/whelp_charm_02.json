@@ -1,0 +1,23 @@
+{
+    "type": "feywild:fey_altar",
+    "ingredients": [
+      {
+        "item": "minecraft:gold_ingot"
+      },
+      {
+        "item": "minecraft:egg"
+      },
+      {
+        "item": "minecraft:gold_ingot"
+      },
+      {
+        "item": "ars_nouveau:novice_spell_book"
+      },
+      {
+        "item": "feywild:shiny_fey_gem"
+      }
+    ],
+    "output": {
+      "item": "ars_nouveau:whelp_charm"
+    }
+  }

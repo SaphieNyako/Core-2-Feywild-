@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  S",        
+        " # ",
+        "# A"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:feather"
+        },
+        "A": {
+            "item": "ars_nouveau:glyph_gust"
+        },
+        "S": {
+            "item": "druidcraft:moonstone"
+        }
+    },
+    "result": {"item": "dungeons_gear:light_feather" }
+}

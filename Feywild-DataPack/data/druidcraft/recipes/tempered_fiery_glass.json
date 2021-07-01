@@ -1,0 +1,27 @@
+{
+    "type": "feywild:dwarven_anvil",
+    "ingredients": [
+        {
+            "item": "feywild:schematics_gem_transmutation"
+        },
+      {
+        "item": "druidcraft:fiery_glass"
+      },
+      {
+        "item": "druidcraft:fiery_glass"
+      },
+      {
+        "item": "druidcraft:fiery_glass"
+      },
+      {
+        "item": "druidcraft:fiery_glass"
+      }, 
+      {
+        "item": "druidcraft:fiery_glass"
+      }
+    ],
+    "output": {
+        "item": "druidcraft:tempered_fiery_glass"
+    },
+    "mana_usage": 500
+  }

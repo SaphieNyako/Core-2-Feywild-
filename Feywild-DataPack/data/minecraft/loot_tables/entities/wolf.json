@@ -1,0 +1,47 @@
+{
+    "type": "minecraft:entity",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": -1.0,
+                  "max": 1.0,
+                  "type": "minecraft:uniform"
+                }
+              },
+              {
+                "function": "minecraft:looting_enchant",
+                "count": {
+                  "min": 0.0,
+                  "max": 2.0
+                }
+              }
+            ],
+            "name": "wyrmroost:raw_common_meat",
+            "weight": 10
+          },
+          {
+            "type": "minecraft:item",
+            "name": "dungeons_gear:wolf_vest",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "dungeons_gear:wolf_hood",
+            "weight": 1
+          }
+        ],
+        "conditions": [
+          {
+            "condition": "minecraft:killed_by_player"
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",        
+        " X ",
+        " D "
+    ],
+    "key": {
+        "#": {
+            "item": "tombstone:grave_dust"
+        },
+        "X": {
+            "item": "minecraft:torch"
+        },
+        "D": {
+            "item": "minecraft:lime_dye"
+        }
+    },
+    "result": {"item": "druidcraft:lime_soulfire", "count": 4 }
+}

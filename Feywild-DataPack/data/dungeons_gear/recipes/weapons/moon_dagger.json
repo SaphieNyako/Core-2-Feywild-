@@ -1,0 +1,28 @@
+{
+    "type": "feywild:dwarven_anvil",
+    "ingredients": [
+        {
+          "item": "feywild:schematics_dungeons_gear_weapons"
+        },
+      {
+        "item": "dungeons_gear:dagger"
+      },
+      {
+        "item": "dungeons_gear:dagger"
+      },
+      {
+          "item": "druidcraft:moonstone"
+      },
+      {
+        "item": "druidcraft:moonstone"
+      },
+      {
+          "item": "feywild:autumn_tree_sapling"
+      }
+    ],
+    "output": {
+      "item": "dungeons_gear:moon_dagger",
+      "count": 2
+    },
+    "mana_usage": 1000
+  }

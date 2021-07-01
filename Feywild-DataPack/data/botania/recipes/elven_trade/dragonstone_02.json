@@ -1,0 +1,14 @@
+  
+{
+    "type": "botania:elven_trade",
+    "ingredients": [
+      {
+        "item": "feywild:brilliant_fey_gem"
+      }
+    ],
+    "output": [
+      {
+        "item": "botania:dragonstone"
+      }
+    ]
+  }

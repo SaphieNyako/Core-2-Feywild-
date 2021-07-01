@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "druidcraft:fiery_glass", "count": 1
+    },
+    "result": "druidcraft:crushed_fiery_glass",
+    "count": 2
+}

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",        
+        "#X ",
+        "   "
+    ],
+    "key": {
+        "#": {
+            "item": "supplementaries:jar"
+        },
+        "X": {
+            "item": "druidcraft:orange_lunar_moth_egg"
+        }
+    },
+    "result": {"item": "druidcraft:orange_lunar_moth_jar" }
+}
