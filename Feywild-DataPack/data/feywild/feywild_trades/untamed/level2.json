@@ -1,6 +1,19 @@
 {
     "type":"dwarf_trade",
-    "pool": [
+    "pool": [   
+ {
+  "output": {
+    "item": "feywild:schematics_dungeons_gear_weapons",
+    "count": 1
+  },
+  "input": {
+    "item": "feywild:lesser_fey_gem",
+    "count": 20
+  },
+  "maxUses" : 1,
+  "givenXp" : 40,
+  "priceMult": 0.05
+},
       {
         "output": {
           "item": "minecraft:diamond_pickaxe",

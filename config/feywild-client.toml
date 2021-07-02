@@ -1,7 +1,7 @@
 #Min Distance between next Autumn World Tree:
 #Range: 0 ~ 500
 autumn_world_tree_mine_distance = 50
-#Winter biome weight:
+#Frozen Retreat spawn weight:
 #Range: 0 ~ 100
 winter_biome_weight = 20
 #max vein size for Fey Gems:
@@ -18,6 +18,8 @@ spring_world_tree_average_distance = 100
 #Min Distance between next Summer World Tree:
 #Range: 0 ~ 500
 summer_world_tree_mine_distance = 50
+#Spawn spring tree patches:
+spring_tree_patch = true
 #max height for Fey Gems:
 #Range: 0 ~ 64
 fey_gem_max_height = 48
@@ -30,15 +32,31 @@ tree_patches_chance = 0.01
 #How long fey dust effect lasts:
 #Range: 0 ~ 180
 fey_dust_duration = 15
+#Spawn summer tree patches:
+summer_tree_patch = true
 #Average Distance between next Winter World Tree:
 #Range: 0 ~ 500
 winter_world_tree_average_distance = 100
-#Autumn biome weight:
+#Eternal Fall spawn weight:
 #Range: 0 ~ 100
 autumn_biome_weight = 20
 #min height for Fey Gems:
 #Range: 0 ~ 64
 fey_gem_min_height = 11
+#This may not work, expect fatal errors, here be dragons!
+# Activate beta features:
+beta = false
+#Spawn autumn tree patches:
+autumn_tree_patch = true
+#Frozen Retreat size:
+#Range: 0.0 ~ 1.0
+winter_biome_size = 0.005
+#Note: This requires the mod: Mythic Botany. 0: feywild biomes spawn in overworld, default alfheim, 1: feywild biomes spawn in overworld, feywild features spawn in alfheim, 2: feywild biomes not active, feywild features spawn in alfheim 
+#Range: 0 ~ 2
+mythic = 1
+#Blossoming Wealds size:
+#Range: 0.0 ~ 1.0
+spring_biome_size = 0.005
 #Min Distance between next Blacksmith:
 #Range: 0 ~ 500
 blacksmith_min_distance = 25
@@ -48,7 +66,10 @@ summer_world_tree_average_distance = 100
 #Min Distance between next Winter World Tree:
 #Range: 0 ~ 500
 winter_world_tree_mine_distance = 50
-#Spring biome weight:
+#Golden Seelie Fields size:
+#Range: 0.0 ~ 1.0
+summer_biome_size = 0.005
+#Blossoming Wealds spawn weight:
 #Range: 0 ~ 100
 spring_biome_weight = 20
 #Average Distance between next Library:
@@ -57,15 +78,22 @@ library_average_distance = 35
 #Min Distance between next Spring World Tree:
 #Range: 0 ~ 500
 spring_world_tree_mine_distance = 50
+#Eternal Fall size:
+#Range: 0.0 ~ 1.0
+autumn_biome_size = 0.005
 #Average Distance between next Autumn World Tree:
 #Range: 0 ~ 500
 autumn_world_tree_average_distance = 100
-#Summer biome weight:
+#Golden Seelie Fields spawn weight:
 #Range: 0 ~ 100
 summer_biome_weight = 20
+#Note: This requires the mod: Dungeons Gear. Set to True if you want Schematics Items for Dungeon Gear.
+dungeons_gear = true
 #weight for Fey Gems:
 #Range: 0 ~ 100
 fey_gem_weight = 10
+#Spawn winter tree patches:
+winter_tree_patch = true
 
 #Summer Pixie spawn config.
 ["Summer Pixie_spawn"]

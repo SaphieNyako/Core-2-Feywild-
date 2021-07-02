@@ -1,6 +1,34 @@
 {
     "replace": false,
     "trades": [
+      {
+        "type": "goblintraders:basic",
+        "offer_item": {
+          "item": "feywild:schematics_dungeons_gear_artifacts",
+          "count": 1
+        },
+        "payment_item": {
+          "item": "feywild:lesser_fey_gem",
+          "count": 20
+        },
+        "price_multiplier": 0.0,
+        "max_trades": 1,
+        "experience": 40
+      },
+      {
+        "type": "goblintraders:basic",
+        "offer_item": {
+          "item": "feywild:schematics_dungeons_gear_armor",
+          "count": 1
+        },
+        "payment_item": {
+          "item": "feywild:lesser_fey_gem",
+          "count": 20
+        },
+        "price_multiplier": 0.0,
+        "max_trades": 1,
+        "experience": 40
+      },
         {
             "type": "goblintraders:basic",
             "offer_item": {
