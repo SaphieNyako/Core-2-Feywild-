@@ -6,7 +6,7 @@
       {
         "output": {
           "item": "minecraft:cake",
-          "count": 2
+          "count": 1
         }
       },
       {
@@ -25,6 +25,12 @@
         "output": {
           "item": "supplementaries:pancake",
           "count": 3
+        }
+      },
+      {
+        "output": {
+          "item": "druidcraft:apple_elderberry_crumble",
+          "count": 2
         }
       }
     ]

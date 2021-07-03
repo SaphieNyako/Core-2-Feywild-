@@ -92,6 +92,13 @@
         "item": "mysticalworld:stuffed_aubergine",
         "count": 1
       }
+    },
+    {
+      "output": {
+        "item": "druidcraft:blueberry_muffin",
+        "count": 1
+      }
     }
+
   ]
 }

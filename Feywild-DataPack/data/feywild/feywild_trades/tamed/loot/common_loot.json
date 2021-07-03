@@ -155,6 +155,24 @@
           "item": "mysticalworld:quicksilver_ore",
           "count": 3
         }
+      },
+      {
+        "maxUses" : 5,
+        "givenXp" : 1,
+        "priceMult": 0.05,
+        "output": {
+          "item": "druidcraft:fiery_glass_ore",
+          "count": 3
+        }
+      },
+      {
+        "maxUses" : 5,
+        "givenXp" : 1,
+        "priceMult": 0.05,
+        "output": {
+          "item": "druidcraft:amber_ore",
+          "count": 3
+        }
       }
     ]
   }

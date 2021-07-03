@@ -38,6 +38,15 @@
           "item": "mysticalworld:amethyst",
           "count": 3
         }
+      },
+      {
+        "maxUses" : 2,
+        "givenXp" : 4,
+        "priceMult": 0.05,
+        "output": {
+          "item": "druidcraft:moonstone_ore",
+          "count": 3
+        }
       }
     ]
   }

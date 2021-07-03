@@ -169,6 +169,32 @@
         "maxUses" : 1,
         "givenXp" : 10,
         "priceMult": 0.05
+      },
+      {
+        "output": {
+          "item": "druidcraft:rope",
+          "count": 5
+        },
+        "input": {
+          "item": "feywild:lesser_fey_gem",
+          "count": 1
+        },
+        "maxUses" : 10,
+        "givenXp" : 1,
+        "priceMult": 0.05
+      },
+      {
+        "output": {
+          "item": "druidcraft:brown_bedroll",
+          "count": 2
+        },
+        "input": {
+          "item": "feywild:lesser_fey_gem",
+          "count": 4
+        },
+        "maxUses" : 1,
+        "givenXp" : 10,
+        "priceMult": 0.05
       }
     ]
   }
