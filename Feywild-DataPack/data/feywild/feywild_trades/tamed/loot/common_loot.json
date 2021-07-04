@@ -125,7 +125,7 @@
         "givenXp" : 1,
         "priceMult": 0.05,
         "output": {
-          "item": "mysticalworld:copper_ore",
+          "item": "create:copper_ore",
           "count": 3
         }
       },
@@ -134,7 +134,7 @@
         "givenXp" : 1,
         "priceMult": 0.05,
         "output": {
-          "item": "mysticalworld:silver_ore",
+          "item": "occultism:silver_ore",
           "count": 3
         }
       },
@@ -143,7 +143,7 @@
         "givenXp" : 1,
         "priceMult": 0.05,
         "output": {
-          "item": "mysticalworld:lead_ore",
+          "item": "eidolon:lead_ore",
           "count": 3
         }
       },
