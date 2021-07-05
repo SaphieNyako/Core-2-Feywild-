@@ -1,0 +1,16 @@
+{
+    "type": "betterendforge:alloying",
+    "ingredients": [
+      {
+        "item": "mysticalworld:silver_ore"
+      },
+      {
+        "item": "mysticalworld:silver_ore"
+      }
+    ],
+    "result": {
+      "item": "mysticalworld:silver_ingot",
+      "count": 3
+    },
+    "experience": 2.1
+  }

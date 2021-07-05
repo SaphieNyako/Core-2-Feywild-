@@ -1,0 +1,16 @@
+{
+    "type": "betterendforge:alloying",
+    "ingredients": [
+      {
+        "item": "create:crushed_copper_ore"
+      },
+      {
+        "item": "create:crushed_copper_ore"
+      }
+    ],
+    "result": {
+      "item": "create:copper_ingot",
+      "count": 4
+    },
+    "experience": 2.1
+  }

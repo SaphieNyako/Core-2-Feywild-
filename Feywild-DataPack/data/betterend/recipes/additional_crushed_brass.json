@@ -1,0 +1,16 @@
+{
+    "type": "betterendforge:alloying",
+    "ingredients": [
+      {
+        "item": "create:crushed_brass"
+      },
+      {
+        "item": "create:crushed_brass"
+      }
+    ],
+    "result": {
+      "item": "create:brass_ingot",
+      "count": 4
+    },
+    "experience": 2.1
+  }

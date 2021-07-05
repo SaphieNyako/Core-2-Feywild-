@@ -1,0 +1,16 @@
+{
+    "type": "betterendforge:alloying",
+    "ingredients": [
+      {
+        "item": "create:crushed_zinc_ore"
+      },
+      {
+        "item": "create:crushed_copper_ore"
+      }
+    ],
+    "result": {
+      "item": "create:brass_ingot",
+      "count": 3
+    },
+    "experience": 2.1
+  }

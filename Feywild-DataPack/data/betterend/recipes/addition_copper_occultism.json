@@ -1,0 +1,16 @@
+{
+    "type": "betterendforge:alloying",
+    "ingredients": [
+      {
+        "item": "occultism:copper_ore"
+      },
+      {
+        "item": "occultism:copper_ore"
+      }
+    ],
+    "result": {
+      "item": "occultism:copper_ingot",
+      "count": 3
+    },
+    "experience": 2.1
+  }

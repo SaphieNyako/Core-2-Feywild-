@@ -1,0 +1,16 @@
+{
+    "type": "betterendforge:alloying",
+    "ingredients": [
+      {
+        "item": "mysticalworld:tin_ore"
+      },
+      {
+        "item": "mysticalworld:tin_ore"
+      }
+    ],
+    "result": {
+      "item": "mysticalworld:tin_ingot",
+      "count": 3
+    },
+    "experience": 2.1
+  }

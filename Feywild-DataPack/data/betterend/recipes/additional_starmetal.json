@@ -1,0 +1,16 @@
+{
+    "type": "betterendforge:alloying",
+    "ingredients": [
+      {
+        "item": "astralsorcery:starmetal_ore"
+      },
+      {
+        "item": "astralsorcery:starmetal_ore"
+      }
+    ],
+    "result": {
+      "item": "astralsorcery:starmetal_ingot",
+      "count": 3
+    },
+    "experience": 2.1
+  }

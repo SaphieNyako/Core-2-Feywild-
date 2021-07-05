@@ -1,0 +1,16 @@
+{
+    "type": "betterendforge:alloying",
+    "ingredients": [
+      {
+        "item": "eidolon:pewter_blend"
+      },
+      {
+        "item": "eidolon:pewter_blend"
+      }
+    ],
+    "result": {
+      "item": "eidolon:pewter_ingot",
+      "count": 3
+    },
+    "experience": 2.1
+  }

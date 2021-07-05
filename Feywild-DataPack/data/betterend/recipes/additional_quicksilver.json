@@ -1,0 +1,16 @@
+{
+    "type": "betterendforge:alloying",
+    "ingredients": [
+      {
+        "item": "mysticalworld:quicksilver_ore"
+      },
+      {
+        "item": "mysticalworld:quicksilver_ore"
+      }
+    ],
+    "result": {
+      "item": "mysticalworld:quicksilver_ingot",
+      "count": 3
+    },
+    "experience": 2.1
+  }

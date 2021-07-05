@@ -1,0 +1,16 @@
+{
+    "type": "betterendforge:alloying",
+    "ingredients": [
+      {
+        "item": "occultism:eisnium_ore"
+      },
+      {
+        "item": "occultism:eisnium_ore"
+      }
+    ],
+    "result": {
+      "item": "occultism:eisnium_ingot",
+      "count": 3
+    },
+    "experience": 2.1
+  }
