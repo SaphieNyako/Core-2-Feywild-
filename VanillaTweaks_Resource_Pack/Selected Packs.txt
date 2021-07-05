@@ -1,0 +1,10 @@
+Vanilla Tweaks Resource Pack
+Version: 1.17
+Packs:
+	RedIronGolemFlowers
+	BetterParticles
+	VariatedBookshelves
+	Age25Kelp
+	3DMushrooms
+	3DLilyPads
+	SmootherFont

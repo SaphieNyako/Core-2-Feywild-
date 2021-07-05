@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+      "item": "botania:pixie_dust"
+    },
+    "result": "feywild:fey_dust",
+    "count": 2
+  }
