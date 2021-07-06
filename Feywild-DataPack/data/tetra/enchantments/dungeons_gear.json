@@ -1,0 +1,12 @@
+[
+    {
+        "enchantment": "dungeons_gear:prospector",
+        "improvement": "dungeons_gear_prospector",
+        "extract": false
+    },
+    {
+        "enchantment": "dungeons_gear:leeching",
+        "improvement": "dungeons_gear:leeching",
+        "extract": false
+    }
+]
