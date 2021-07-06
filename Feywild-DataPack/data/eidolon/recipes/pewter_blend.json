@@ -1,0 +1,37 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "eidolon:lead_ingot"
+      },
+      {
+        "item": "mysticalworld:tin_ingot"
+      },
+      {
+        "item": "mysticalworld:tin_ingot"
+      },
+      {
+        "item": "mysticalworld:tin_ingot"
+      },
+      {
+        "item": "mysticalworld:tin_ingot"
+      },
+      {
+        "item": "mysticalworld:tin_ingot"
+      },
+      {
+        "item": "mysticalworld:tin_ingot"
+      },
+      {
+        "item": "mysticalworld:tin_ingot"
+      },
+      {
+        "item": "mysticalworld:tin_ingot"
+      }
+    ],
+    "result": {
+      "item": "eidolon:pewter_blend",
+      "count" : 9
+    }
+}
+  
