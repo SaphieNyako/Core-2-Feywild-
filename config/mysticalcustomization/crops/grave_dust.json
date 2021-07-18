@@ -1,0 +1,14 @@
+{
+    "name": "Grave Dust",
+    "type": "resource",
+    "tier": "mysticalagriculture:4",
+    "ingredient": {
+      "item": "tombstone:grave_dust"
+    },
+    "color": "a5b6b4",
+    "textures": {
+        "flower": "mysticalagriculture:block/flower_dust",
+        "seeds": "mysticalagriculture:item/mystical_seeds",
+        "essence": "mysticalagriculture:item/essence_dust"
+    }
+  }

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",        
+        "#X#",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "mysticalagriculture:grave_dust_essence"
+        },
+        "X": {
+            "item": "minecraft:flint"
+        }
+    },
+    "result": {"item": "tombstone:grave_dust", "count": 4}
+}

@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",        
+        "###",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "mysticalagriculture:mana_gem_essence"
+        }
+    },
+    "result": {"item": "ars_nouveau:mana_gem", "count": 4}
+}

@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",        
+        "# #",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "mysticalagriculture:quicksilver_essence"
+        }
+    },
+    "result": {"item": "mysticalworld:quicksilver_ingot", "count": 4}
+}

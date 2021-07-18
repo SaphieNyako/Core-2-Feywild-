@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",        
+        "# #",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "mysticalagriculture:terminite_essence"
+        }
+    },
+    "result": {"item": "betterendforge:terminite_ingot", "count": 4}
+}

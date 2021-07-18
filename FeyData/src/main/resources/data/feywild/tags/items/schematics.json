@@ -1,0 +1,10 @@
+{
+  "replace": true,
+  "values": [
+    "feywild:schematics_gem_transmutation",
+    "feywild:schematics_fey_altar",
+    "feydata:schematics_dungeons_gear_weapons",
+    "feydata:schematics_dungeons_gear_artifacts",
+    "feydata:schematics_dungeons_gear_armor"
+  ]
+}

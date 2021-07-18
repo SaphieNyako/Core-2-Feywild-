@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",        
+        "###",
+        "   "
+    ],
+    "key": {
+        "#": {
+            "item": "mysticalagriculture:sprout_essence"
+        }
+    },
+    "result": {"item": "mysticalworld:aubergine", "count": 16}
+}

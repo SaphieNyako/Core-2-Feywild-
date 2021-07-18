@@ -1,0 +1,83 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "functions": [
+                      {
+                        "function": "minecraft:set_count",
+                        "count": {
+                          "min": 0.0,
+                          "max": 1.0,
+                          "type": "minecraft:uniform"
+                        }
+                      },
+                      {
+                        "function": "minecraft:looting_enchant",
+                        "count": {
+                          "min": 0.0,
+                          "max": 2.0
+                        }
+                      }
+                    ],
+                    "name": "tombstone:grave_dust",
+                    "weight": 20
+                  },
+                  {
+                    "type": "minecraft:item",
+                    "functions": [
+                      {
+                        "function": "minecraft:set_count",
+                        "count": {
+                          "min": 0.0,
+                          "max": 1.0,
+                          "type": "minecraft:uniform"
+                        }
+                      },
+                      {
+                        "function": "minecraft:looting_enchant",
+                        "count": {
+                          "min": 0.0,
+                          "max": 2.0
+                        }
+                      }
+                    ],
+                    "name": "eidolon:soul_shard",
+                    "weight": 10
+                  },
+                  {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "dungeons_gear:harvester",
+                    "conditions": [
+                        {
+                            "condition": "killed_by_player"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "dungeons_gear:soul_hood",
+                    "conditions": [
+                        {
+                            "condition": "killed_by_player"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "dungeons_gear:soul_robe",
+                    "conditions": [
+                        {
+                            "condition": "killed_by_player"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
