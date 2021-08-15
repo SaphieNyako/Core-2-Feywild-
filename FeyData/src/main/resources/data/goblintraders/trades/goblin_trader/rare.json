@@ -68,7 +68,7 @@
                 {
         "type": "goblintraders:basic",
         "offer_item": {
-          "item": "feywild:music_disc_feywild",
+          "item": "feywild:feywild_music_disc",
           "count": 1
         },
         "payment_item": {

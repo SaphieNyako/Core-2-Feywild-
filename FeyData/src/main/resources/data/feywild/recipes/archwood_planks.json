@@ -2,7 +2,7 @@
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
       {
-        "tag": "forge:logs/fey_logs"
+        "tag": "feywild:fey_logs"
       }
     ],
     "result": {
@@ -10,3 +10,5 @@
       "count": 4
     }
   }
+
+

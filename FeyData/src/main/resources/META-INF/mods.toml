@@ -123,13 +123,6 @@ description="Feywild Modpack Mod"
       versionRange="[1.16.5-0.13.0,)"
       ordering="AFTER"
       side="BOTH"
-# TETRA
- [[dependencies.feydata]]
-      modId="tetra"
-      mandatory=true
-      versionRange="[1.16.5-3.14.1,)"
-      ordering="AFTER"
-      side="BOTH"
 # INFERNAL EXPANSION
  [[dependencies.feydata]]
       modId="infernalexp"
