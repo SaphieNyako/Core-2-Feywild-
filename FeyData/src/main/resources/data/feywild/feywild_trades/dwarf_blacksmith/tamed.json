@@ -45,9 +45,137 @@
           {
             "item": "minecraft:lapis_lazuli",
             "count": 6
+          },
+          {
+            "item": "ars_nouveau:mana_gem",
+            "count": 6
+          },
+          {
+            "item": "mysticalworld:quicksilver_ore",
+            "count": 3
+          },
+          {
+            "item": "mysticalworld:tin_ore",
+            "count": 3
+          },
+          {
+            "item": "druidcraft:fiery_glass",
+            "count": 4
+          },
+          {
+            "item": "druidcraft:amber",
+            "count": 4
+          },
+          {
+            "item": "occultism:silver_ore",
+            "count": 3
+          },
+          {
+            "item": "create:copper_ore",
+            "count": 3
+          },
+          {
+            "item": "eidolon:lead_ore",
+            "count": 3
           }
         ],
         "input": [
+          {
+            "item": "farmersdelight:noodle_soup",
+            "count": 2
+          },
+          {
+            "item": "farmersdelight:pumpkin_soup",
+            "count": 2
+          },
+          {
+            "item": "farmersdelight:fried_rice",
+            "count": 2
+          },
+          {
+            "item": "farmersdelight:fish_stew",
+            "count": 2
+          },
+          {
+            "item": "farmersdelight:chicken_soup",
+            "count": 2
+          },
+          {
+            "item": "farmersdelight:beef_stew",
+            "count": 2
+          },
+          {
+            "item": "farmersdelight:cabbage_rolls",
+            "count": 3
+          },
+          {
+            "item": "farmersdelight:stuffed_potato",
+            "count": 2
+          },
+          {
+            "item": "farmersdelight:dumplings",
+            "count": 2
+          },
+          {
+            "item": "farmersdelight:hamburger",
+            "count": 2
+          },
+          {
+            "item": "farmersdelight:chicken_sandwich",
+            "count": 2
+          },
+          {
+            "item": "farmersdelight:egg_sandwich",
+            "count": 2
+          },
+          {
+            "item": "farmersdelight:barbecue_stick",
+            "count": 2
+          },
+          {
+            "item": "farmersdelight:melon_popsicle",
+            "count": 1
+          },
+          {
+            "item": "farmersdelight:honey_cookie",
+            "count": 4
+          },
+          {
+            "item": "farmersdelight:sweet_berry_cookie",
+            "count": 4
+          },
+          {
+            "item": "create:honeyed_apple",
+            "count": 2
+          },
+          {
+            "item": "create:sweet_roll",
+            "count": 2
+          },
+          {
+            "item": "druidcraft:blueberry_muffin",
+            "count": 2
+          },
+          {
+            "item": "mysticalworld:stuffed_aubergine",
+            "count": 1
+          },
+          {
+            "item": "mysticalworld:cooked_squid",
+            "count": 2
+          },
+          {
+            "item": "mysticalworld:cooked_beetroot",
+            "count": 4
+          },
+          {
+            "item": "mysticalworld:cooked_carrot",
+            "count": 4
+          },
+          {
+            "item": "mysticalworld:cooked_aubergine",
+            "count": 4
+          },
           {
             "item": "minecraft:apple",
             "count": 4
@@ -98,6 +226,14 @@
         "output": [
           [
             {
+              "item": "druidcraft:moonstone",
+              "count": 3
+            },
+            {
+            "item": "mysticalworld:amethyst",
+            "count": 3
+            },
+            {
               "item": "minecraft:diamond",
               "count": 3
             },
@@ -113,6 +249,70 @@
         ],
         "input": [
           [
+            {
+              "item": "farmersdelight:grilled_salmon",
+              "count": 2
+            },
+            {
+              "item": "farmersdelight:squid_ink_pasta",
+              "count": 2
+            },
+            {
+              "item": "farmersdelight:ratatouille",
+              "count": 2
+            },
+            {
+              "item": "farmersdelight:roasted_mutton_chops",
+              "count": 2
+            },
+            {
+              "item": "farmersdelight:pasta_with_meatballs",
+              "count": 2
+            },
+            {
+              "item": "farmersdelight:mixed_salad",
+              "count": 3
+            },
+            {
+            "item": "farmersdelight:fruit_salad",
+            "count": 3
+          },
+            {
+            "item": "farmersdelight:chocolate_pie",
+            "count": 2
+            },
+            {
+            "item": "farmersdelight:sweet_berry_cheesecake",
+            "count": 2
+            },
+            {
+              "item": "farmersdelight:apple_pie",
+              "count": 2
+            },
+            {
+              "item": "druidcraft:apple_elderberry_crumble",
+              "count": 2
+            },
+            {
+            "item": "mysticalworld:stewed_eggplant",
+            "count": 3
+            },
+            {
+            "item": "mysticalworld:cactus_dandelion_salad",
+            "count": 3
+            },
+            {
+              "item": "mysticalworld:aubergine_salad",
+              "count": 3
+            },
+            {
+            "item": "wyrmroost:cooked_desertwyrm",
+            "count": 2
+            },
+            {
+              "item": "supplementaries:pancake",
+              "count": 6
+            },
             {
               "item": "minecraft:cake",
               "count": 2

@@ -4,6 +4,118 @@
     "trades": [
       {
         "input": {
+          "item": "eidolon:lead_ore",
+          "count": [
+            3,
+            4
+          ]
+        },
+        "output": {
+          "item": "feywild:lesser_fey_gem",
+          "count": 1
+        },
+        "uses": 5,
+        "exp": 1,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "create:copper_ore",
+          "count": [
+            3,
+            4
+          ]
+        },
+        "output": {
+          "item": "feywild:lesser_fey_gem",
+          "count": 1
+        },
+        "uses": 5,
+        "exp": 1,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "druidcraft:fiery_glass",
+          "count": [
+            3,
+            4
+          ]
+        },
+        "output": {
+          "item": "feywild:lesser_fey_gem",
+          "count": 1
+        },
+        "uses": 5,
+        "exp": 1,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "mysticalworld:quicksilver_ore",
+          "count": [
+            3,
+            4
+          ]
+        },
+        "output": {
+          "item": "feywild:lesser_fey_gem",
+          "count": 1
+        },
+        "uses": 5,
+        "exp": 1,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "mysticalworld:tin_ore",
+          "count": [
+            3,
+            4
+          ]
+        },
+        "output": {
+          "item": "feywild:lesser_fey_gem",
+          "count": 1
+        },
+        "uses": 5,
+        "exp": 1,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "wyrmroost:blue_geode",
+          "count": [
+           4,
+            5
+          ]
+        },
+        "output": {
+          "item": "feywild:lesser_fey_gem",
+          "count": 1
+        },
+        "uses": 5,
+        "exp": 1,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "ars_nouveau:mana_gem",
+          "count": [
+            4,
+            8
+          ]
+        },
+        "output": {
+          "item": "feywild:lesser_fey_gem",
+          "count": 1
+        },
+        "uses": 5,
+        "exp": 1,
+        "mul": 0.05
+      },
+      {
+        "input": {
           "item": "minecraft:iron_ore",
           "count": [
             3,
