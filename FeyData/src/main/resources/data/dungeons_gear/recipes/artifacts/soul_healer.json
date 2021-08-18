@@ -1,0 +1,27 @@
+{
+  "type": "feywild:dwarven_anvil",
+  "mana": 1000,
+  "output": {
+    "item": "dungeons_gear:soul_healer"
+  },
+  "schematics": {
+    "item": "feydata:schematics_dungeons_gear_artifacts"
+  },
+  "ingredients": [
+    {
+      "item": "occultism:soul_gem"
+    },
+    {
+      "item": "mysticalagriculture:soul_dust"
+    },
+    {
+      "item": "mysticalagriculture:soul_dust"
+    },
+    {
+      "item": "tombstone:grave_dust"
+    },
+    {
+      "item": "tombstone:grave_dust"
+    }
+  ]
+}

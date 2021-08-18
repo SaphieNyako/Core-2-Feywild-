@@ -1,0 +1,27 @@
+{
+  "type": "feywild:dwarven_anvil",
+  "mana": 500,
+  "output": {
+    "item": "dungeons_gear:champions_chestplate"
+  },
+  "schematics": {
+    "item": "feydata:schematics_dungeons_gear_armor"
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:iron_chestplate"
+    },
+    {
+      "item": "druidcraft:chitin"
+    },
+    {
+      "item": "occultism:silver_ingot"
+    },
+    {
+      "item": "occultism:silver_ingot"
+    },
+    {
+      "item": "occultism:silver_ingot"
+    }
+  ]
+}

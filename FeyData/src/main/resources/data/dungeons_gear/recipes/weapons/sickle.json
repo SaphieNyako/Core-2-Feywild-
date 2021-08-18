@@ -1,0 +1,28 @@
+{
+  "type": "feywild:dwarven_anvil",
+  "mana": 1000,
+  "output": {
+    "item": "dungeons_gear:sickle",
+    "count": 2
+  },
+  "schematics": {
+    "item": "feydata:schematics_dungeons_gear_weapons"
+  },
+  "ingredients": [
+    {
+      "item": "druidcraft:iron_sickle"
+    },
+    {
+      "item": "druidcraft:iron_sickle"
+    },
+    {
+      "item": "feywild:greater_fey_gem"
+    },
+    {
+      "item": "feywild:greater_fey_gem"
+    },
+    {
+      "item": "feywild:autumn_tree_sapling"
+    }
+  ]
+}

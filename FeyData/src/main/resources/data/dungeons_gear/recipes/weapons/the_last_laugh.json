@@ -1,0 +1,28 @@
+{
+  "type": "feywild:dwarven_anvil",
+  "mana": 1000,
+  "output": {
+    "item": "dungeons_gear:the_last_laugh",
+    "count": 2
+  },
+  "schematics": {
+    "item": "feydata:schematics_dungeons_gear_weapons"
+  },
+  "ingredients": [
+    {
+      "item": "dungeons_gear:sickle"
+    },
+    {
+      "item": "dungeons_gear:sickle"
+    },
+    {
+      "item": "druidcraft:amber"
+    },
+    {
+      "item": "druidcraft:amber"
+    },
+    {
+      "item": "feywild:summer_tree_sapling"
+    }
+  ]
+}

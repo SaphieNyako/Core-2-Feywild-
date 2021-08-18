@@ -1,0 +1,27 @@
+{
+  "type": "feywild:dwarven_anvil",
+  "mana": 1000,
+  "output": {
+    "item": "dungeons_gear:archers_vest"
+  },
+  "schematics": {
+    "item": "feydata:schematics_dungeons_gear_armor"
+  },
+  "ingredients": [
+    {
+      "item": "dungeons_gear:hunters_vest"
+    },
+    {
+      "item": "druidcraft:crushed_fiery_glass"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "feywild:dwarven_anvil",
+  "mana": 1000,
+  "output": {
+    "item": "dungeons_gear:winters_touch"
+  },
+  "schematics": {
+    "item": "feydata:schematics_dungeons_gear_weapons"
+  },
+  "ingredients": [
+    {
+      "item": "dungeons_gear:snow_bow"
+    },
+    {
+      "item": "minecraft:packed_ice"
+    },
+    {
+      "item": "minecraft:packed_ice"
+    },
+    {
+      "item": "feywild:greater_fey_gem"
+    },
+    {
+      "item": "feywild:winter_tree_sapling"
+    }
+  ]
+}

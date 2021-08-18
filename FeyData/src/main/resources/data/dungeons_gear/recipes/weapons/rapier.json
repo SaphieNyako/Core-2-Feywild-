@@ -1,0 +1,27 @@
+{
+  "type": "feywild:dwarven_anvil",
+  "mana": 500,
+  "output": {
+    "item": "dungeons_gear:rapier"
+  },
+  "schematics": {
+    "item": "feydata:schematics_dungeons_gear_weapons"
+  },
+  "ingredients": [
+    {
+      "tag": "feywild:fey_logs"
+    },
+    {
+      "item": "feywild:greater_fey_gem"
+    },
+    {
+      "item": "feywild:greater_fey_gem"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "feywild:dwarven_anvil",
+  "mana": 1000,
+  "output": {
+    "item": "dungeons_gear:bee_stinger"
+  },
+  "schematics": {
+    "item": "feydata:schematics_dungeons_gear_weapons"
+  },
+  "ingredients": [
+    {
+      "item": "dungeons_gear:rapier"
+    },
+    {
+      "item": "minecraft:bee_nest"
+    },
+    {
+      "item": "feywild:summoning_scroll"
+    },
+    {
+      "item": "feywild:greater_fey_gem"
+    },
+    {
+      "item": "feywild:summer_tree_sapling"
+    }
+  ]
+}

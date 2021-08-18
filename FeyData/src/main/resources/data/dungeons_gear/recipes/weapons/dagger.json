@@ -1,0 +1,28 @@
+{
+  "type": "feywild:dwarven_anvil",
+  "mana": 500,
+  "output": {
+    "item": "dungeons_gear:dagger",
+    "count": 2
+  },
+  "schematics": {
+    "item": "feydata:schematics_dungeons_gear_weapons"
+  },
+  "ingredients": [
+    {
+      "tag": "feywild:fey_logs"
+    },
+    {
+      "tag": "feywild:fey_logs"
+    },
+    {
+      "item": "ars_nouveau:wilden_horn"
+    },
+    {
+      "item": "ars_nouveau:wilden_horn"
+    },
+    {
+      "item": "minecraft:redstone"
+    }
+  ]
+}

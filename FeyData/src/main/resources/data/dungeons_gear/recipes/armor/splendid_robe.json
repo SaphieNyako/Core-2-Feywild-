@@ -1,0 +1,27 @@
+{
+  "type": "feywild:dwarven_anvil",
+  "mana": 1000,
+  "output": {
+    "item": "dungeons_gear:splendid_robe"
+  },
+  "schematics": {
+    "item": "feydata:schematics_dungeons_gear_armor"
+  },
+  "ingredients": [
+    {
+      "item": "dungeons_gear:battle_robe"
+    },
+    {
+      "item": "ars_nouveau:mana_gem"
+    },
+    {
+      "item": "druidcraft:purple_soulfire"
+    },
+    {
+      "item": "druidcraft:purple_soulfire"
+    },
+    {
+      "item": "ars_nouveau:mana_gem"
+    }
+  ]
+}

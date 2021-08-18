@@ -1,0 +1,27 @@
+{
+  "type": "feywild:dwarven_anvil",
+  "mana": 500,
+  "output": {
+    "item": "dungeons_gear:hunters_vest"
+  },
+  "schematics": {
+    "item": "feydata:schematics_dungeons_gear_armor"
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:leather_chestplate"
+    },
+    {
+      "item": "druidcraft:crushed_fiery_glass"
+    },
+    {
+      "tag": "minecraft:arrows"
+    },
+    {
+      "tag": "minecraft:arrows"
+    },
+    {
+      "tag": "minecraft:arrows"
+    }
+  ]
+}
