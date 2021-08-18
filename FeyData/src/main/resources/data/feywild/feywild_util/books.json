@@ -79,5 +79,13 @@
     "mod": "antiqueatlas",
     "item": "antiqueatlas:empty_antique_atlas",
     "count": 1
+  },
+  {
+    "mod": "feydata",
+    "item": "patchouli:guide_book",
+    "nbt": {
+      "patchouli:book": "patchouli:book_of_dragons"
+    },
+    "count": 1
   }
 ]
