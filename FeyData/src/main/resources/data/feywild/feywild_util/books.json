@@ -87,20 +87,5 @@
       "patchouli:book": "patchouli:book_of_dragons"
     },
     "count": 1
-  },
-  {
-    "mod": "feydata",
-    "item": "feydata:schematics_dungeons_gear_armor",
-    "count": 1
-  },
-  {
-    "mod": "feydata",
-    "item": "feydata:schematics_dungeons_gear_artifacts",
-    "count": 1
-  },
-  {
-    "mod": "feydata",
-    "item": "feydata:schematics_dungeons_gear_weapons",
-    "count": 1
   }
 ]
