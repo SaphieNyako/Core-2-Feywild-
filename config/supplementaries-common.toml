@@ -3,7 +3,7 @@
 [blocks]
 
 	[blocks.blackboard]
-		#Enable to draw directly on a blackboard using any dye. Gui still only works in black and white
+		#enable to draw directly on a blackboard using any dye. Gui still only works in black and white
 		colored_blackboard = false
 
 	[blocks.turn_table]
@@ -13,24 +13,24 @@
 		blacklist = ["minecraft:end_portal_frame"]
 
 	[blocks.candle_holder]
-		#Candle holder light level
+		#candle holder light level
 		#Range: 1 ~ 15
 		light_level = 12
 
 	[blocks.speaker_block]
-		#Maximum block range
-		#Range: 0 ~ 100000000
+		#maximum range
+		#Range: 0 ~ 256
 		range = 64
 
 	[blocks.sack]
-		#Penalize the player with slowness effect when carrying too many sacks
+		#additional sack slots divided by 2. Number of slots will be 5 + additional_slots*2
+		#Range: 0 ~ 2
+		additional_slots = 1
+		#penalize the player with slowness effect when carrying too many sacks
 		sack_penality = true
 		#maximum number of sacks after which the slowness effect will be applied. each multiple of this number will further slow the player down
 		#Range: 0 ~ 50
 		sack_increment = 2
-		#How many slots should a sack have
-		#Range: 1 ~ 27
-		slots = 9
 
 	[blocks.bellows]
 		#velocity increase uses this equation: 
@@ -109,9 +109,9 @@
 		dust_time = 150
 
 	[blocks.safe]
-		#Makes safes only breakable by their owner or by a player in creative
+		#makes safes only breakable by their owner or by a player in creative
 		prevent_breaking = false
-		#Make safes simpler so they do not require keys:
+		#make safes simpler so they do not require keys:
 		#they will be bound to the first person that opens one and only that person will be able to interact with them
 		simple_safes = false
 
@@ -122,25 +122,6 @@
 		#jar liquid capacity: leave at 12 for pixel accuracy
 		#Range: 0 ~ 1024
 		capacity = 12
-
-	[blocks.timber_frame]
-		#Replace a timber frame with wattle and daub block when daub is placed in it
-		replace_daub = true
-
-	[blocks.item_shelf]
-		#Makes item shelves climbable
-		climbable_shelves = false
-
-	[blocks.iron_gate]
-		#Allows two iron gates to be opened simultaneously when on top of the other
-		double_opening = true
-
-	[blocks.flag]
-		#Allows right/left clicking on a stick to lower/raise a flag attached to it
-		stick_pole = true
-		#Maximum allowed pole length
-		#Range: 0 ~ 256
-		pole_length = 16
 
 #Configure spawning conditions
 [spawns]
@@ -164,14 +145,14 @@
 	[spawns.structures]
 
 		[spawns.structures.way_sign]
-			#Average distance apart in chunks between spawn attempts
+			#average distance apart in chunks between spawn attempts
 			#Range: 0 ~ 1001
 			average_distance = 19
-			#With this option road signs will display the distance to the structure that they are pointing to
+			#with this option road signs will display the distance to the structure that they are pointing to
 			show_distance_text = true
 			#list of structure that a sign can point to. Note that they will only spawn in dimensions where vanilla villages can
 			villages = ["minecraft:village", "repurposed_structures:village_badlands", "repurposed_structures:village_dark_oak", "repurposed_structures:village_birch", "repurposed_structures:village_giant_taiga", "repurposed_structures:village_jungle", "repurposed_structures:village_mountains", "repurposed_structures:village_oak", "repurposed_structures:village_swamp", "pokecube:village", "pokecube_legends:village", "pokecube_legends:village/ocean", "valhelsia_structures:castle", "valhelsia_structures:castle_ruin", "valhelsia_structures:small_castle", "valhelsia_structures:tower_ruin"]
-			#Minimum distance apart in chunks between spawn attempts. 1001 to disable them entirely
+			#minimum distance apart in chunks between spawn attempts. 1001 to disable them entirely
 			#Range: 0 ~ 1001
 			minimum_distance = 10
 
@@ -204,6 +185,9 @@
 		#throw bricks at your foes! Might break glass blocks
 		enabled = true
 
+	[tweaks.adventurer_maps]
+		custom_adventurer_maps = [[""]]
+
 	[tweaks.hanging_flower_pots]
 		#allows you to place hanging flower pots. Works with any modded pot too
 		enabled = true
@@ -222,52 +206,15 @@
 		#bottling health cost
 		#Range: 0 ~ 20
 		cost = 2
-		#Allow bottling up xp by using a bottle on an enchanting table
+		#allow bottling up xp by using a bottle on an enchanting table
 		enabled = true
 
 	[tweaks.bells_tweaks]
-		#Ring a bell by clicking on a chain that's connected to it
+		#ring a bell by clicking on a chain that's connected to it
 		chain_ringing = true
-		#Max chain length that allows a bell to ring
-		#Range: 0 ~ 256
+		#max chain length that allows a bell to ring
+		#Range: 0 ~ 1024
 		chain_length = 16
-
-	[tweaks.placeable_sticks]
-		#allow placeable blaze rods
-		enabled = true
-
-	[tweaks.map_tweaks]
-		#In this section you can add custom structure maps to cartographers
-		#The format required is as follows:
-		#[[<structure>,<level>,<min_price>,<max_price>,<map_name>,<map_color>,<map_marker>],[<structure>,...,<map_marker>],...]
-		#With the following parameters:
-		# - <structure> structure id to be located (ie: minecraft:igloo)
-		# - <level> villager trading level at which the map will be sold. Must be between 1 and 5
-		# - <min_price> minimum emerald price
-		# - <max_price> maximum emerald price
-		# - <map_name> map item name
-		# - <map_color> hex color of the map item overlay texture
-		# - <map_marker> id of the map marker to be used (ie: supplementaries:igloo). 
-		#See texture folder for all the names. Leave empty for default ones
-		#Note that ony the first parameter is required, each of the others others can me removed and will be defaulted to reasonable values
-		#example: ['minecraft:swamp_hut','2','5','7','witch hut map','0x00ff33']
-		custom_adventurer_maps = [[""]]
-		#Cartographers will sell 'adventurer maps' that will lead to a random vanilla structure (choosen from a thought out preset list).
-		#Best kept disabled if you are adding custom adventurer maps with its config
-		random_adventurer_maps = true
-		#enables beacons, lodestones, respawn anchors, beds, conduits, portals to be displayed on maps by clicking one of them with a map
-		block_map_markers = true
-
-	[tweaks.ceiling_banners]
-		#Allow banners to be placed on ceilings
-		enabled = true
-
-	[tweaks.zombie_horse]
-		#Feed a stack of rotten flesh to a skeleton horse to buff him up to a zombie horse
-		zombie_horse_conversion = true
-		#Amount of rotten flesh needed
-		#Range: 1 ~ 1000
-		rotten_flesh = 64
 
 [items]
 
@@ -280,14 +227,6 @@
 		unbound_radius = 64
 
 	[items.rope_arrow]
-		#If you don't like my ropes you can specify here the block id ofa rope from another mod which will get deployed by rope arrows instead of mine
+		#If you really don't like my ropes you can specify here the block id ofa rope from another mod which will get deployed by rope arrows instead of mine
 		rope_arrow_override = "supplementaries:rope"
-
-	[items.bomb]
-		#Bomb explosion radius (damage depends on this)
-		#Range: 0.1 ~ 10.0
-		explosion_radius = 2.0
-		#Do bombs break blocks like tnt?
-		#Allowed Values: ALL, WEAK, NONE
-		break_blocks = "WEAK"
 
