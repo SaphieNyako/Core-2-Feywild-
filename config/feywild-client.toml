@@ -1,6 +1,0 @@
-
-#Performance config.
-[Performance]
-	#Spawn tree particles.
-	spawnTreeParticles = true
-

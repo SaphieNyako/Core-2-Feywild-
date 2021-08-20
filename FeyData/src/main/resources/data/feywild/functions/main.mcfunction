@@ -1,1 +1,0 @@
-execute as @e[type=creeper,sort=random,limit=1] at @s run function feywild:spawn

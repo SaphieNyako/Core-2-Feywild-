@@ -1,0 +1,26 @@
+[
+    {
+        "key": "dungeons_gear_prospector",
+        "level": 1,
+        "enchantment": true,
+        "magicCapacity": -38.0
+    },
+    {
+        "key": "naturesaura_naturesmend",
+        "level": 1,
+        "enchantment": true,
+        "magicCapacity": -38.0
+    },
+    {
+        "key": "ars_nouveau_mana_boost",
+        "level": 1,
+        "enchantment": true,
+        "magicCapacity": -38.0
+    },
+    {
+        "key": "ars_nouveau_mana_regen",
+        "level": 1,
+        "enchantment": true,
+        "magicCapacity": -38.0
+    }
+]
