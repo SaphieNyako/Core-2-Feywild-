@@ -38,7 +38,7 @@
 		#If enabled, waystones generated in worldgen are unbreakable.
 		generatedWaystonesUnbreakable = true
 		#If enabled, only the owner of a waystone (the one who placed it) can rename it.
-		restrictRenameToOwner =true
+		restrictRenameToOwner = true
 
 	#Note: Base XP cost is based on the distance travelled.
 	[server.baseXpCost]
