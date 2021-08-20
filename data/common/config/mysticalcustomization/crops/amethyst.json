@@ -1,0 +1,14 @@
+{
+    "name": "amethyst",
+    "type": "resource",
+    "tier": "mysticalagriculture:5",
+    "ingredient": {
+        "item": "mysticalworld:amethyst"
+    },
+    "colors": "aa57f4",
+    "textures": {
+        "flower": "mysticalagriculture:block/flower_rock",
+        "seeds": "mysticalagriculture:item/mystical_seeds",
+        "essence": "mysticalagriculture:item/essence_rock"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Mana Gem",
+    "type": "resource",
+    "tier": "mysticalagriculture:3",
+    "ingredient": {
+      "item": "ars_nouveau:mana_gem"
+    },
+    "color": "aa57f4",
+    "textures": {
+        "flower": "mysticalagriculture:block/flower_rock",
+        "seeds": "mysticalagriculture:item/mystical_seeds",
+        "essence": "mysticalagriculture:item/essence_gem"
+    }
+  }

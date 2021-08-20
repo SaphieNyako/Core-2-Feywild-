@@ -1,0 +1,14 @@
+{
+    "name": "Hell Sprout",
+    "type": "mob",
+    "tier": "mysticalagriculture:2",
+    "ingredient": {
+      "item": "mysticalworld:hell_sprout"
+    },
+    "color": "f71c45",
+    "textures": {
+        "flower": "mysticalagriculture:block/flower_face",
+        "seeds": "mysticalagriculture:item/mystical_seeds",
+        "essence": "mysticalagriculture:item/essence_flame"
+    }
+  }
