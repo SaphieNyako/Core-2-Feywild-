@@ -1,0 +1,27 @@
+{
+  "type": "feywild:dwarven_anvil",
+  "mana": 1000,
+  "output": {
+    "item": "dungeons_gear:tasty_bone"
+  },
+  "schematics": {
+    "item": "feydata:schematics_dungeons_gear_artifacts"
+  },
+  "ingredients": [
+    {
+      "item": "farmersdelight:dog_food"
+    },
+    {
+      "item": "farmersdelight:dog_food"
+    },
+    {
+      "item": "farmersdelight:dog_food"
+    },
+    {
+      "item": "dungeons_gear:wolf_vest"
+    },
+    {
+      "item": "dungeons_gear:wolf_hood"
+    }
+  ]
+}

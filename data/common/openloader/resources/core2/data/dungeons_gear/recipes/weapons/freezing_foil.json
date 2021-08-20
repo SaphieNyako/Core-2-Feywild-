@@ -1,27 +1,27 @@
 {
-    "type": "feywild:dwarven_anvil",
-    "ingredients": [
-        {
-          "item": "feywild:schematics_dungeons_gear_weapons"
-        },
-      {
-        "item": "dungeons_gear:rapier"
-      },
-      {
-          "item": "minecraft:packed_ice"
-      },
-      {
-        "item": "minecraft:packed_ice"
-      },
-      {
-          "item": "feywild:greater_fey_gem"
-      },
-      {
-        "item": "feywild:winter_tree_sapling"
-      }
-    ],
-    "output": {
-      "item": "dungeons_gear:freezing_foil"
+  "type": "feywild:dwarven_anvil",
+  "mana": 1000,
+  "output": {
+    "item": "dungeons_gear:freezing_foil"
+  },
+  "schematics": {
+    "item": "feydata:schematics_dungeons_gear_weapons"
+  },
+  "ingredients": [
+    {
+      "item": "dungeons_gear:rapier"
     },
-    "mana_usage": 1000
-  }
+    {
+      "item": "minecraft:packed_ice"
+    },
+    {
+      "item": "minecraft:packed_ice"
+    },
+    {
+      "item": "feywild:greater_fey_gem"
+    },
+    {
+      "item": "feywild:winter_tree_sapling"
+    }
+  ]
+}

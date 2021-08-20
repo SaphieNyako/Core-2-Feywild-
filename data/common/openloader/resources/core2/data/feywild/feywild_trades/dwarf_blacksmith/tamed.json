@@ -1,0 +1,411 @@
+[
+  {
+    "amount": 4,
+    "duplicates": true,
+    "trades": [
+      {
+        "weight": 3,
+        "output": [
+          {
+            "item": "minecraft:cobblestone",
+            "count": 20
+          },
+          {
+            "item": "minecraft:andesite",
+            "count": 10
+          },
+          {
+            "item": "minecraft:diorite",
+            "count": 10
+          },
+          {
+            "item": "minecraft:granite",
+            "count": 15
+          },
+          {
+            "item": "minecraft:coal",
+            "count": 25
+          },
+          {
+            "item": "minecraft:clay",
+            "count": 8
+          },
+          {
+            "item": "minecraft:redstone",
+            "count": 6
+          },
+          {
+            "item": "minecraft:iron_ore",
+            "count": 3
+          },
+          {
+            "item": "minecraft:gold_ore",
+            "count": 3
+          },
+          {
+            "item": "minecraft:lapis_lazuli",
+            "count": 6
+          },
+          {
+            "item": "ars_nouveau:mana_gem",
+            "count": 6
+          },
+          {
+            "item": "mysticalworld:quicksilver_ore",
+            "count": 3
+          },
+          {
+            "item": "mysticalworld:tin_ore",
+            "count": 3
+          },
+          {
+            "item": "druidcraft:fiery_glass",
+            "count": 4
+          },
+          {
+            "item": "druidcraft:amber",
+            "count": 4
+          },
+          {
+            "item": "occultism:silver_ore",
+            "count": 3
+          },
+          {
+            "item": "create:copper_ore",
+            "count": 3
+          },
+          {
+            "item": "eidolon:lead_ore",
+            "count": 3
+          }
+        ],
+        "input": [
+          {
+            "item": "farmersdelight:noodle_soup",
+            "count": 2
+          },
+          {
+            "item": "farmersdelight:pumpkin_soup",
+            "count": 2
+          },
+          {
+            "item": "farmersdelight:fried_rice",
+            "count": 2
+          },
+          {
+            "item": "farmersdelight:fish_stew",
+            "count": 2
+          },
+          {
+            "item": "farmersdelight:chicken_soup",
+            "count": 2
+          },
+          {
+            "item": "farmersdelight:beef_stew",
+            "count": 2
+          },
+          {
+            "item": "farmersdelight:cabbage_rolls",
+            "count": 3
+          },
+          {
+            "item": "farmersdelight:stuffed_potato",
+            "count": 2
+          },
+          {
+            "item": "farmersdelight:dumplings",
+            "count": 2
+          },
+          {
+            "item": "farmersdelight:hamburger",
+            "count": 2
+          },
+          {
+            "item": "farmersdelight:chicken_sandwich",
+            "count": 2
+          },
+          {
+            "item": "farmersdelight:egg_sandwich",
+            "count": 2
+          },
+          {
+            "item": "farmersdelight:barbecue_stick",
+            "count": 2
+          },
+          {
+            "item": "farmersdelight:melon_popsicle",
+            "count": 1
+          },
+          {
+            "item": "farmersdelight:honey_cookie",
+            "count": 4
+          },
+          {
+            "item": "farmersdelight:sweet_berry_cookie",
+            "count": 4
+          },
+          {
+            "item": "create:honeyed_apple",
+            "count": 2
+          },
+          {
+            "item": "create:sweet_roll",
+            "count": 2
+          },
+          {
+            "item": "druidcraft:blueberry_muffin",
+            "count": 2
+          },
+          {
+            "item": "mysticalworld:stuffed_aubergine",
+            "count": 1
+          },
+          {
+            "item": "mysticalworld:cooked_squid",
+            "count": 2
+          },
+          {
+            "item": "mysticalworld:cooked_beetroot",
+            "count": 4
+          },
+          {
+            "item": "mysticalworld:cooked_carrot",
+            "count": 4
+          },
+          {
+            "item": "mysticalworld:cooked_aubergine",
+            "count": 4
+          },
+          {
+            "item": "minecraft:apple",
+            "count": 4
+          },
+          {
+            "item": "minecraft:bread",
+            "count": 3
+          },
+          {
+            "item": "minecraft:cooked_porkchop",
+            "count": 2
+          },
+          {
+            "item": "minecraft:cooked_cod",
+            "count": 2
+          },
+          {
+            "item": "minecraft:cooked_salmon",
+            "count": 2
+          },
+          {
+            "item": "minecraft:cookie",
+            "count": 4
+          },
+          {
+            "item": "minecraft:melon_slice",
+            "count": 6
+          },
+          {
+            "item": "minecraft:cooked_beef",
+            "count": 2
+          },
+          {
+            "item": "minecraft:cooked_chicken",
+            "count": 2
+          },
+          {
+            "item": "minecraft:mushroom_stew",
+            "count": 1
+          },
+          {
+            "item": "minecraft:beetroot_soup",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "output": [
+          [
+            {
+              "item": "druidcraft:moonstone",
+              "count": 3
+            },
+            {
+            "item": "mysticalworld:amethyst",
+            "count": 3
+            },
+            {
+              "item": "minecraft:diamond",
+              "count": 3
+            },
+            {
+              "item": "feywild:fey_gem_block",
+              "count": 3
+            },
+            {
+              "item": "minecraft:emerald",
+              "count": 6
+            }
+          ]
+        ],
+        "input": [
+          [
+            {
+              "item": "farmersdelight:grilled_salmon",
+              "count": 2
+            },
+            {
+              "item": "farmersdelight:squid_ink_pasta",
+              "count": 2
+            },
+            {
+              "item": "farmersdelight:ratatouille",
+              "count": 2
+            },
+            {
+              "item": "farmersdelight:roasted_mutton_chops",
+              "count": 2
+            },
+            {
+              "item": "farmersdelight:pasta_with_meatballs",
+              "count": 2
+            },
+            {
+              "item": "farmersdelight:mixed_salad",
+              "count": 3
+            },
+            {
+            "item": "farmersdelight:fruit_salad",
+            "count": 3
+          },
+            {
+            "item": "farmersdelight:chocolate_pie",
+            "count": 2
+            },
+            {
+            "item": "farmersdelight:sweet_berry_cheesecake",
+            "count": 2
+            },
+            {
+              "item": "farmersdelight:apple_pie",
+              "count": 2
+            },
+            {
+              "item": "druidcraft:apple_elderberry_crumble",
+              "count": 2
+            },
+            {
+            "item": "mysticalworld:stewed_eggplant",
+            "count": 3
+            },
+            {
+            "item": "mysticalworld:cactus_dandelion_salad",
+            "count": 3
+            },
+            {
+              "item": "mysticalworld:aubergine_salad",
+              "count": 3
+            },
+            {
+            "item": "wyrmroost:cooked_desertwyrm",
+            "count": 2
+            },
+            {
+              "item": "supplementaries:pancake",
+              "count": 6
+            },
+            {
+              "item": "minecraft:cake",
+              "count": 2
+            },
+            {
+              "item": "minecraft:pumpkin_pie",
+              "count": 2
+            },
+            {
+              "item": "minecraft:rabbit_stew",
+              "count": 1
+            }
+          ]
+        ],
+        "uses": 1,
+        "exp": 10,
+        "mul": 0.05
+      }
+    ]
+  },
+  {
+    "amount": 4,
+    "trades": [
+      {
+        "output": {
+          "item": "feywild:greater_fey_gem",
+          "count": 1
+        },
+        "input": {
+          "item": "feywild:lesser_fey_gem",
+          "count": 4
+        },
+        "uses": 5,
+        "exp": 1,
+        "mul": 0.05
+      },
+      {
+        "output": {
+          "item": "feywild:shiny_fey_gem",
+          "count": 1
+        },
+        "input": {
+          "item": "feywild:greater_fey_gem",
+          "count": 4
+        },
+        "uses": 5,
+        "exp": 1,
+        "mul": 0.05
+      },
+      {
+        "output": {
+          "item": "feywild:brilliant_fey_gem",
+          "count": 1
+        },
+        "input": {
+          "item": "feywild:shiny_fey_gem",
+          "count": 4
+        },
+        "uses": 5,
+        "exp": 1,
+        "mul": 0.05
+      },
+      {
+        "output": {
+          "item": "feywild:schematics_fey_altar",
+          "count": 1
+        },
+        "input": {
+          "item": "feywild:brilliant_fey_gem",
+          "count": 2
+        },
+        "uses": 1,
+        "exp": 5,
+        "mul": 0.05
+      }
+    ]
+  },
+  {
+    "amount": 1,
+    "trades": [
+      {
+        "output": {
+          "item": "feywild:schematics_gem_transmutation",
+          "count": 1
+        },
+        "input": {
+          "item": "feywild:brilliant_fey_gem",
+          "count": 1
+        },
+        "uses": 1,
+        "exp": 5,
+        "mul": 0.05
+      }
+    ]
+  }
+]

@@ -1,27 +1,27 @@
 {
-    "type": "feywild:dwarven_anvil",
-    "ingredients": [
-        {
-          "item": "feywild:schematics_dungeons_gear_armor"
-        },
-      {
-        "item": "ars_nouveau:novice_robes"
-      },
-      {
-        "item": "minecraft:iron_ingot"
-      },
-      {
-        "item": "druidcraft:black_soulfire"
-      },
-      {
-        "item": "druidcraft:black_soulfire"
-      },
-      {
-        "item": "minecraft:gold_nugget"
-      }
-    ],
-    "output": {
-        "item": "dungeons_gear:battle_robe"
+  "type": "feywild:dwarven_anvil",
+  "mana": 500,
+  "output": {
+    "item": "dungeons_gear:battle_robe"
+  },
+  "schematics": {
+    "item": "feydata:schematics_dungeons_gear_armor"
+  },
+  "ingredients": [
+    {
+      "item": "ars_nouveau:novice_robes"
     },
-    "mana_usage": 500
-  }
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "druidcraft:black_soulfire"
+    },
+    {
+      "item": "druidcraft:black_soulfire"
+    },
+    {
+      "item": "minecraft:gold_nugget"
+    }
+  ]
+}
