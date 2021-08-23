@@ -1,0 +1,31 @@
+{
+  "type": "ars_nouveau:enchanting_apparatus",
+  "item_1": [
+    {
+      "item": "feywild:autumn_tree_sapling"
+    }
+  ],
+  "item_2": [
+    {
+      "item": "minecraft:iron_hoe"
+    }
+  ],
+  "item_3": [
+    {
+      "tag": "forge:mushrooms"
+    }
+  ],
+  "item_4": [
+    {
+      "item": "minecraft:carved_pumpkin"
+    }
+  ],
+  "reagent": [
+    {
+      "item": "feywild:summoning_scroll"
+    }
+  ],
+  "output": {
+    "item": "feywild:summoning_scroll_autumn_pixie"
+  }
+}

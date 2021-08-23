@@ -202,19 +202,19 @@
 	# Min: 0.0
 	# Max: 3.4028235E38
 	# Default: 1000000.0
-	default_max_speed = 1000000.0
+	default_max_speed = 100.0
 	# The maximum player elytra speed.
 	# The vanilla default is 300.0.
 	# Min: 0.0
 	# Max: 3.4028235E38
 	# Default: 1000000.0
-	max_elytra_speed = 1000000.0
+	max_elytra_speed = 300.0
 	# The maximum player vehicle speed.
 	# The vanilla default is 100.0.
 	# Min: 0.0
 	# Max: 1.7976931348623157E308
 	# Default: 1000000.0
-	max_vehicle_speed = 1000000.0
+	max_vehicle_speed = 100.0
 
 # Miscellaneous options.
 [misc]
