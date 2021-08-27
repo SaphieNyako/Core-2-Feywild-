@@ -1,0 +1,27 @@
+{
+  "type": "feywild:dwarven_anvil",
+  "mana": 1000,
+  "output": {
+    "item": "mythicbotany:helheim_rune"
+  },
+  "schematics": {
+    "item": "feydata:schematics_rune_crafting"
+  },
+  "ingredients": [
+    {
+      "item": "botania:rune_fire"
+    },
+    {
+      "item": "botania:rune_autumn"
+    },
+    {
+      "item": "botania:rune_envy"
+    },
+    {
+      "tag": "forge:heads"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  ]
+}

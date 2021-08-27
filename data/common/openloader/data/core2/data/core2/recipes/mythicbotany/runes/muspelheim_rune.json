@@ -1,0 +1,27 @@
+{
+  "type": "feywild:dwarven_anvil",
+  "mana": 1000,
+  "output": {
+    "item": "mythicbotany:muspelheim_rune"
+  },
+  "schematics": {
+    "item": "feydata:schematics_rune_crafting"
+  },
+  "ingredients": [
+    {
+      "item": "botania:rune_fire"
+    },
+    {
+      "item": "botania:rune_summer"
+    },
+    {
+      "item": "botania:rune_wrath"
+    },
+    {
+      "item": "minecraft:magma_block"
+    },
+    {
+      "item": "minecraft:nether_brick"
+    }
+  ]
+}

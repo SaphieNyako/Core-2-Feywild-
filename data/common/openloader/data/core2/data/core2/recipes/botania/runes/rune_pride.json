@@ -1,0 +1,24 @@
+{
+  "type": "feywild:dwarven_anvil",
+  "mana": 750,
+  "output": {
+    "item": "botania:rune_pride"
+  },
+  "schematics": {
+    "item": "feydata:schematics_rune_crafting"
+  },
+  "ingredients": [
+    {
+      "item": "botania:mana_diamond"
+    },
+    {
+      "item": "botania:mana_diamond"
+    },
+    {
+      "item": "botania:rune_summer"
+    },
+    {
+      "item": "botania:rune_fire"
+    }
+  ]
+}

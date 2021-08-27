@@ -1,0 +1,27 @@
+{
+  "type": "feywild:dwarven_anvil",
+  "mana": 500,
+  "output": {
+    "item": "botania:rune_mana"
+  },
+  "schematics": {
+    "item": "feydata:schematics_rune_crafting"
+  },
+  "ingredients": [
+    {
+      "item": "botania:manasteel_ingot"
+    },
+    {
+      "item": "botania:manasteel_ingot"
+    },
+    {
+      "item": "botania:manasteel_ingot"
+    },
+    {
+      "item": "botania:manasteel_ingot"
+    },
+    {
+      "item": "botania:mana_pearl"
+    }
+  ]
+}

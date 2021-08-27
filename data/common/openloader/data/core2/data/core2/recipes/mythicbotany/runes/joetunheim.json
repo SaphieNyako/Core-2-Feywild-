@@ -1,0 +1,27 @@
+{
+  "type": "feywild:dwarven_anvil",
+  "mana": 1000,
+  "output": {
+    "item": "mythicbotany:joetunheim_rune"
+  },
+  "schematics": {
+    "item": "feydata:schematics_rune_crafting"
+  },
+  "ingredients": [
+    {
+      "item": "botania:rune_earth"
+    },
+    {
+      "item": "botania:rune_autumn"
+    },
+    {
+      "item": "botania:rune_gluttony"
+    },
+    {
+      "item": "minecraft:blackstone"
+    },
+    {
+      "item": "minecraft:brick"
+    }
+  ]
+}
