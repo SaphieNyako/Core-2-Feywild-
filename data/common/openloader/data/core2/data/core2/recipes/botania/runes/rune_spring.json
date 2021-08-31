@@ -5,15 +5,9 @@
     "item": "botania:rune_spring"
   },
   "schematics": {
-    "item": "feydata:schematics_rune_crafting"
+    "tag": "core2:seasonal_books"
   },
   "ingredients": [
-    {
-      "item": "botania:rune_water"
-    },
-    {
-      "item": "botania:rune_fire"
-    },
     {
       "item": "feywild:spring_tree_sapling"
     },

@@ -2,10 +2,11 @@
   "type": "feywild:dwarven_anvil",
   "mana": 500,
   "output": {
-    "item": "botania:rune_mana"
+    "item": "botania:rune_mana",
+    "count": 2
   },
   "schematics": {
-    "item": "feydata:schematics_rune_crafting"
+    "tag": "core2:deadly_books"
   },
   "ingredients": [
     {

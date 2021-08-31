@@ -5,18 +5,9 @@
     "item": "mythicbotany:asgard_rune"
   },
   "schematics": {
-    "item": "feydata:schematics_rune_crafting"
+    "tag": "core2:yggdrasil_books"
   },
   "ingredients": [
-    {
-      "item": "botania:rune_air"
-    },
-    {
-      "item": "botania:rune_autumn"
-    },
-    {
-      "item": "botania:rune_pride"
-    },
     {
       "item": "minecraft:netherite_ingot"
     },

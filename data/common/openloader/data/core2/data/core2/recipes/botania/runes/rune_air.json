@@ -3,10 +3,10 @@
   "mana": 250,
   "output": {
     "item": "botania:rune_air",
-    "count": 2
+    "count": 3
   },
   "schematics": {
-    "item": "feydata:schematics_rune_crafting"
+    "tag": "core2:elemental_books"
   },
   "ingredients": [
     {

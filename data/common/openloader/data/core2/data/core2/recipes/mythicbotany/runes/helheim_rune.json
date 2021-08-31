@@ -5,18 +5,9 @@
     "item": "mythicbotany:helheim_rune"
   },
   "schematics": {
-    "item": "feydata:schematics_rune_crafting"
+    "tag": "core2:yggdrasil_books"
   },
   "ingredients": [
-    {
-      "item": "botania:rune_fire"
-    },
-    {
-      "item": "botania:rune_autumn"
-    },
-    {
-      "item": "botania:rune_envy"
-    },
     {
       "tag": "forge:heads"
     },

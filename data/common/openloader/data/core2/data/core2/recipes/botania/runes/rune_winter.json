@@ -5,15 +5,9 @@
     "item": "botania:rune_winter"
   },
   "schematics": {
-    "item": "feydata:schematics_rune_crafting"
+    "tag": "core2:seasonal_books"
   },
   "ingredients": [
-    {
-      "item": "botania:rune_water"
-    },
-    {
-      "item": "botania:rune_earth"
-    },
     {
       "item": "minecraft:snow_block"
     },

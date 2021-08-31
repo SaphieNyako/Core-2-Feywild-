@@ -5,7 +5,7 @@
     "item": "botania:rune_envy"
   },
   "schematics": {
-    "item": "feydata:schematics_rune_crafting"
+    "tag": "core2:deadly_books"
   },
   "ingredients": [
     {
@@ -15,10 +15,10 @@
       "item": "botania:mana_diamond"
     },
     {
-      "item": "botania:rune_winter"
+      "item": "feywild:winter_tree_sapling"
     },
     {
-      "item": "botania:rune_water"
+      "item": "feywild:autumn_tree_sapling"
     }
   ]
 }

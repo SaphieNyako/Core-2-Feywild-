@@ -5,18 +5,9 @@
     "item": "mythicbotany:alfheim_rune"
   },
   "schematics": {
-    "item": "feydata:schematics_rune_crafting"
+    "tag": "core2:yggdrasil_books"
   },
   "ingredients": [
-    {
-      "item": "botania:rune_air"
-    },
-    {
-      "item": "botania:rune_summer"
-    },
-    {
-      "item": "botania:rune_lust"
-    },
     {
       "tag": "minecraft:leaves"
     },
