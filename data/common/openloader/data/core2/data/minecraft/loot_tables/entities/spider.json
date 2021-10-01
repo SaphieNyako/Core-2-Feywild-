@@ -23,7 +23,8 @@
                 }
               }
             ],
-            "name": "minecraft:string"
+            "name": "minecraft:string",
+            "weight": 10
           }
         ]
       },
