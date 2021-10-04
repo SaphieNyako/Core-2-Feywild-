@@ -1,0 +1,29 @@
+{
+    "variants": {
+        "snowy=false": [
+        { "model": "block/grass_block", "weight": 1250},
+	{ "model": "block/grass_block_clover_4", "weight": 1},
+	{ "model": "block/grass_block_clover_3", "weight": 4},
+        { "model": "block/grass_block_flower_1", "weight": 10},
+        { "model": "block/grass_block_flower_2", "weight": 10},
+        { "model": "block/grass_block_flower_3", "weight": 10},
+        { "model": "block/grass_block_flower_4", "weight": 10},
+        { "model": "block/grass_block_flower_5", "weight": 10},
+        { "model": "block/grass_block_flower_6", "weight": 10},
+        { "model": "block/grass_block_flower_7", "weight": 10},
+        { "model": "block/grass_block_flower_8", "weight": 10},
+        { "model": "block/grass_block_flower_9", "weight": 10},
+        { "model": "block/grass_block_flower_10", "weight": 10},
+        { "model": "block/grass_block_flower_11", "weight": 10},
+        { "model": "block/grass_block_flower_12", "weight": 10},
+        { "model": "block/grass_block_flower_13", "weight": 10},
+        { "model": "block/grass_block_flower_14", "weight": 10},
+        { "model": "block/grass_block_flower_15", "weight": 10},
+	{ "model": "block/grass_block_clover_2", "weight": 1},
+        { "model": "block/grass_block", "y": 90, "weight": 1250},
+        { "model": "block/grass_block", "y": 180, "weight": 1250 },
+        { "model": "block/grass_block", "y": 270, "weight": 1250 }
+        ],
+        "snowy=true":  { "model": "block/grass_block_snow" }
+    }
+}
