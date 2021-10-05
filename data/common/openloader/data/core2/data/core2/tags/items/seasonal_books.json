@@ -1,8 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    "feydata:schematics_seasonal_rune_crafting",
-    "feydata:schematics_deadly_rune_crafting",
-    "feydata:schematics_yggdrasil_rune_crafting"
-  ]
-}

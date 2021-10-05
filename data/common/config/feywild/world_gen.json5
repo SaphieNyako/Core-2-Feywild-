@@ -52,7 +52,7 @@
     
       // Maximum height for fey gems vines
       // Range: 0 - 255
-      "max_height": 5,
+      "max_height": 45,
       
       // Minimum height for fey gems vines
       // Range: 0 - 255
