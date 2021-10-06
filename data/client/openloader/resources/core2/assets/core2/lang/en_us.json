@@ -5,5 +5,6 @@
   "item.druidcraft.blazing_steel": "Blazing Steel",
   "item.druidcraft.heart_of_blaze": "Heart of Blaze",
   "block.druidcraft.nether_fiery_glass_ore": "Fiery Glass Nether Ore",
-  "block.druidcraft.brightstone_ore": "Bright Stone Ore"
+  "block.druidcraft.brightstone_ore": "Bright Stone Ore",
+  "entity.minecraft.dolphin": "Mermaid"
 }
