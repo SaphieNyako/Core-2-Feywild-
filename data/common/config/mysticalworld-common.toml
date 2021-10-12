@@ -215,12 +215,12 @@
 	[mob_spawns.Sprout_spawn]
 		#Min to spawn in a group.
 		#Range: 0 ~ 256
-		min = 2
+		min = 3
 		#Max to spawn in a group.
 		#Range: 0 ~ 256
-		max = 4
+		max = 6
 		#List of biome types to spawn.
-		biomes = "jungle,river,forest,beach,"
+		biomes = "jungle,river,forest,beach, plains"
 		#Chance to spawn (set to 0 to disable).
 		#Range: 0 ~ 256
 		spawnChance = 15
@@ -234,7 +234,7 @@
 		#Range: 0 ~ 256
 		max = 3
 		#List of biome types to spawn.
-		biomes = "forest,icy,taiga,"
+		biomes = "forest,icy,taiga"
 		#Chance to spawn (set to 0 to disable).
 		#Range: 0 ~ 256
 		spawnChance = 4
