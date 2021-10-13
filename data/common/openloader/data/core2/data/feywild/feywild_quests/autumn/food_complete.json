@@ -1,0 +1,25 @@
+{
+  "parent": [
+    "feywild:food_potatoes",
+    "feywild:food_beetroots",
+    "feywild:food_carrots"
+  ],
+  "reputation": 5,
+  "icon": "minecraft:beetroot_soup",
+  "start": {
+    "title": {
+      "translate": "quest.feywild.autumn.food_complete.start.title"
+    },
+    "description": {
+      "text": "I'm so happy you where able to get everything I asked.$(n)I saw you sweating and working those muscles while gathering our crops.$(n)Now that was a reward on it's own.\n\n Since you been working so hard on the fields and on your adventures! I decided you needed some company! \nNo not from me, silly! Every home needs a dog! Take good care of it!"
+    }
+  },
+  "rewards": [
+    {
+      "item": {
+        "item": "dungeons_gear:tasty_bone"
+      },
+      "id": "feywild:item"
+    }
+  ]
+}

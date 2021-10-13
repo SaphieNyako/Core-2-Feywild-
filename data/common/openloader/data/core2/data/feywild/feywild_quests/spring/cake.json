@@ -1,0 +1,31 @@
+{
+  "parent": "feywild:sleepingbag_complete",
+  "reputation": 5,
+  "icon": "minecraft:cake",
+  "start": {
+    "title": {
+      "text": "Offering for Prince Oberon"
+    },
+    "description": {
+      "text": "You would like to know more about the different Courts?\nWell you choose the best Court, we're by far the most fun!\n Nothing like those arrogant Fey of the $(b;summer)Summer Court$(), they think they rule the Fey world.\n The $(b;winter)Winter Court$() is just scary...-the little pixie shivers-\n Which reminds me! Now that you bound your soul to the Spring Court we should make an offering for $(b;spring)Prince Oberon$()! \n Maybe you can make some of those delicious human made $(b;spring)cakes$() a $(b;spring)give$() them to me?"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Offering for me!"
+    },
+    "description": {
+      "text": "What is that smell? What are you making?$(n)The cake for $(b;spring)Prince Oberon$()?$(n)No, no, no, this treasure is mine...$(n)Lets quickly eat it before $(b;spring)Prince Oberon$() finds out!$(n)$(i)*The tiny fey plunges her face inside of the cake*$()$(n)Phew, I'm stuffed. I think I might die. Huff puff.....got more?"
+    }
+  },
+  "tasks": [
+    {
+      "alignment": "spring",
+      "item": {
+        "item": "minecraft:cake"
+      },
+      "id": "feywild:fey_gift",
+      "times": 2
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "parent": [
+    "feywild:cooking_cooking_pot",
+    "feywild:cooking_cutting_board",
+    "feywild:cooking_stove"
+  ],
+  "reputation": 5,
+  "icon": "farmersdelight:stove",
+  "start": {
+    "title": {
+      "text": "cooking done"
+    },
+    "description": {
+      "text": "cooking done"
+    }
+  },
+  "rewards": [
+    {
+      "item": {
+        "item": "farmersdelight:rich_soil",
+        "count": 5
+      },
+      "id": "feywild:item"
+    },
+    {
+      "item": {
+        "item": "farmersdelight:stuffed_potato",
+        "count": 8
+      },
+      "id": "feywild:item"
+    }
+  ]
+}

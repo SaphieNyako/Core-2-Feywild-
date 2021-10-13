@@ -1,0 +1,22 @@
+{
+  "parent": "feywild:backpack",
+  "reputation": 5,
+  "icon": "druidcraft:white_bedroll",
+  "start": {
+    "title": {
+      "text": "Mortal Needs"
+    },
+    "description": {
+      "text": "Oh, you need a place to sleep? \nBut we can sleep where ever we want...\nLook at all the space around you! We should $(b;spring)craft$() a $(b;spring)sleeping bag$(), \nthen we can 'stargaze' at night!"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "tag": "druidcraft:sleeping_bags"
+      },
+      "id": "feywild:craft",
+      "times": 1
+    }
+  ]
+}

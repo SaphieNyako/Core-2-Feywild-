@@ -1,0 +1,31 @@
+{
+  "parent": "feywild:root",
+  "reputation": 5,
+  "icon": "sophisticatedbackpacks:backpack",
+  "start": {
+    "title": {
+      "text": "Something sophisticated..."
+    },
+    "description": {
+      "text": "I can't believe I found a traveler! \nWe're going to be the bestest of bestiest friends! \n\nNow I can go on an adventure!\nExplore the world, taste new colours, meet weird creatures, try out new kinds of food!\nOh...the Food! I can't wait!\n\nLet's go! Let's go already!\nBut wait! You will need to $(b;spring)craft$() a $(b;spring)'sophisticated' backpack$() to store all our treasures! "
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Let's go!"
+    },
+    "description": {
+      "text": "Finally! Yes, yes you look very 'Sophisticated'....It might need a bit of colour! Let's go on our adventure!"
+    }
+  },
+  "tasks": [
+    {
+      "alignment": "spring",
+      "item": {
+        "item": "sophisticatedbackpacks:backpack"
+      },
+      "id": "feywild:craft",
+      "times": 1
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "parent": "feywild:home",
+  "reputation": 5,
+  "icon": "farmersdelight:cooking_pot",
+  "start": {
+    "title": {
+      "translate": "Cooking Pot"
+    },
+    "description": {
+      "text": "cooking pot"
+    }
+  },
+  "tasks": [
+    {
+      "alignment": "autumn",
+      "item": {
+        "item": "farmersdelight:cooking_pot"
+      },
+      "id": "feywild:craft",
+      "times": 1
+    }
+  ]
+}

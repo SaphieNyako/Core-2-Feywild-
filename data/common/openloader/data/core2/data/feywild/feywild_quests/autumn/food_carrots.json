@@ -1,0 +1,23 @@
+{
+  "parent": "feywild:cooking_complete",
+  "reputation": 5,
+  "icon": "minecraft:carrot",
+  "start": {
+    "title": {
+      "translate": "quest.feywild.autumn.food_carrots.start.title"
+    },
+    "description": {
+      "translate": "quest.feywild.autumn.food_carrots.start.description"
+    }
+  },
+  "tasks": [
+    {
+      "alignment": "autumn",
+      "item": {
+        "item": "farmersdelight:carrot_crate"
+      },
+      "id": "feywild:craft",
+      "times": 1
+    }
+  ]
+}

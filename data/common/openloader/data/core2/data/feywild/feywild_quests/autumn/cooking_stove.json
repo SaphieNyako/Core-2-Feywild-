@@ -1,0 +1,23 @@
+{
+  "parent": "feywild:home",
+  "reputation": 5,
+  "icon": "farmersdelight:stove",
+  "start": {
+    "title": {
+      "translate": "Cooking Stove"
+    },
+    "description": {
+      "text": "cooking stove"
+    }
+  },
+  "tasks": [
+    {
+      "alignment": "autumn",
+      "item": {
+        "item": "farmersdelight:stove"
+      },
+      "id": "feywild:craft",
+      "times": 1
+    }
+  ]
+}

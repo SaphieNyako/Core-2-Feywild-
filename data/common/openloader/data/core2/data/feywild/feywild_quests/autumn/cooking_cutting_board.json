@@ -1,0 +1,23 @@
+{
+  "parent": "feywild:home",
+  "reputation": 5,
+  "icon": "farmersdelight:cutting_board",
+  "start": {
+    "title": {
+      "translate": "Cutting Board"
+    },
+    "description": {
+      "text": "cutting board"
+    }
+  },
+  "tasks": [
+    {
+      "alignment": "autumn",
+      "item": {
+        "item": "farmersdelight:cutting_board"
+      },
+      "id": "feywild:craft",
+      "times": 1
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "parent": "feywild:food_complete",
+  "reputation": 5,
+  "icon": "farmersdelight:dog_food",
+  "start": {
+    "title": {
+      "text": "dog food"
+    },
+    "description": {
+      "text": "dog food, take good care or the Winter Court will claim him."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "dog name"
+    },
+    "description": {
+      "text": "dog_name"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "farmersdelight:dog_food"
+      },
+      "amount": 3,
+      "id": "feywild:item"
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "minecraft:name_tag"
+      },
+      "id": "feywild:item"
+    }
+  ]
+}

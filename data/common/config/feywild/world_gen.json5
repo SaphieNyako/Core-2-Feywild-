@@ -50,15 +50,15 @@
   
     "fey_gem": {
     
-      // Maximum height for fey gems vines
+      // Maximum height for fey gems veins
       // Range: 0 - 255
       "max_height": 45,
       
-      // Minimum height for fey gems vines
+      // Minimum height for fey gems veins
       // Range: 0 - 255
       "min_height": 11,
       
-      // Size for fey gems vines
+      // Size for fey gems veins
       // Minimum: 0
       "size": 5,
       
@@ -79,6 +79,21 @@
       // The minimum distance between two autumn world trees
       // Minimum: 1
       "minimum_distance": 50
+    },
+    
+    "bee_keep": {
+    
+      // The average distance between two bee keeps. Must be higher than minimum.
+      // Minimum: 1
+      "average_distance": 30,
+      
+      // The amount of time in seconds that the magical honey needs to respawn
+      // Minimum: 1
+      "honey_timer": 1200,
+      
+      // The minimum distance between two  bee keeps
+      // Minimum: 1
+      "minimum_distance": 20
     },
     
     "blacksmith": {

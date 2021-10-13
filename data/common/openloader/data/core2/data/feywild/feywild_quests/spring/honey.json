@@ -1,0 +1,39 @@
+{
+  "parent": "feywild:cake",
+  "reputation": 5,
+  "icon": "feywild:honeycomb",
+  "start": {
+    "title": {
+      "translate": "Honey offering"
+    },
+    "description": {
+      "text": "I can't believe you ate both cakes! Now we don't have an offering for $(b;spring)Prince Oberon$()\n I know! We should steal some of that delicious $(b;summer)golden honey$() from the $(b;summer)Summer Court$()!\n But bee-carefull -the pixie giggles- for those $(b;summer)Bee Knights$() patrolling the area! Don't get stung!"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Oberon's gift"
+    },
+    "description": {
+      "text": "I hope you didn't kill those $(b;summer)Bee Knights$() or we might get in trouble with $(b;summer)Queen Titania$().\n Oh the Honey! Sweet! All mine now!\n No no no! It's for $(b;spring)Prince Oberon$(). I'll make sure he will receive our offering!\n\n$(b;spring)-You received a gift from Prince Oberon-$()"
+    }
+  },
+  "tasks": [
+    {
+      "alignment": "spring",
+      "item": {
+        "item": "feywild:honeycomb"
+      },
+      "id": "feywild:fey_gift"
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "mysticalworld:antler_hat",
+        "count": 1
+      },
+      "id": "feywild:item"
+    }
+  ]
+}

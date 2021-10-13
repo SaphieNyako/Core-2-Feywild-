@@ -1,0 +1,24 @@
+{
+  "parent": [
+    "feywild:sleepingbag",
+    "feywild:levitate_sheep"
+  ],
+  "reputation": 5,
+  "icon": "minecraft:mutton",
+  "start": {
+    "title": {
+      "translate": "Stick the landing"
+    },
+    "description": {
+      "translate": "You made him fly! He must have been so happy!$(n)Wish we had taught it how to land....it's broken now...\nLuckily I was able to capture the spirits of all the sheep you so brutally murdered before they where taken by the $(b;winter)Winter Court$()! \nNow we can play with our fluffy friends from the sky, when ever we want! \n\nAnd we got a sleeping bag! Let's go on our Adventure!! "
+    }
+  },
+  "rewards": [
+    {
+      "item": {
+        "item": "dungeons_gear:enchanted_grass"
+      },
+      "id": "feywild:item"
+    }
+  ]
+}
