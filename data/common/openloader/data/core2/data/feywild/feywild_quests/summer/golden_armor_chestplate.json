@@ -1,0 +1,23 @@
+{
+  "parent": "feywild:gold_armor",
+  "reputation": 5,
+  "icon": "minecraft:golden_chestplate",
+  "start": {
+    "title": {
+      "translate": "Golden Chestplate"
+    },
+    "description": {
+      "translate": "If you want to be part of the $(b;summer)Golden Seelie Court$(), you better look the part.\nI can't present you as my champion before $(b;summer)Queen Titania$() when you look like this. \n\nGather some $(b;summer)golden ingots$() and $(b;spring)craft$() yourself some human size $(b;spring)armor$()!\nDon't look at me like that! I'm not paying for it!\nGo on. Present yourself to me when you are properly attired.\n\nThe audacity... - the Pixies sighs-"
+    }
+  },
+  "tasks": [
+    {
+      "alignment": "summer",
+      "item": {
+        "item": "minecraft:golden_chestplate"
+      },
+      "id": "feywild:craft",
+      "times": 1
+    }
+  ]
+}

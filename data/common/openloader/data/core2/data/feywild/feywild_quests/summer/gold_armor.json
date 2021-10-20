@@ -1,0 +1,13 @@
+{
+  "parent": "feywild:root",
+  "reputation": 5,
+  "icon": "minecraft:iron_nugget",
+  "start": {
+    "title": {
+      "translate": "An assessment of worth"
+    },
+    "description": {
+      "translate": "Just my luck I end up with someone like you...\n–  The pixie looks at you from top to bottom with a disdainful look– \nNot much muscle...thou that might be normal for it's kind....\nAnd it's look....might not be the brightest...\nStop gasping! Im not insulting you Im assessing you!\nThere is a difference!"
+    }
+  }
+}

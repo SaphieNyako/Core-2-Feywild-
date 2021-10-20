@@ -28,5 +28,6 @@
   "item.farmersdelight.iron_knife":  "Iron Cooking Knife",
   "item.farmersdelight.diamond_knife":  "Diamond Cooking Knife",
   "item.farmersdelight.golden_knife":  "Golden Cooking Knife",
-  "item.farmersdelight.netherite_knife": "Netherite Cooking Knife"
+  "item.farmersdelight.netherite_knife": "Netherite Cooking Knife",
+  "entity.botania.doppleganger": "Morgana"
 }

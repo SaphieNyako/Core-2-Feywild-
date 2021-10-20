@@ -7,7 +7,7 @@
       "translate": "quest.feywild.summer.kill_pillager.start.title"
     },
     "description": {
-      "translate": "quest.feywild.summer.kill_pillager.start.description"
+      "text": "Maybe you are not so useless after all! \nThe $(b;summer)Summer Court$() is constantly under attack by a group of human raiders,\nwho hunt down our kind to grind them into $(b;winter)dust$(),\nor steel our $(b;summer)sacred honey$()!\nWe, and by we I mean you of course, should $(b;autumn)take down$() those $(b;spring)pillagers$()!\nThen, with you as my champion we can share our victory with the Queen, \nand I will be forever in her favour!! -the pixie is pleased with her own genius plan- \nPerfect! So...why are you still standing here? Go! Now!"
     }
   },
   "complete": {
@@ -15,8 +15,7 @@
       "translate": "quest.feywild.summer.kill_pillager.complete.title"
     },
     "description": {
-      "translate": "quest.feywild.summer.kill_pillager.complete.description"
-    }
+      "text": "You actually did it!! -the Pixie restrains herself from embarrassing you- \nAhum! You did an admirable job, and I hope you will continue to slaughter my enemies! My very own champion! \n– The pixie seems pleased and circles happily around you–\n\n$(b;summer)- Queen Titania is pleased with your offerings and victory for the Golden Seelie Court, as their new champion you are presented with a special reward -$()"    }
   },
   "tasks": [
     {
@@ -28,8 +27,8 @@
   "rewards": [
     {
       "item": {
-        "item": "minecraft:gold_ingot",
-        "count": 3
+        "item": "dungeons_gear:bee_stinger",
+        "count": 1
       },
       "id": "feywild:item"
     }

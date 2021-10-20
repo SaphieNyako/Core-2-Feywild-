@@ -1,0 +1,60 @@
+{
+  "parent": [
+    "feywild:golden_armor_boots",
+    "feywild:golden_armor_chestplate",
+    "feywild:golden_armor_leggings",
+    "feywild:golden_armor_helmet"
+  ],
+  "reputation": 5,
+  "icon": "minecraft:golden_chestplate",
+  "start": {
+    "title": {
+      "text": "Presentable!"
+    },
+    "description": {
+      "text": "Hmph you again....I guess it's an improvement.\n$(b;spring)Gift$() me your $(b;summer)helmet$() and $(b;summer)chestplate$() I will make some improvements to it. \n"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "A true Hero!"
+    },
+    "description": {
+      "text": "Let me have a look....turn around! -The pixie blushes- Ahum!....Well...Look at you suddenly looking the part! My Champion!\n "
+    }
+  },
+  "tasks": [
+    {
+      "alignment": "summer",
+      "item": {
+        "item": "minecraft:golden_chestplate"
+      },
+      "id": "feywild:fey_gift",
+      "times": 1
+    },
+    {
+      "alignment": "summer",
+      "item": {
+        "item": "minecraft:golden_helmet"
+      },
+      "id": "feywild:fey_gift",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "dungeons_gear:heros_chestplate",
+        "count": 1
+      },
+      "id": "feywild:item"
+    },
+    {
+      "item": {
+        "item": "dungeons_gear:heros_helmet",
+        "count": 1
+      },
+      "id": "feywild:item"
+    }
+  ]
+}

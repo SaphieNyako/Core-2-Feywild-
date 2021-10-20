@@ -1,0 +1,19 @@
+{
+  "parent": "feywild:sapling",
+  "reputation": 5,
+  "icon": "minecraft:elytra",
+  "start": {
+    "title": {
+      "text": "A New Mission"
+    },
+    "description": {
+      "text": "Champion! Something awefull has happened. \nThe $(b;spring)Shadow Court$() has returned and their $(b;spring)Enderman$() have stolen the $(b;spring)Elytra$()!\nWhy you looking so confused at me! \nOw right....hmm where to begin!\nThe Elytra is the property of the $(b;summer)Golden Seelie Court$(), cause it can only be owned by the strongest court!\n...right....the Shadow Court....\nuhm......maybe we should $(b;spring)find$() a $(b;spring)Librarian$() who can give us access to ancient books."
+    }
+  },
+  "tasks": [
+    {
+      "structure": "feywild:library",
+      "id": "feywild:structure"
+    }
+  ]
+}

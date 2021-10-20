@@ -7,7 +7,8 @@
       "translate": "quest.feywild.summer.bee_nest.start.title"
     },
     "description": {
-      "translate": "quest.feywild.summer.bee_nest.start.description"
+      "text": "So you have some skill with a sword...that's nice and all, but do you have wits!\nTo prove you worthy of being my servant and protector, you should...\n$(b;spring)gift$() me....a $(b;summer)bee's nest$()! Preferably with the bees stil inside! Yes!\nWe require more steeds for our cavalry... \nThe Queen will be pleased with my offering! \nBe it the bees or this mortal's corpse....-the pixie giggles- uh cough cough!\nOw you still here! Now hop along and don't get stung!"
+
     }
   },
   "complete": {
@@ -15,7 +16,7 @@
       "translate": "quest.feywild.summer.bee_nest.complete.title"
     },
     "description": {
-      "translate": "quest.feywild.summer.bee_nest.complete.description"
+      "text": "That was amazing! Hope those stingers didn't hurt to much?\nOr is that your normal face?\nIf that's the case, maybe you where better off getting stung...\n\nThese will be perfect offerings for our Queen, $(b;summer)Titania$(). \nWe're always in need of Bee steeds for our Knights. Ill present our offering to her now!\n\n$(b;summer)-The Queen was pleased with the offering and reward you with the protection of her royal bees-$() "
     }
   },
   "tasks": [
@@ -30,7 +31,7 @@
   "rewards": [
     {
       "item": {
-        "item": "minecraft:honeycomb"
+        "item": "dungeons_gear:buzzy_nest"
       },
       "id": "feywild:item"
     }
