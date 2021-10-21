@@ -1,0 +1,30 @@
+{
+  "parent": "feywild:end_dragon",
+  "reputation": 5,
+  "icon": "minecraft:elytra",
+  "start": {
+    "title": {
+      "text": "...till the End"
+    },
+    "description": {
+      "text": "Since you are no longer bound to a contract....you are free to go....unless you want to stay and help me find the Elytra...?"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "...till the End"
+    },
+    "description": {
+      "translate": "We found it! We did it! Together, as friends! I didn't expect you would have stayed.....why did you stay? \nWhat? -The pixie turns red and waves her arms around in panic- ...we're...friends?\n Friends huh....? -The pixie smiles happily - \n The Audacity! Friends! Hmph....you wish!? \n Thanks...friend. Let's go home? "
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:elytra"
+      },
+      "amount": 1,
+      "id": "feywild:item"
+    }
+  ]
+}

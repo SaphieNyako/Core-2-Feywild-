@@ -1,0 +1,19 @@
+{
+  "parent": "feywild:crystal_eyes_complete",
+  "reputation": 5,
+  "icon": "endrem:black_eye",
+  "start": {
+    "title": {
+      "text": "Friends till the End"
+    },
+    "description": {
+      "text": "Aaaah! Im stuffed! Thank you for being my Champion!\n Are you ready to face our final trial? Let's find the  $(b;summer)End Portal $() and face what ever is on the other side!"
+    }
+  },
+  "tasks": [
+    {
+      "biome": "minecraft:the_end",
+      "id": "feywild:biome"
+    }
+  ]
+}

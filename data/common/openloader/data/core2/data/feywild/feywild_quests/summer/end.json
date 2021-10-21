@@ -1,0 +1,36 @@
+{
+  "parent": "feywild:elytra",
+  "reputation": 5,
+  "icon": "minecraft:elytra",
+  "start": {
+    "title": {
+      "text": "The beginning..."
+    },
+    "description": {
+      "text": "-You and your pixie friend return home, to the Summer Court.\n As you arrive at the Golden Seelie Fields and the World Tree, a horde of summer fey awaits you.\n They cheer for the Summer Court's new heroes.- \n\n$(b;summer)- Queen Titania is pleased with your sacrifice for the Summer Court and awards you with the Touch of Fey-$()"
+    }
+  },
+  "rewards": [
+    {
+      "item": {
+        "item": "botania:flight_tiara",
+        "count": 1
+      },
+      "id": "feywild:item"
+    },
+    {
+      "item": {
+        "item": "botania:mana_tablet",
+        "count": 1
+      },
+      "id": "feywild:item"
+    },
+    {
+      "item": {
+        "item": "mythicbotany:feysythia",
+        "count": 2
+      },
+      "id": "feywild:item"
+    }
+  ]
+}

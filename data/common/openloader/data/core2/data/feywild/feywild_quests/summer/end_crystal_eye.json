@@ -1,0 +1,22 @@
+{
+  "parent": "feywild:book",
+  "reputation": 5,
+  "icon": "endrem:end_crystal_eye",
+  "start": {
+    "title": {
+      "text": "End Crystal Eye"
+    },
+    "description": {
+      "text": "What does the book say?\n\n  $(b;winter)-This eye was destroyed after the war, and it would require to be re-crafted. The knowledge of the crafting recipe remained over the ages, how to procure the materials was not. - $()\n\n Well that's not very helpful, how are we suppose to know what material to use?\n This is hopeless..."
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "endrem:end_crystal_eye"
+      },
+      "amount": 1,
+      "id": "feywild:item"
+    }
+  ]
+}

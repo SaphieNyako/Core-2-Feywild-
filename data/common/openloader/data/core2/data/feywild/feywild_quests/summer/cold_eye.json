@@ -1,0 +1,22 @@
+{
+  "parent": "feywild:book",
+  "reputation": 5,
+  "icon": "endrem:cold_eye",
+  "start": {
+    "title": {
+      "text": "Cold Eye"
+    },
+    "description": {
+      "text": "What does the book say?\n\n  $(b;winter)- The knight who created this Eye was a Iceologer. The Cold Eyes is considered one of the last artifacts left behind by the Iceologers before they all suddenly vanished from the world. - $()\n\n The Iceologers...I remember them, they had these weird houses of ice, igloo's I believe they where called.\n...Not very efficient if you ask me!"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "endrem:cold_eye"
+      },
+      "amount": 1,
+      "id": "feywild:item"
+    }
+  ]
+}

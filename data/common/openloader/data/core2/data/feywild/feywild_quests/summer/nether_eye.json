@@ -1,0 +1,22 @@
+{
+  "parent": "feywild:book",
+  "reputation": 5,
+  "icon": "endrem:nether_eye",
+  "start": {
+    "title": {
+      "text": "Nether Eye"
+    },
+    "description": {
+      "text": "What does the book say?\n\n  $(b;winter)-The knight protecting this eye, gained his power by making a contract with a demon. After the war the demon came to claim the Knights soul and took the eye to his own dimension. - $()\n\n That's what you get from making a contract and telling your name! Ah...uhm! Don't worry I won't come for your soul....yet! -the Pixie giggles- "
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "endrem:nether_eye"
+      },
+      "amount": 1,
+      "id": "feywild:item"
+    }
+  ]
+}

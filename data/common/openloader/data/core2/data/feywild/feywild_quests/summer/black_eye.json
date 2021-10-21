@@ -1,0 +1,22 @@
+{
+  "parent": "feywild:book",
+  "reputation": 5,
+  "icon": "endrem:black_eye",
+  "start": {
+    "title": {
+      "text": "Black Eye"
+    },
+    "description": {
+      "text": "What does the book say?\n\n  $(b;winter)- The knight of the black eye possessed the power to of the ocean itself. After the war he sailed off into the great ocean and was never seen again. - $()\n\n Hmm...he sailed off....on a ship I guess? How do we know where ship ended up? What was it's destination?\n....Argh! It could as well be shipwrecked and by anywhere!"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "endrem:black_eye"
+      },
+      "amount": 1,
+      "id": "feywild:item"
+    }
+  ]
+}

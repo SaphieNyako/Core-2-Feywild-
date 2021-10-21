@@ -7,7 +7,7 @@
       "translate": "quest.feywild.summer.kill_pillager.start.title"
     },
     "description": {
-      "text": "Maybe you are not so useless after all! \nThe $(b;summer)Summer Court$() is constantly under attack by a group of human raiders,\nwho hunt down our kind to grind them into $(b;winter)dust$(),\nor steel our $(b;summer)sacred honey$()!\nWe, and by we I mean you of course, should $(b;autumn)take down$() those $(b;spring)pillagers$()!\nThen, with you as my champion we can share our victory with the Queen, \nand I will be forever in her favour!! -the pixie is pleased with her own genius plan- \nPerfect! So...why are you still standing here? Go! Now!"
+      "text": "Maybe you are not so useless after all! \nThe $(b;summer)Summer Court$() is constantly under attack by a group of human raiders,\nwho hunt down our kind to grind us into $(b;winter)dust$(),\nor steel our $(b;summer)sacred honey$()!\nWe, and by we I mean you of course, should $(b;autumn)take down$() those $(b;spring)pillagers$()!\nThen, with you as my champion we can share our victory with the Queen, \nand I will be forever in her favour!! -the pixie is pleased with her own genius plan- \nPerfect! So...why are you still standing here? Go! Now!"
     }
   },
   "complete": {

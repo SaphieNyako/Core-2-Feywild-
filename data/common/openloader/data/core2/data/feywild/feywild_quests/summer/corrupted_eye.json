@@ -1,0 +1,22 @@
+{
+  "parent": "feywild:book",
+  "reputation": 5,
+  "icon": "endrem:corrupted_eye",
+  "start": {
+    "title": {
+      "text": "Corrupted Eye"
+    },
+    "description": {
+      "text": "What does the book say?\n\n  $(b;winter)- Owned by a Spring Seelie Knight, it's legend has it will bring infinite fortune to it's owner. Over time it's appeal corrupted many greedy king and pillagers have fought over it's possession. - $()\n\n Ah the greed of mankind...and still those pillagers hunt us for our magic."
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "endrem:corrupted_eye"
+      },
+      "amount": 1,
+      "id": "feywild:item"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "parent": "feywild:book",
+  "reputation": 5,
+  "icon": "endrem:rogue_eye",
+  "start": {
+    "title": {
+      "text": "Rogue Eye"
+    },
+    "description": {
+      "text": "What does the book say?\n\n  $(b;winter)-The eye was embedded with the power of Agility and Stealth and its creator hid it deep in a jungle only to be retrieved by those with great agility. - $()\n\n Guess we go find a jungle...These Knights where not very original with their hiding spots, where they?"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "endrem:rogue_eye"
+      },
+      "amount": 1,
+      "id": "feywild:item"
+    }
+  ]
+}

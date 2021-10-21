@@ -1,0 +1,22 @@
+{
+  "parent": "feywild:book",
+  "reputation": 5,
+  "icon": "endrem:magical_eye",
+  "start": {
+    "title": {
+      "text": "Magical Eye"
+    },
+    "description": {
+      "text": "What does the book say?\n\n  $(b;winter)-The magical eye contained the greatest magic know to the Feywild. After the war many wanted the eye's power and many wizards and evokers fought over it. - $()\n\n Wizards and Evokers...I saw an Evoker once during a raid on our forest. They often attack the Harengon villages too! We should try capture one!"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "endrem:magical_eye"
+      },
+      "amount": 1,
+      "id": "feywild:item"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "parent": "feywild:book",
+  "reputation": 5,
+  "icon": "endrem:guardian_eye",
+  "start": {
+    "title": {
+      "text": "Guardian Eye"
+    },
+    "description": {
+      "text": "What does the book say?\n\n  $(b;winter)-One knight was a member of the ancient merfolk, and took the eye to be guarded by a feared underwater creature, known as the Elder Guardian. Earning it's name since that day, It has seen many warriors drown into the depths of the sea try to reclaim it. - $()\n\n This one should be easy! Let's find a cartographer!"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "endrem:guardian_eye"
+      },
+      "amount": 1,
+      "id": "feywild:item"
+    }
+  ]
+}

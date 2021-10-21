@@ -1,0 +1,22 @@
+{
+  "parent": "feywild:book",
+  "reputation": 5,
+  "icon": "endrem:wither_eye",
+  "start": {
+    "title": {
+      "text": "Wither Eye"
+    },
+    "description": {
+      "text": "What does the book say?\n\n  $(b;winter)-The Winter Seelie Knight gave the eye to one of his creations, the Wither. The Wither can only be summoned using some unknown necromancer ritual. - $()\n\nOf course, a creation by a Winter Seelie! Its probably some drooling zombie! This will be a breeze!"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "endrem:wither_eye"
+      },
+      "amount": 1,
+      "id": "feywild:item"
+    }
+  ]
+}

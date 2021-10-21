@@ -1,7 +1,7 @@
 
 [endrem]
 	#Enable/Disable usage of Ender Eyes
-	enable_ender_eyes = true
+	enable_ender_eyes = false
 	#Enable/Disable the End Castle
 	enable_end_castle = true
 	#Enable/Disable the End Gate
@@ -15,7 +15,7 @@
 	#Changes the structure that End Remastered eyes track (set value to "null" to disable)
 	eye_behavior = "endrem:end_gate"
 	#Changes the structure that the End Remastered map locates (set value to "null" to disable)
-	map_behavior = "null"
+	map_behavior = "endrem:end_castle"
 	#Enable/Disable generation of vanilla strongholds
 	enable_strongholds = false
 	#Distance in chunks between ancient witch huts

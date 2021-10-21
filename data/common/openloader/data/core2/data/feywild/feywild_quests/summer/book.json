@@ -1,0 +1,29 @@
+{
+  "parent": "feywild:new_mission",
+  "reputation": 5,
+  "icon": "feydata:shadow_court_historia",
+  "start": {
+    "title": {
+      "text": "Concerning Shadow Creatures"
+    },
+    "description": {
+      "text": "Did you find any $(b;spring)information$()?\n What are you standing around for then? Go look! We need to succeed, or $(b;summer)Queen Titania$() will have our heads!\n - The pixie starts digging through a pile of books -\n 'How to make sheep fly!'...Nope! 'Concerning Rabbit Folk'....Nope! 'How to make farming a delight' ....Really? 'The mystical art of agriculture'....This must be the Spring and Autumn Pixie section! "
+    },
+    "complete": {
+      "title": {
+        "text": "Concerning Shadow Creatures"
+      },
+      "description": {
+        "text": "So the $(b;winter)Shadow Court$() was sealed in the end, by these $(b;spring)End Crystals$(). \nThey where scattered across the world....The enderman took the Elytra to their $(b;winter)Queen Morgana$() in the End.\n If we are to retrieve the Elytra who are to obtain all the End Crystals so we can open a portal to the End! Sound easy enough!"    }
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "feydata:shadow_court_historia"
+      },
+      "amount": 1,
+      "id": "feywild:item"
+    }
+  ]
+}

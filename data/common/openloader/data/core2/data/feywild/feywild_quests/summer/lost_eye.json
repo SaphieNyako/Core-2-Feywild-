@@ -1,0 +1,22 @@
+{
+  "parent": "feywild:book",
+  "reputation": 5,
+  "icon": "endrem:lost_eye",
+  "start": {
+    "title": {
+      "text": "Lost Eye"
+    },
+    "description": {
+      "text": "What does the book say?\n\n  $(b;winter)-After the war this eye was given to the Dwarves. It was theirs to protect, but over time it was forgotten and lost and never found again. - $()\n\n Those clumsy dwarves!...Maybe we should search some of their mineshafts in the hope of getting more information from them?"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "endrem:lost_eye"
+      },
+      "amount": 1,
+      "id": "feywild:item"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "parent": "feywild:book",
+  "reputation": 5,
+  "icon": "endrem:witch_eye",
+  "start": {
+    "title": {
+      "text": "Witch Eye"
+    },
+    "description": {
+      "text": "What does the book say?\n\n  $(b;winter)-Somewhere in history this eye was taken by a witch, passing it's power on from generation to generation. The 'Witch Eye' as they call it now, is still in possession of one of the Witch families. - $()\n\n Hmm..a lot of witches like to hang around at the Autumn Court's Eternal Fall woods....we could check them out?"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "endrem:witch_eye"
+      },
+      "amount": 1,
+      "id": "feywild:item"
+    }
+  ]
+}

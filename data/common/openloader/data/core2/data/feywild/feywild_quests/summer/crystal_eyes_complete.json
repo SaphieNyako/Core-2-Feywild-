@@ -1,0 +1,70 @@
+{
+  "parent": [
+    "feywild:black_eye",
+    "feywild:cold_eye",
+    "feywild:corrupted_eye",
+    "feywild:end_crystal_eye",
+    "feywild:guardian_eye",
+    "feywild:lost_eye",
+    "feywild:magical_eye",
+    "feywild:nether_eye",
+    "feywild:old_eye",
+    "feywild:rogue_eye",
+    "feywild:witch_eye",
+    "feywild:wither_eye"
+  ],
+  "reputation": 5,
+  "icon": "minecraft:end_portal_frame",
+  "start": {
+    "title": {
+      "text": "...Along the Journey"
+    },
+    "description": {
+      "text": "We did it! All 12 of them! I'm...beat...\n- The pixie rests on your head, her arms and legs dangling on its side- \nLet's find the nearest $(b;summer)village$()! \nAnd order the biggest meal! My treat! ….Why are you gasping?\nStop it!..I just wanted to show you my gratitude!\nWell...for your friendship....we been through so much together....\nWould you stop it! Just accept my generosity! Hmph!"
+    }
+  },
+  "rewards": [
+    {
+      "item": {
+        "item": "farmersdelight:honey_glazed_ham",
+        "count": 2
+      },
+      "id": "feywild:item"
+    },
+    {
+      "item": {
+        "item": "farmersdelight:shepherds_pie",
+        "count": 2
+      },
+      "id": "feywild:item"
+    },
+    {
+      "item": {
+        "item": "farmersdelight:grilled_salmon",
+        "count": 2
+      },
+      "id": "feywild:item"
+    },
+    {
+      "item": {
+        "item": "farmersdelight:pasta_with_meathballs",
+        "count": 2
+      },
+      "id": "feywild:item"
+    },
+    {
+      "item": {
+        "item": "farmersdelight:dumplings",
+        "count": 2
+      },
+      "id": "feywild:item"
+    },
+    {
+      "item": {
+        "item": "farmersdelight:hamburger",
+        "count": 2
+      },
+      "id": "feywild:item"
+    }
+  ]
+}

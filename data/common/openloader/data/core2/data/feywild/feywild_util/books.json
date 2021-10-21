@@ -82,10 +82,12 @@
   },
   {
     "mod": "feydata",
-    "item": "patchouli:guide_book",
-    "nbt": {
-      "patchouli:book": "patchouli:book_of_dragons"
-    },
+    "item": "feydata:book_of_dragons",
+    "count": 1
+  },
+  {
+    "mod": "feydata",
+    "item": "feydata:shadow_court_historia",
     "count": 1
   }
 ]
