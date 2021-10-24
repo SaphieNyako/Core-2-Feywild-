@@ -1,0 +1,22 @@
+{
+  "parent": "feywild:book",
+  "reputation": 5,
+  "icon": "tombstone:lost_tablet",
+  "start": {
+    "title": {
+      "translate": "Lost Tablet"
+    },
+    "description": {
+      "text": "Lost souls often leave behind a lost tablet, it's a memory manifested...\nProvide a tablet with a soul from a grave, and it might point you in the right direction..."
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "tombstone:lost_tablet"
+      },
+      "amount": 1,
+      "id": "feywild:item"
+    }
+  ]
+}

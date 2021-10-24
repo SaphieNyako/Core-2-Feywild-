@@ -1,0 +1,30 @@
+{
+  "parent": "feywild:bone_armor_complete",
+  "reputation": 5,
+  "icon": "tombstone:decorative_grave_simple",
+  "start": {
+    "title": {
+      "text": "A Simple Grave..."
+    },
+    "description": {
+      "text": "-The pixie sighs- You're still alive?...Why do you keep persisting, Mortal. \nThou as much as I would like to be your friend. \nYour presence in the mortal realm is required. \nMaybe we should postpone our friendship...\nand strengthen your soul by keeping it bound to a $(b;winter)grave stone$().\nSo...why don't you $(b;spring)craft$() your final resting place, Mortal..."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Your own grave stone"
+    },
+    "description": {
+      "text": "That looks comfortable...I envy you, Mortal...\na nice place to rest...\n-The pixie considers taking a nap on your grave-"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "tombstone:decorative_grave_simple"
+      },
+      "id": "feywild:craft",
+      "amount": 1
+    }
+  ]
+}

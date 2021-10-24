@@ -1,0 +1,22 @@
+{
+  "parent": "feywild:lost_tablet",
+  "reputation": 5,
+  "icon": "endrem:nether_eye",
+  "start": {
+    "title": {
+      "text": "Nether Eye"
+    },
+    "description": {
+      "text": "A recap is required...\n\n  $(b;winter)-The knight protecting this eye, gained his power by making a contract with a demon. After the war the demon came to claim the Knights soul and took the eye to his own dimension. - $()\n\n Most efficient.... "
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "endrem:nether_eye"
+      },
+      "amount": 1,
+      "id": "feywild:item"
+    }
+  ]
+}

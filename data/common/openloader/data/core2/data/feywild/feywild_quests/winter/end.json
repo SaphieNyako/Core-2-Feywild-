@@ -1,0 +1,36 @@
+{
+  "parent": "feywild:elytra",
+  "reputation": 5,
+  "icon": "minecraft:elytra",
+  "start": {
+    "title": {
+      "text": "The beginning..."
+    },
+    "description": {
+      "text": "-As you return the Elytra to Queen Mab, your soul is free and you have your own destiny again. You are blessed with the Fey touch. Though uncertain of the consequences of your action, the Elytra is now in the hands of the Winter Court. You freedom and live might be a short gift...-"
+    }
+  },
+  "rewards": [
+    {
+      "item": {
+        "item": "botania:flight_tiara",
+        "count": 1
+      },
+      "id": "feywild:item"
+    },
+    {
+      "item": {
+        "item": "botania:mana_tablet",
+        "count": 1
+      },
+      "id": "feywild:item"
+    },
+    {
+      "item": {
+        "item": "mythicbotany:feysythia",
+        "count": 2
+      },
+      "id": "feywild:item"
+    }
+  ]
+}

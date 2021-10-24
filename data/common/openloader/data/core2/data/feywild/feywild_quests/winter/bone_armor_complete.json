@@ -1,0 +1,60 @@
+{
+  "parent": [
+    "feywild:bone_armor_boots",
+    "feywild:bone_armor_chestplate",
+    "feywild:bone_armor_leggings",
+    "feywild:bone_armor_helmet"
+  ],
+  "reputation": 5,
+  "icon": "druidcraft:bone_chestplate",
+  "start": {
+    "title": {
+      "text": "Presentable..."
+    },
+    "description": {
+      "text": "...such improvement.\n-The pixie says with a monotone voice-\n$(b;spring)Gift$() me your bone $(b;winter)helmet$() and $(b;winter)chestplate$() Adjustments are required... \n"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "A true Reaper!"
+    },
+    "description": {
+      "text": "You look dreadful...Why can't you always look like this?\nI can almost tolerate your existence now."
+    }
+  },
+  "tasks": [
+    {
+      "alignment": "winter",
+      "item": {
+        "item": "druidcraft:bone_chestplate"
+      },
+      "id": "feywild:fey_gift",
+      "times": 1
+    },
+    {
+      "alignment": "winter",
+      "item": {
+        "item": "druidcraft:bone_helmet"
+      },
+      "id": "feywild:fey_gift",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "dungeons_gear:grim_chestplate",
+        "count": 1
+      },
+      "id": "feywild:item"
+    },
+    {
+      "item": {
+        "item": "dungeons_gear:grim_helmet",
+        "count": 1
+      },
+      "id": "feywild:item"
+    }
+  ]
+}
