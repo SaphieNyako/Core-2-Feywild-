@@ -1,0 +1,36 @@
+{
+  "parent": "feywild:winter_complete",
+  "reputation": 5,
+  "icon": "minecraft:dragon_head",
+  "start": {
+    "title": {
+      "text": "The End..."
+    },
+    "description": {
+      "text": "That is the End Dragon, once the great king of all dragons. But he was lured into temptation by Morgan le Fey. You may have found this information yourself...inventive as you are.\\n Be careful darling! - The pixie gives you a kiss on the cheek- Go get them!"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "The End..."
+    },
+    "description": {
+      "translate": "You fulfilled one part of your destiny, are you sure you want to go on for the next? Before you do....-The pixie whispers her name in your ear-..."
+    }
+  },
+  "tasks": [
+    {
+      "entity": "minecraft:ender_dragon",
+      "id": "feywild:kill"
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "minecraft:name_tag",
+        "count": 1
+      },
+      "id": "feywild:item"
+    }
+  ]
+}

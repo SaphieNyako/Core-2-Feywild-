@@ -1,0 +1,19 @@
+{
+  "parent": "feywild:spring_complete",
+  "reputation": 5,
+  "icon": "feywild:autumn_tree_sapling",
+  "start": {
+    "title": {
+      "translate": "Autumn Court"
+    },
+    "description": {
+      "translate": "We should return the dyes to the Autumn Court, so they can start painting the trees in Autumn colours.\n Autumn is the season of changes, much like Spring embraces beginnings, autumn welcomes endings.\nWe make sure everybody has a good time and is well prepared for when winter comes! \n The end may be scary, that's why most mortals fear us Autumn Fey.\n But as you will see, darling. There is beauty near the end."
+    }
+  },
+  "tasks": [
+    {
+      "biome": "feywild:eternal_fall",
+      "id": "feywild:biome"
+    }
+  ]
+}
