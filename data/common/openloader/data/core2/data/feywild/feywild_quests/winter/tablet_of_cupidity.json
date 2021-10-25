@@ -1,0 +1,22 @@
+{
+  "parent": "feywild:book",
+  "reputation": 5,
+  "icon": "tombstone:tablet_of_cupidity",
+  "start": {
+    "title": {
+      "translate": "Tablet of Cupidity"
+    },
+    "description": {
+      "text": "Lost souls often leave behind a lost tablet, it's a memory manifested...\nsome leave behind a memory of their most priced possession they died for...these leave behind, tablet's of cupidity...\nIf we could obtain either one, we might be able to beat the Summer Court..."
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "tombstone:tablet_of_cupidity"
+      },
+      "amount": 1,
+      "id": "feywild:item"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "parent": "feywild:dog_food",
+  "reputation": 5,
+  "icon": "feywild:spring_tree_sapling",
+  "start": {
+    "title": {
+      "translate": "Spring Court"
+    },
+    "description": {
+      "translate": "You would like to know more about the other seasonal Courts? I'm not sure I can tell you a lot, darling!\n The Autumn Court is not concerned with the power struggle of the other Courts. \n We care more about a good home and preparing for when winter is coming. \nOr giving those who are close to death a nice passing and good memories, before leaving them to the cold slumber of Winter...\n\nHowever, I'm still to deliver an offering of dyes, to colour the trees! We could visit the Blossoming Wealds and craft some dye with their flowers!"
+    }
+  },
+  "tasks": [
+    {
+      "biome": "feywild:blossoming_wealds",
+      "id": "feywild:biome"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "parent": "feywild:skull",
+  "reputation": 5,
+  "icon": "druidcraft:bone_leggings",
+  "start": {
+    "title": {
+      "text": "Bone Leggings"
+    },
+    "description": {
+      "text": "You are unrepresentable...\nAs our new Soul Reaper you better look the part! If you are of no value...$(b;winter)Queen Mab$() will take your soul prematurely!\n...$(b;spring)craft$() a pair of $(b;winter)Bone Leggings$()!"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "druidcraft:bone_leggings"
+      },
+      "id": "feywild:craft",
+      "amount": 1
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "parent": "feywild:lost_tablet",
+  "reputation": 5,
+  "icon": "endrem:lost_eye",
+  "start": {
+    "title": {
+      "text": "Lost Eye"
+    },
+    "description": {
+      "text": "A recap is required...\n\n  $(b;winter)-After the war this eye was given to the Dwarves. It was theirs to protect, but over time it was forgotten and lost and never found again. - $()\n\n We should descent into their mineshafts...deep beneath the ground..."
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "endrem:lost_eye"
+      },
+      "amount": 1,
+      "id": "feywild:item"
+    }
+  ]
+}

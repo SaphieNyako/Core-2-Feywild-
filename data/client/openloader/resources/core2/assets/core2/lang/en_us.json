@@ -42,5 +42,7 @@
   "item.endrem.guardian_eye.description": "It has seen many warriors drown into the depths of the sea",
   "item.endrem.end_crystal_eye.description": "It is believed to hold a fragment of the Enderdragon Soul",
   "item.endrem.corrupted_eye.description": "Legend says it will bring infinite fortune to its owner",
-  "item.endrem.witch_eye.description": "Somewhere in history this eye was taken by a witch, passing it's power on from generation to generation."
+  "item.endrem.witch_eye.description": "Somewhere in history this eye was taken by a witch, passing it's power on from generation to generation.",
+
+  "tombstone.item.grave_dust": "Grave's Soul Dust"
 }

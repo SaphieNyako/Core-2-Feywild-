@@ -1,0 +1,39 @@
+{
+  "parent": [
+    "feywild:summer_court",
+    "feywild:offering_titania"
+  ],
+  "reputation": 5,
+  "icon": "feywild:summer_tree_sapling",
+  "start": {
+    "title": {
+      "text": "Summer Court"
+    },
+    "description": {
+      "text": "As expected Queen Titania didn't accept our gift or our presence...recent events haven't favoured our arrival either.\n The Summer Court has been robbed of the Elytra, the mantle of the Seelie Court. \n They demand you retrieve it, as it was your destiny! \n I told them I hold your destiny in my hands and it's up to you if you want to fulfil it or not...\n Why don't we stay at home and postpone our visit to the Winter Court?"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Winter Court"
+    },
+    "description": {
+      "text": "Ow darling...you couldn't resist going on another adventure. Why did you have to come here? Queen Mab will send her frost Wolves after us. \nTheir objective is the same as the Summer Court, retrieve the Elytra and claim it as their own.\n Either way....new Seasonal wars will start, a battle over dominance \n Let's go home. Dog is waiting for us! I'll make you some hot cocoa!"
+    }
+  },
+  "tasks": [
+    {
+      "biome": "feywild:frozen_retreat",
+      "id": "feywild:biome"
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "farmersdelight:hot_cocoa",
+        "count": 2
+      },
+      "id": "feywild:item"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "parent": "feywild:autumn_complete",
+  "reputation": 5,
+  "icon": "feywild:summer_tree_sapling",
+  "start": {
+    "title": {
+      "translate": "Summer Court"
+    },
+    "description": {
+      "translate": "Summer is often associated with potentials, renewals and opportunities. \nHowever they see themselves as the peak of the seasons, the strongest and ever lasting. \nThey are lost in their passions and desire for power.\n As the summer they can be warm and protecting, but also dominant and destructive. There is a reason they are often compared with fire. \nBoth pleasant and terrifying..."
+    }
+  },
+  "tasks": [
+    {
+      "biome": "feywild:golden_seelie_fields",
+      "id": "feywild:biome"
+    }
+  ]
+}

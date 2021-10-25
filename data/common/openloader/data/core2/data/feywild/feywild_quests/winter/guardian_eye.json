@@ -1,0 +1,22 @@
+{
+  "parent": "feywild:lost_tablet",
+  "reputation": 5,
+  "icon": "endrem:guardian_eye",
+  "start": {
+    "title": {
+      "text": "Guardian Eye"
+    },
+    "description": {
+      "text": "A recap is required...\n\n  $(b;winter)-One knight was a member of the ancient merfolk, and took the eye to be guarded by a feared underwater creature, known as the Elder Guardian. Earning it's name since that day, It has seen many warriors drown into the depths of the sea try to reclaim it. - $()\n\n A lost tablet could be of help in finding it's location..."
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "endrem:guardian_eye"
+      },
+      "amount": 1,
+      "id": "feywild:item"
+    }
+  ]
+}
