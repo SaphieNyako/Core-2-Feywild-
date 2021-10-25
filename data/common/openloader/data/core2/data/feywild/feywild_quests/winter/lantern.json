@@ -1,21 +1,21 @@
 {
-  "parent": "feywild:snowballs",
+  "parent": "feywild:skull",
   "reputation": 5,
   "icon": "minecraft:soul_lantern",
   "start": {
     "title": {
-      "text": "Soul Lantern"
+      "translate": "quest.feywild.winter.lantern.start.title"
     },
     "description": {
-      "text": "Here...some soul sand...you can $(b;spring)craft$() your $(b;winter)soul lantern$()...It's purpose? To locate more lost souls...Every $(b;winter)Soul Reaper$() has one..."
+      "translate": "quest.feywild.winter.lantern.start.description"
     }
   },
   "complete": {
     "title": {
-      "text": "Soul Latern"
+      "translate": "quest.feywild.winter.lantern.complete.title"
     },
     "description": {
-      "translate": "Ah Mortal...You shouldn't express so much fear....\n– The pixie pats you on the head – There, there, you have done well!!\nYour soul is safe with me! As long as you provide..."
+      "translate": "quest.feywild.winter.lantern.complete.description"
     }
   },
   "tasks": [
@@ -23,8 +23,16 @@
       "item": {
         "item": "minecraft:soul_lantern"
       },
-      "id": "feywild:craft",
-      "amount": 1
+      "id": "feywild:craft"
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "minecraft:bone",
+        "count": 5
+      },
+      "id": "feywild:item"
     }
   ]
 }

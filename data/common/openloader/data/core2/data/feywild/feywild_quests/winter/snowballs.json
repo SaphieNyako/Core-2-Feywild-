@@ -4,35 +4,35 @@
   "icon": "minecraft:snowball",
   "start": {
     "title": {
-      "translate": "Arms of Winter"
+      "translate": "quest.feywild.winter.snowballs.start.title"
     },
     "description": {
-      "text": "Greetings mortal...Your arrival is as expected.\n– The pixie says with a monotone voice – \nMeaning?...Eventually you would have ended up in the $(b;winter)arms of Winter$() anyways, its inevitable. \n Now that you have stated your name, $(b;winter)your soul belongs to us$()...\nIf you don't want us to collect your soul at this moment in time, you could $(b;spring)provide$() us with $(b;winter)grave's soul dust$()."
+      "translate": "quest.feywild.winter.snowballs.start.description"
     }
   },
   "complete": {
     "title": {
-      "translate": "Clair intentions"
+      "translate": "quest.feywild.winter.snowballs.complete.title"
     },
     "description": {
-      "translate": "You seem very efficient at collecting these...maybe you have a purpose after all. My intentions? aren't the clair?....your soul belongs to us...and thus you either provide for us with more souls or else...\n But if you where to find an early demise, I will be your friend on the other side."
+      "translate": "quest.feywild.winter.snowballs.complete.description"
     }
   },
   "tasks": [
     {
       "alignment": "winter",
       "item": {
-        "item": "tombstone:grave_dust"
+        "item": "minecraft:snowball"
       },
       "id": "feywild:fey_gift",
-      "times": 3
+      "times": 16
     }
   ],
   "rewards": [
     {
       "item": {
-        "item": "minecraft:soul_sand",
-        "count": 2
+        "item": "minecraft:ice",
+        "count": 4
       },
       "id": "feywild:item"
     }

@@ -1,13 +1,38 @@
 {
-  "parent": "feywild:lantern",
+  "parent": "feywild:snowballs",
   "reputation": 5,
   "icon": "minecraft:zombie_head",
   "start": {
     "title": {
-      "text": "Bad Social Skills"
+      "translate": "quest.feywild.winter.skull.start.title"
     },
     "description": {
-      "text": "Mortal...-the pixie sighs-...you seem to upset the undead, and they say I have bad social skills...\nMaybe if you looked less alive, they would tolerate you more..\n-The Pixie evaluates you for vulnerable parts -\nYou would prefer another way? Maybe if you $(b;spring)crafted$() some $(b;winter)bone armor$()?"
+      "translate": "quest.feywild.winter.skull.start.description"
     }
-  }
+  },
+  "complete": {
+    "title": {
+      "translate": "quest.feywild.winter.skull.complete.title"
+    },
+    "description": {
+      "translate": "quest.feywild.winter.skull.complete.description"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:zombie_head"
+      },
+      "amount": 1,
+      "id": "feywild:item"
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "minecraft:wither_skeleton_skull"
+      },
+      "id": "feywild:item"
+    }
+  ]
 }
