@@ -7,15 +7,15 @@
       "text": "dog food"
     },
     "description": {
-      "text": "dog food, take good care or the Winter Court will claim him."
+      "text": "Poor dog, he seems famished! \nYou should take good care of 'dog' or the $(b;winter)Winter Court$() will claim him. Maybe you can $(b;spring)cook$() him some $(b;autumn)dog food$()?"
     }
   },
   "complete": {
     "title": {
-      "text": "dog name"
+      "text": "Dog"
     },
     "description": {
-      "text": "dog_name"
+      "text": "Dog! Doggie! Come here! \nDarling made you some food! \nAww look he likes it!\n\n...We can't keep calling him 'dog' he needs a proper name!\nDon't worry, you will never know his real name! So it's fine!"
     }
   },
   "tasks": [

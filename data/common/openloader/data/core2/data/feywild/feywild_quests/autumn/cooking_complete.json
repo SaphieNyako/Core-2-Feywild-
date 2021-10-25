@@ -8,10 +8,10 @@
   "icon": "farmersdelight:stove",
   "start": {
     "title": {
-      "text": "cooking done"
+      "text": "Chef!"
     },
     "description": {
-      "text": "cooking done"
+      "text": "Look at that! We're all prepared! Maybe i can get you one of those cute aprons! Let me cook our first meal, sweetie. You rest! You worked so hard!"
     }
   },
   "rewards": [

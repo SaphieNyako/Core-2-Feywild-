@@ -1,13 +1,13 @@
 {
   "parent": "feywild:root",
   "reputation": 5,
-  "icon": "sophisticatedbackpacks:backpack",
+  "icon": "farmersdelight:iron_knife",
   "start": {
     "title": {
       "text": "Home sweet home"
     },
     "description": {
-      "text": "I think I will feel right at home with you. \nAs they say $(b;autumn)'Home is where the heart is!'$() - The pixie winks at you - \nEvery home needs good home cooked food! So let's make some preparations shall we. \nFirst we need to $(b;autumn)craft$() a $(b;autumn)Cooking Knife$(), don't you agree Darling?  "
+      "text": "I think I will feel right at home with you. \nAs they say $(b;autumn)'Home is where the heart is!'$() - The pixie winks at you - \nEvery home needs good home cooked food! So let's make some preparations shall we. \nFirst we need to $(b;spring)craft$() a $(b;autumn)Cooking Knife$(), don't you agree Darling?  "
     }
   },
   "complete": {

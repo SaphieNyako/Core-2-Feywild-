@@ -1,5 +1,5 @@
 {
-  "parent": "feywild:dog_food",
+  "parent": "feywild:spring_complete",
   "reputation": 5,
   "icon": "farmersdelight:stuffed_pumpkin_block",
   "start": {
@@ -7,7 +7,7 @@
       "translate": "The Pumpkin King"
     },
     "description": {
-      "translate": "Unlike the other fairy courts, the Autumn court is an empty throne ruled by none. \n We do however have a sovereign, the Pumpkin King.\n As the name may suggest, he is not a real King, he is more a lord of mischief and fear.\n But we indulge him since no autumn fey is foolish enough to take on the mantle of Autumn Ruler.\n\nI will leave the choice of preparing a dish to you this time! A Stuffed Pumpkin? ...Well, I support your decision sweetie..."
+      "translate": "Unlike the other fairy courts, the $(b;autumn)Autumn court$() is an empty throne ruled by none. \n We do however have a $(b;spring)sovereign$(), the $(b;autumn)Pumpkin King$().\n As the name may suggest, he is not a real King, he is more a lord of mischief and fear.\n But we indulge him since no autumn fey is foolish enough to take on the mantle of Autumn Ruler.\n\nI will leave the choice of preparing a dish to you this time! A $(b;autumn)Stuffed Pumpkin$()? ...Well, I support your decision sweetie...$(b;spring)Gift$() it to me when it's done!"
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "The Pumpkin King"
     },
     "description": {
-      "text": "Very well! One stuffed Pumpkin, for the Pumpkin King! \n\n-The Pumpkin King has received your gift, and offers you a gift in return...It's unsure if he appreciated your offering, or he is sending you a message...- "
+      "text": "Very well! One stuffed Pumpkin, for the $(b;autumn)Pumpkin King$()! \n\n$(b;autumn)-The Pumpkin King has received your gift, and offers you a gift in return...It's unsure if he appreciated your offering, or he is sending you a message...-$() "
     }
   },
   "tasks": [
@@ -38,7 +38,7 @@
     },
     {
       "item": {
-        "item": "dungeons_gear:wolf_helmet",
+        "item": "dungeons_gear:wolf_hood",
         "count": 1
       },
       "id": "feywild:item"

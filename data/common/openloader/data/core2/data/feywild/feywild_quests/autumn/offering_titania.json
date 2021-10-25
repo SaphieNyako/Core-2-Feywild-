@@ -1,5 +1,5 @@
 {
-  "parent": "feywild:dog_food",
+  "parent": "feywild:autumn_complete",
   "reputation": 5,
   "icon": "farmersdelight:honey_glazed_ham_block",
   "start": {
@@ -7,7 +7,7 @@
       "translate": "Queen Titania"
     },
     "description": {
-      "translate": "Titania holds the title of the Fairy Queen, thou a self proclaimed name. Claimed after a everlasting war between light and darkness.\n Though intimidating I know Queen Titania likes to indulge herself, so a Honey Glazed ham would be a perfect gift, for the leader of the Golden Court. Don't you agree, darling?"
+      "translate": "$(b;summer)Titania$() holds the title of the $(b;spring)Fairy Queen$(), thou a self proclaimed name. Claimed after a everlasting war between light and darkness.\n Though intimidating I know Queen Titania likes to indulge herself, so a $(b;autumn)Honey Glazed$() ham would be a perfect $(b;spring)gift$(), for the leader of the Golden Court. Don't you agree, darling?"
     }
   },
   "complete": {

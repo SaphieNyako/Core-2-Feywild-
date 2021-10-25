@@ -11,7 +11,7 @@
       "translate": "quest.feywild.autumn.food_complete.start.title"
     },
     "description": {
-      "text": "I'm so happy you where able to get everything I asked.$(n)I saw you sweating and working those muscles while gathering our crops.$(n)Now that was a reward on it's own.\n\n Since you been working so hard on the fields and on your adventures! I decided you needed some company! \nNo not from me, silly! Every home needs a dog! Take good care of it!"
+      "text": "I'm so happy you where able to get everything I asked.$(n)I saw you sweating and working those muscles while gathering our crops.$(n)Now that was a reward on it's own.\n\n Since you been working so hard on the fields and on your adventures! \nI decided you needed some company! \nNo not from me, silly! Every home needs a $(b;spring)dog$()! Take good care of it!"
     }
   },
   "rewards": [

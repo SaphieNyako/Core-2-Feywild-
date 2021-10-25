@@ -7,7 +7,7 @@
       "translate": "Autumn Court"
     },
     "description": {
-      "translate": "We should return the dyes to the Autumn Court, so they can start painting the trees in Autumn colours.\n Autumn is the season of changes, much like Spring embraces beginnings, autumn welcomes endings.\nWe make sure everybody has a good time and is well prepared for when winter comes! \n The end may be scary, that's why most mortals fear us Autumn Fey.\n But as you will see, darling. There is beauty near the end."
+      "translate": "We should return the dyes to the $(b;autumn)Autumn Court$() so they can start painting the trees in Autumn colours.\n Autumn is the season of changes, much like Spring embraces beginnings, autumn welcomes endings.\nWe make sure everybody has a good time and is well prepared for when winter comes! \n The end may be scary, that's why most mortals fear us Autumn Fey.\n But as you will see, darling. There is beauty near the end."
     }
   },
   "tasks": [

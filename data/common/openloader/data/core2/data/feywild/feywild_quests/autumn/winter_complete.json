@@ -9,7 +9,7 @@
       "text": "Home Sweet Home"
     },
     "description": {
-      "text": "I realise now I can't stop you from going adventuring...\n I hoped the allure of home cooked meals would keep you safe, her with me...but I was wrong\n If you want to go...and find the Elytra...you can, just know i will be there to support you..."
+      "text": "I realise now I can't stop you from going adventuring...\n I hoped the allure of home cooked meals would keep you safe, here with me...but I was wrong\n If you want to go...and $(b;spring)find$() the$(b;spring)Elytra$()...you can, just know i will be there to support you..."
     }
   },
   "complete": {

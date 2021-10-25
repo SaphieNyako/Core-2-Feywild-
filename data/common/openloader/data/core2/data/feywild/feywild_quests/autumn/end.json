@@ -7,7 +7,7 @@
       "text": "The beginning..."
     },
     "description": {
-      "text": "-You and your pixie friend return to the warmth of your home.- \n\n -An assassin of either the winter or summer court came that night. The Autumn fey embrasses you with the touch of the fey, as your last breath leaves your body. You accept her embrace, its warm and comfortable...You become one of the fey and leave your mortal life behind. It was good and full of memories. 'Don't worry' the fey says 'your dog friend will be there too, he tried to defend you...loyal till the end!"
+      "text": "$(b;spring)-You and your pixie friend return to the warmth of your home.-$() \n\n $(b;autumn)-An assassin of either the winter or summer court came that night. The Autumn fey embrasses you with the touch of the fey, as your last breath leaves your body. You accept her embrace, its warm and comfortable...You become one of the fey and leave your mortal life behind. It was good and full of memories. 'Don't worry' the fey says 'your dog friend will be there too, he tried to defend you...loyal till the end!$()"
     }
   },
   "rewards": [

@@ -7,7 +7,7 @@
       "translate": "Prince Oberon"
     },
     "description": {
-      "translate": "The Ruler of the Spring Court is Prince Oberon, a young and charismatic fey. \n He and Queen Titania are lovers for a reason you know -The pixie winks at you - \n Before we enter his land, we may want to prepare a offering. \n What do you think sweetie? I know Prince Oberon on occasion enjoys a juicy Roast Chicken! \n Easy enough to make!"
+      "translate": "The Ruler of the $(b;spring)Spring Court$() is $(b;spring)Prince Oberon$(), a young and charismatic fey. \n He and $(b;summer)Queen Titania$() are lovers for a reason you know -The pixie winks at you - \n Before we enter his land, we may want to prepare a offering. \n What do you think sweetie? I know Prince Oberon on occasion enjoys a juicy $(b;spring)Roast Chicken$()! \n Easy enough to make! When you are done $(b;spring)gift$() it to me."
     }
   },
   "complete": {
@@ -15,7 +15,7 @@
       "text": "Prince Oberon"
     },
     "description": {
-      "text": "Wonderful! I'll make sure prince Oberon receives our offering!\n\n-Prince Oberon was pleased with your offering, he and the Autumn Pixie exchanged recipes. You received a wonderfully prepared roasted mutton chops from Prince Oberon as token of appreciation.- "
+      "text": "Wonderful! I'll make sure $(b;spring)Prince Oberon$() receives our offering!\n\n$(b;spring)-Prince Oberon was pleased with your offering, he and the Autumn Pixie exchanged recipes. You received a wonderfully prepared roasted mutton chops from Prince Oberon as token of appreciation.-$() "
     }
   },
   "tasks": [

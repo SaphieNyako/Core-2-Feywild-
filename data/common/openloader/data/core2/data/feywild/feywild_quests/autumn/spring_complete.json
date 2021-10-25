@@ -11,7 +11,7 @@
       "text": "Spring Court"
     },
     "description": {
-      "text": "Well darling, did you enjoy your stay in the Spring Court? \n Spring represents new beginnings, as winter's frost melts,a rebirth even.\n That's why most of the Spring fey are a depiction of innocence and youthfulness.\n Spring is also the season of fertility where in desires run rampart, and inhibition or restraint is considered an insult.\n What do you say, would you like to stay a bit longer?...Aww don't blush!"
+      "text": "Well darling, did you enjoy your stay in the $(b;spring)Spring Court$()? \n Spring represents $(b;spring)new beginnings$(), a rebirth even.\n That's why most of the Spring fey are a depiction of innocence and youthfulness.\n Spring is also the season of fertility where in desires run rampart, and inhibition or restraint is considered an insult.\n What do you say, would you like to stay a bit longer?...Aww don't blush!"
     }
   }
 }

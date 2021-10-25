@@ -4,10 +4,10 @@
   "icon": "minecraft:red_dye",
   "start": {
     "title": {
-      "translate": "Spring Court"
+      "translate": "Colours of Spring"
     },
     "description": {
-      "translate": "Look at this seas of colours! Isn't it wonderful, darling? Would you be a sweetie and gather a variety of flowers, so we can make a colour pallet to paint the trees."
+      "translate": "Look at this seas of colours! Isn't it wonderful, darling? Would you be a sweetie and gather a variety of flowers, so we can $(b;spring)craft$() a colour pallet of $(b;autumn)dyes$() to paint the trees."
     }
   },
   "tasks": [
