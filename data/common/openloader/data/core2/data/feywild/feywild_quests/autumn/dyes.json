@@ -7,7 +7,15 @@
       "translate": "Spring Court"
     },
     "description": {
-      "translate": "Look at this seas of colours! Isn't it wonderful, darling? Would you be a sweetie and gather a variety of flowers, so we can make a colour pallet to paint the trees."
+      "translate": "You would like to know more about the other seasonal Courts? I'm not sure I can tell you a lot, darling!\n The Autumn Court is not concerned with the power struggle of the other Courts. \n We care more about a good home and preparing for when winter is coming. \nOr giving those who are close to death a nice passing and good memories, before leaving them to the cold slumber of Winter...\n\nHowever, I'm still to deliver an offering of dyes, to colour the trees! We could visit the Blossoming Wealds and craft some dye with their flowers!"
+    }
+  },
+  "complete": {
+    "title": {
+      "translate": "quest.feywild.autumn.dyes.complete.title"
+    },
+    "description": {
+      "translate": "quest.feywild.autumn.dyes.complete.description"
     }
   },
   "tasks": [
@@ -17,6 +25,15 @@
       },
       "id": "feywild:craft",
       "times": 9
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "feywild:autumn_tree_sapling",
+        "count": 3
+      },
+      "id": "feywild:item"
     }
   ]
 }
