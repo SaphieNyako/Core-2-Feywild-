@@ -1,0 +1,28 @@
+{
+  "parent": "feywild:library",
+  "reputation": 5,
+  "icon": "feywild:library_bell",
+  "start": {
+    "title": {
+      "translate": "Annoyance"
+    },
+    "description": {
+      "text": "“Hehe! Me and the Haregon Librarians go waaay back!\nEvery day I would go to his library and ring his $(b;summer)bell$()!\nUntil he would get so upset he would call security!\nSo funny – The little pixie wipes a way a tear of laughter -\n\nWe should hold up tradition!\nBut to make it more interesting, you should $(b;spring)ring$() it!\nI dare you! \nAgain! Do it Again!"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Annoyance"
+    },
+    "description": {
+      "text": "Did you see how angry he got! His face was all red! If we went on a bit longer, I think some carrots would have popped out of his ears! Run! run!"
+    }
+  },
+  "tasks": [
+    {
+      "action": "annoy_librarian",
+      "id": "feywild:special",
+      "times": 1
+    }
+  ]
+}

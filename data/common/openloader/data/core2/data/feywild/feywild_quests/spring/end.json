@@ -1,0 +1,43 @@
+{
+  "parent": "feywild:new_mission",
+  "reputation": 5,
+  "icon": "minecraft:name_tag",
+  "start": {
+    "title": {
+      "text": "The beginning..."
+    },
+    "description": {
+      "text": "-You and your pixie friend return home, loaded with treasures you found at the End Castle. You wonder why the pixie said those word with so much thought...'play with you forever'...You think nothing of it and go to bed. Best day ever!- \n\n$(b;spring)-The little pixie comes to you that night and whispers in your ear. Her name...no mortal should ever hear her name! You forget worries, and embrace the touch of the Fey...a gift from your friend. You become one of the fey and join their Realm to forever play on the Blossoming Wealds.$()-"
+    }
+  },
+  "rewards": [
+    {
+      "item": {
+        "item": "botania:flight_tiara",
+        "count": 1
+      },
+      "id": "feywild:item"
+    },
+    {
+      "item": {
+        "item": "botania:mana_tablet",
+        "count": 1
+      },
+      "id": "feywild:item"
+    },
+    {
+      "item": {
+        "item": "mythicbotany:feysythia",
+        "count": 2
+      },
+      "id": "feywild:item"
+    },
+    {
+      "item": {
+        "item": "minecraft:name_tag",
+        "count": 1
+      },
+      "id": "feywild:item"
+    }
+  ]
+}

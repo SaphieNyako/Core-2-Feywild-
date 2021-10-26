@@ -1,0 +1,16 @@
+{
+  "parent": [
+    "feywild:spring_court",
+    "feywild:dandelion"
+  ],
+  "reputation": 5,
+  "icon": "feywild:spring_tree_sapling",
+  "start": {
+    "title": {
+      "translate": "Spring"
+    },
+    "description": {
+      "translate": "Did you have fun? You had fun didn't you! Best day ever!"
+    }
+  }
+}

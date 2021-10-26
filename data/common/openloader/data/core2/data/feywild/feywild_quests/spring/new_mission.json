@@ -1,0 +1,30 @@
+{
+  "parent": "feywild:shadow_court",
+  "reputation": 5,
+  "icon": "nefdecomod:treasure",
+  "start": {
+    "title": {
+      "text": "A New Mission"
+    },
+    "description": {
+      "text": "Wauw! did you read that!\n\nA forgotten $(b;spring)Castle! Full of Treasures$()!\nWhat? Who cares about the war between the Summer and Winter Court, let them fight it out, while we get all the loot!\n\nMaybe we could ask a Haregon Catographer for help!\nThey map out the lands, and with their luck they can conjure treasure maps.\nIf we get our hands on the right one we might be able to $(b;spring)find$() the $(b;winter)End Castle$() \nbefore the others!\n"
+    },
+    "complete": {
+      "title": {
+        "text": "A New Mission"
+      },
+      "description": {
+        "text": "We found it! We are going to find so much treasure!!\n\nI had so much fun with you traveler! Did you have fun with me too? You did! I'm so glad!\n $(b;autumn)I could play with you forever!$()"
+      }
+    }
+  },
+    "tasks": [
+      {
+        "item": {
+          "item": "feydata:fey_feather"
+        },
+        "amount": 1,
+        "id": "feywild:item"
+      }
+    ]
+}

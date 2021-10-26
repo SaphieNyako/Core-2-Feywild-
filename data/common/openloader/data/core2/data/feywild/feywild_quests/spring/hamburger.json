@@ -1,0 +1,23 @@
+{
+  "parent": "feywild:spring_complete",
+  "reputation": 5,
+  "icon": "farmersdelight:hamburger",
+  "start": {
+    "title": {
+      "text": "Hamburger"
+    },
+    "description": {
+      "text": "If we plan on visiting the $(b;autumn)Autumn Court$() we should prepare a home cooked meal!\nThey are very keen on those traditions!\n\nSo can you cook? \nWe should make something special....\nSomething they never had...something typically human!\n\nA $(b;spring)Hamburger$()? \nThat sounds weird? Are you sure it will do?\nYou know how to $(b;spring)craft$() the best Hamburger in the Feywild?\nIm convinced! \n\nI want one too!!"
+    }
+  },
+  "tasks": [
+    {
+      "alignment": "spring",
+      "item": {
+        "item": "farmersdelight:hamburger"
+      },
+      "id": "feywild:fey_gift",
+      "times": 2
+    }
+  ]
+}

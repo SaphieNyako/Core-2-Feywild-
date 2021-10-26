@@ -1,0 +1,37 @@
+{
+  "parent": "feywild:library_complete",
+  "reputation": 5,
+  "icon": "feywild:dandelion_seed",
+  "start": {
+    "title": {
+      "translate": "Dandelion Race"
+    },
+    "description": {
+      "text": " Look at those dandelions aren't they fluffy!\nYes, they are huge! Or you just became smaller....hehe.\nLet's do a race, see who can $(b;spring)pop$() the $(b;spring)Dandelion fluff$() the quickest! Loser has to make dinner!\nReady! Set! Hey....no fair!"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Dandelion Races"
+    },
+    "description": {
+      "text": "Huff...puff...you cheated! Hmph!"
+    }
+  },
+  "tasks": [
+    {
+      "action": "dandelion",
+      "id": "feywild:special",
+      "times": 6
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "supplementaries:pancake",
+        "count": 6
+      },
+      "id": "feywild:item"
+    }
+  ]
+}

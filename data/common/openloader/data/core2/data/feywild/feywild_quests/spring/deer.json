@@ -1,0 +1,43 @@
+{
+  "parent": "feywild:library_complete",
+  "reputation": 5,
+  "icon": "mysticalworld:antlers",
+  "start": {
+    "title": {
+      "translate": "A Deer"
+    },
+    "description": {
+      "text": "I want to $(b;spring)pet$() every creature that is in this book!\n Like for real! Starting with the $(b;spring)Deer$()! \n\nIt say's here 'These deer are a docile mix of does and stags' ...but...the book says nothing about them\n Ow! How can you tell? The antlers? Ah! I see...mortal creatures are weird...\n-The little pixie looks at you with a puzzling investigating look- \nDo you have antlers?..."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "A Deer"
+    },
+    "description": {
+      "text": "Aaw its adorable! We should keep tons of them at our home! -The pixie tries to close both ears of the deer- And I think they would taste really good!"
+    }
+  },
+  "tasks": [
+    {
+      "type": "mysticalworld:deer",
+      "id": "feydata:pet"
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "mysticalworld:amethyst",
+        "count": 1
+      },
+      "id": "feywild:item"
+    },
+    {
+      "item": {
+        "item": "minecraft:lead",
+        "count": 1
+      },
+      "id": "feywild:item"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "parent": "feywild:autumn_complete",
+  "reputation": 5,
+  "icon": "minecraft:snow_block",
+  "start": {
+    "title": {
+      "translate": "Do you want to..."
+    },
+    "description": {
+      "text": "-You are hit by a tiny snowball - Hehe, stop being so serious!\n Who care about the troubles of the $(b;winter)Winter$() and $(b;summer)Summer$() Court! \n\n W-what!? If I keep playing a $(b;winter)enderman$() will come get me? \n That's not funny! Hmph! \nBefore we go can we at least $(b;spring)make$() a $(b;winter)snowman$()!\n 'Do you want to...' - You hit the pixie with a snowball before she can utter that sentence-"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:carved_pumpkin"
+      },
+      "amount": 1,
+      "id": "feywild:item"
+    },
+    {
+      "item": {
+        "item": "minecraft:snow_block"
+      },
+      "amount": 2,
+      "id": "feywild:item"
+    }
+  ]
+}

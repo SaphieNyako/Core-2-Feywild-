@@ -1,0 +1,22 @@
+{
+  "parent": "feywild:library",
+  "reputation": 5,
+  "icon": "feywild:feywild_lexicon",
+  "start": {
+    "title": {
+      "text": "Feywild Lexicon"
+    },
+    "description": {
+      "text": "Did you find any $(b;spring)information$() yet?\nMeh! I'm so bored! aren't there any fun picture books here? - The pixie starts digging through a pile of books -\n 'Corail Tombstone'...Who is Corl? To grim...'$(b;spring)Mystical World$()'....of what? Oh This one has pictures of all kinds of animals!\n - The little pixie happily starts looking into the book-"
+    },
+    "tasks": [
+      {
+        "item": {
+          "item": "feywild:feywild_lexicon"
+        },
+        "amount": 1,
+        "id": "feywild:item"
+      }
+    ]
+  }
+}

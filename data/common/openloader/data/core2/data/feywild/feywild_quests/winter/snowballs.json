@@ -27,14 +27,5 @@
       "id": "feywild:fey_gift",
       "times": 3
     }
-  ],
-  "rewards": [
-    {
-      "item": {
-        "item": "minecraft:soul_sand",
-        "count": 2
-      },
-      "id": "feywild:item"
-    }
   ]
 }

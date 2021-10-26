@@ -7,7 +7,7 @@
       "text": "Soul Lantern"
     },
     "description": {
-      "text": "Here...some soul sand...you can $(b;spring)craft$() your $(b;winter)soul lantern$()...It's purpose? To locate more lost souls...Every $(b;winter)Soul Reaper$() has one..."
+      "text": "Now...to $(b;spring)craft$() your $(b;winter)soul lantern$()...It's purpose? To locate more lost souls...Every $(b;winter)Soul Reaper$() has one..."
     }
   },
   "complete": {
@@ -21,7 +21,7 @@
   "tasks": [
     {
       "item": {
-        "item": "minecraft:soul_lantern"
+        "item": "feydata:soul_reaper_lantern"
       },
       "id": "feywild:craft",
       "amount": 1

@@ -1,0 +1,19 @@
+{
+  "parent": "feywild:library_complete",
+  "reputation": 5,
+  "icon": "feywild:spring_tree_sapling",
+  "start": {
+    "title": {
+      "translate": "Spring"
+    },
+    "description": {
+      "text": "We should $(b;spring)visit$() our Court first! \nYou already seen the $(b;summer)Summer Court$()...and besides we are wanted Honey Thieves now! We can't show our faces there!\n\nThe $(b;spring)Blossoming Wealds$() are so pretty, so many flowers and creatures!\nLet's go! I'll introduce you to my favorite sheep friends?\nHmm....ow...I knew what a sheep was! I just wanted to see if would make it fly!\nAnd you did, so I knew we would be bestest friends!"
+    }
+  },
+  "tasks": [
+    {
+      "biome": "feywild:blossoming_wealds",
+      "id": "feywild:biome"
+    }
+  ]
+}

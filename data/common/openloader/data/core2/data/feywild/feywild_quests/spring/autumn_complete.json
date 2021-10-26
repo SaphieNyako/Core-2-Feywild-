@@ -1,0 +1,23 @@
+{
+  "parent": [
+    "feywild:autumn_court",
+    "feywild:hamburger",
+    "feywild:mushroom_stew"
+  ],
+  "reputation": 5,
+  "icon": "feywild:autumn_tree_sapling",
+  "start": {
+    "title": {
+      "translate": "Autumn"
+    },
+    "description": {
+      "translate": "$(b;spring)-You enjoy your time with the Pixie in the Autumn Court. It feels like days of chasing Sporelings, dancing in the rain and running through leaves.-$()\n\n$(b;autumn)-As you about to forget time and everything that once was important, you remember...All good things must come to an end-$()\n\n -The pixie notices the change in your demeanor- \n Bored are you? Maybe it is time we move on! $(b;spring)Let's go see the Winter Fey$()!"
+    }
+  },
+  "tasks": [
+    {
+      "biome": "feywild:frozen_retreat",
+      "id": "feywild:biome"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "parent": "feywild:deer",
+  "reputation": 5,
+  "icon": "mysticalworld:carapace",
+  "start": {
+    "title": {
+      "translate": "A Beetle"
+    },
+    "description": {
+      "text": "Oh look at this little guy! It's so cute! You better be careful when you try to pet it!\n The book says it likes melon! maybe we should bring some seeds with us!"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "A Beetle"
+    },
+    "description": {
+      "text": "You squashed it didn't you?...then what is that on your hands?"
+    }
+  },
+  "tasks": [
+    {
+      "type": "mysticalworld:beetle",
+      "id": "feydata:pet"
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "mysticalworld:amethyst",
+        "count": 2
+      },
+      "id": "feywild:item"
+    },
+    {
+      "item": {
+        "item": "minecraft:slime_ball",
+        "count": 2
+      },
+      "id": "feywild:item"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "parent": "feywild:sapling",
+  "reputation": 5,
+  "icon": "minecraft:book",
+  "start": {
+    "title": {
+      "text": "Librarian"
+    },
+    "description": {
+      "text": "You would still like to know more about the other Courts?\nBut I told you everything, we're awesome and fun and they are boring!\nOh! We could make it an adventure and visit the other Courts!\n\nYou want to get some information first? So boring....\nWe could $(b;spring)visit$() a $(b;spring)library$()! The Harengon Librarians can give you some information!"
+    }
+  },
+  "tasks": [
+    {
+      "structure": "feywild:library",
+      "id": "feywild:structure"
+    }
+  ]
+}

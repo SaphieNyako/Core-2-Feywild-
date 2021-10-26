@@ -1,0 +1,37 @@
+{
+  "parent": "feywild:spring_complete",
+  "reputation": 5,
+  "icon": "nefdecomod:raw_mush_stew",
+  "start": {
+    "title": {
+      "text": "Sporeling Stew"
+    },
+    "description": {
+      "text": "You know what I got a craving for after playing tag with the $(b;autumn)Sporelings$()! Mush Stew! Let's gather the $(b;spring)ingredients$()!!"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Sporeling Stew"
+    },
+    "description": {
+      "text": "That looks so delicious!"
+    }
+  },
+  "tasks": [
+    {
+      "entity": "cnb:friendly_sporeling",
+      "id": "feywild:kill",
+      "times": 2
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "nefdecomod:mushroom_stew_cooked",
+        "count": 1
+      },
+      "id": "feywild:item"
+    }
+  ]
+}

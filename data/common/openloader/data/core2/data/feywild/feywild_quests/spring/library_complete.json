@@ -1,0 +1,24 @@
+{
+  "parent": [
+    "feywild:annoyance",
+    "feywild:book"
+  ],
+  "reputation": 5,
+  "icon": "minecraft:book",
+  "start": {
+    "title": {
+      "translate": "Run!"
+    },
+    "description": {
+      "translate": "I think we should better go traveler! \nThe library seems very upset with us. \nWe made a mess of his books, ask all kinds of questions, and did you have to ring that bell so often?\n Ow I borrowed this book! I really like it! Look at all the weird animals!"
+    }
+  },
+  "rewards": [
+    {
+      "item": {
+        "item": "mysticalworld:encyclopedia"
+      },
+      "id": "feywild:item"
+    }
+  ]
+}

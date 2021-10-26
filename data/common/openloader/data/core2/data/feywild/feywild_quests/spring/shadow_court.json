@@ -1,0 +1,22 @@
+{
+  "parent": "feywild:winter_court",
+  "reputation": 5,
+  "icon": "feywild:feywild_lexicon",
+  "start": {
+    "title": {
+      "text": "Feywild Lexicon"
+    },
+    "description": {
+      "text": "Did you find any $(b;spring)information$() yet?\nMeh! I can't believe we are here! Again !? - The pixie starts digging through a pile of books -\n 'Book of Dragons'....Ooooh! These I want to pet for sure!\n - The little pixie happily starts looking into the book-"
+    },
+    "tasks": [
+      {
+        "item": {
+          "item": "feydata:shadow_court_historia"
+        },
+        "amount": 1,
+        "id": "feywild:item"
+      }
+    ]
+  }
+}

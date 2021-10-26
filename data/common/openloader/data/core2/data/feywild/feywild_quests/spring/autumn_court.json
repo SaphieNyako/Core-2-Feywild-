@@ -1,0 +1,19 @@
+{
+  "parent": "feywild:spring_complete",
+  "reputation": 5,
+  "icon": "feywild:autumn_tree_sapling",
+  "start": {
+    "title": {
+      "translate": "Autumn"
+    },
+    "description": {
+      "text": "The $(b;autumn)Autumn Court$() can be really fun! You can fly though all the coloured leaves!\n Play in the rain! Play tag with Sporelings! Ow...and delicious mushroom stew!\nLet's $(b;spring)find$() one of their forests."
+    }
+  },
+  "tasks": [
+    {
+      "biome": "feywild:eternal_fall",
+      "id": "feywild:biome"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "parent": "feywild:autumn_complete",
+  "reputation": 5,
+  "icon": "feywild:winter_tree_sapling",
+  "start": {
+    "title": {
+      "translate": "Winter"
+    },
+    "description": {
+      "text": "Something seems to be amiss. \nThe  $(b;winter)Winter Fey $() are restless, let me find out whats going on.\n\nOh no...something terrible has happened!\nThe $(b;spring)Electra $() have been stolen from the  $(b;summer)Summer Court $()!\nIt's a Ceremonial Item representing the dominant Court, the  $(b;summer)Summer Court $() have been in possession of it for...- the pixie thinks deeply – A very long time!\n\nAn  $(b;winter)Enderman $() of the  $(b;winter)Shadow Court $() stole it!?\nBut I thought the shadow court was a fairy tale. \nMade up to scare misbehaving spring Pixies!\nThey are real? That's so scary!\n\nThe  $(b;summer)Summer Court $() will put everything to get it back, but I bet you the  $(b;winter)Winter Court $() will want to have the Electra for their own! \n\nYou would like to know more about the shadow Court?\nLet's go back to the  $(b;spring)library $() and see if the librarian knows anything about them?"
+    }
+  },
+  "tasks": [
+    {
+      "structure": "feywild:library",
+      "id": "feywild:structure"
+    }
+  ]
+}
