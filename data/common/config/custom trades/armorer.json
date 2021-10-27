@@ -1,0 +1,783 @@
+{
+  "profession": "armorer",
+  "removeOtherTrades": true,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:coal",
+        "amount": 16
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:iron_nugget",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:carrot",
+        "amount": 22
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:gold_nugget",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:carrot",
+        "amount": 22
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:gunpowder",
+        "amount": 3
+      },
+      "request": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:iron_helmet",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 5
+      },
+      "tradeExp": 2,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:iron_chestplate",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 9
+      },
+      "tradeExp": 2,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:iron_leggings",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 7
+      },
+      "tradeExp": 2,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:iron_boots",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 5
+      },
+      "tradeExp": 2,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "mysticalworld:tin_helmet",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 5
+      },
+      "tradeExp": 2,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "mysticalworld:tin_chestplate",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 9
+      },
+      "tradeExp": 2,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "mysticalworld:tin_leggings",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 7
+      },
+      "tradeExp": 2,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "mysticalworld:tin_boots",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 5
+      },
+      "tradeExp": 2,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "wyrmroost:platinum_helmet",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 5
+      },
+      "tradeExp": 2,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "wyrmroost:platinum_chestplate",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 9
+      },
+      "tradeExp": 2,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "wyrmroost:platinum_leggings",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 7
+      },
+      "tradeExp": 2,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "wyrmroost:platinum_boots",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 5
+      },
+      "tradeExp": 2,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "iron_ingot",
+        "amount": 4
+      },
+      "tradeExp": 10,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "gold_ingot",
+        "amount": 4
+      },
+      "tradeExp": 10,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "create:copper_sheet",
+        "amount": 4
+      },
+      "tradeExp": 15,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "create:brass_sheet",
+        "amount": 4
+      },
+      "tradeExp": 15,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "create:iron_sheet",
+        "amount": 4
+      },
+      "tradeExp": 15,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "create:gold_sheet",
+        "amount": 4
+      },
+      "tradeExp": 15,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:bell",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:golden_carrot",
+        "amount": 4
+      },
+      "tradeExp": 5,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "create:goggle",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:golden_carrot",
+        "amount": 1
+      },
+      "tradeExp": 5,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "create:wrench",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:golden_carrot",
+        "amount": 3
+      },
+      "tradeExp": 5,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "wyrmroost:platinum_dragon_armor",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "greater_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 5,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:lava_bucket",
+        "amount": 1
+      },
+      "tradeExp": 20,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:shield",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:greater_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 10,
+      "maxUses": 8,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 6
+    },
+    {
+      "offer": {
+        "itemKey": "dungeonsgear:reinforced_mail_chestplate",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:brilliant_fey_gem",
+        "amount": 2
+      },
+      "tradeExp": 10,
+      "maxUses": 2,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 6
+    },
+    {
+      "offer": {
+        "itemKey": "dungeonsgear:reinforced_mail_helmet",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:brilliant_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 10,
+      "maxUses": 2,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 6
+    },
+    {
+      "offer": {
+        "itemKey": "dungeonsgear:plate_chestplate",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:brilliant_fey_gem",
+        "amount": 2
+      },
+      "tradeExp": 10,
+      "maxUses": 2,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 6
+    },
+    {
+      "offer": {
+        "itemKey": "dungeonsgear:plate_helmet",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:brilliant_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 10,
+      "maxUses": 2,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 6
+    },
+    {
+      "offer": {
+        "itemKey": "dungeonsgear:full_metal_chestplate",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:brilliant_fey_gem",
+        "amount": 2
+      },
+      "tradeExp": 10,
+      "maxUses": 2,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 6
+    },
+    {
+      "offer": {
+        "itemKey": "dungeonsgear:full_metal_helmet",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:brilliant_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 10,
+      "maxUses": 2,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 6
+    },
+    {
+      "offer": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:diamond",
+        "amount": 1
+      },
+      "tradeExp": 30,
+      "maxUses": 2,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 7
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:diamond_helmet",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 2
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "feywild:greater_fey_gem",
+        "amount": 2
+      },
+      "tradeExp": 15,
+      "maxUses": 3,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 8
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:diamond_helmet",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 3
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "feywild:shiny_fey_gem",
+        "amount": 2
+      },
+      "tradeExp": 15,
+      "maxUses": 3,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 8
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:diamond_helmet",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 4
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "feywild:brilliant_fey_gem",
+        "amount": 2
+      },
+      "tradeExp": 15,
+      "maxUses": 3,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 9
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:diamond_leggings",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 2
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "feywild:greater_fey_gem",
+        "amount": 2
+      },
+      "tradeExp": 15,
+      "maxUses": 3,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 8
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:diamond_leggings",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 3
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "feywild:shiny_fey_gem",
+        "amount": 2
+      },
+      "tradeExp": 15,
+      "maxUses": 3,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 8
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:diamond_leggings",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 4
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "feywild:brilliant_fey_gem",
+        "amount": 2
+      },
+      "tradeExp": 15,
+      "maxUses": 3,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 9
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:diamond_boots",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 2
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "feywild:greater_fey_gem",
+        "amount": 2
+      },
+      "tradeExp": 15,
+      "maxUses": 3,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 8
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:diamond_boots",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 3
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "feywild:shiny_fey_gem",
+        "amount": 2
+      },
+      "tradeExp": 15,
+      "maxUses": 3,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 8
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:diamond_boots",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 4
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "feywild:brilliant_fey_gem",
+        "amount": 2
+      },
+      "tradeExp": 15,
+      "maxUses": 3,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 9
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:diamond_chestplate",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 2
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "feywild:greater_fey_gem",
+        "amount": 2
+      },
+      "tradeExp": 15,
+      "maxUses": 3,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 8
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:diamond_chestplate",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 3
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "feywild:shiny_fey_gem",
+        "amount": 2
+      },
+      "tradeExp": 15,
+      "maxUses": 3,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 8
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:diamond_chestplate",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 4
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "feywild:brilliant_fey_gem",
+        "amount": 2
+      },
+      "tradeExp": 15,
+      "maxUses": 3,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 9
+    }
+  ]
+}

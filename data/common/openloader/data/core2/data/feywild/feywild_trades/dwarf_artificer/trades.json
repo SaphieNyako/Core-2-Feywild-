@@ -1,0 +1,332 @@
+[
+  {
+    "amount": 4,
+    "trades": [
+      {
+        "input": {
+          "item": "feywild:greater_fey_gem",
+          "count": 2
+        },
+        "output": {
+          "item": "feywild:feywild_music_disc",
+          "count": 1
+        },
+        "uses": 1,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:brilliant_fey_gem",
+          "count": 1
+        },
+        "output": {
+          "item": "minecraft:totem_of_undying",
+          "count": 1
+        },
+        "uses": 1,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:greater_fey_gem",
+          "count": 1
+        },
+        "output": {
+          "item": "minecraft:dispenser",
+          "count": 4
+        },
+        "uses": 6,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:lesser_fey_gem",
+          "count": 1
+        },
+        "output": {
+          "item": "minecraft:note_block",
+          "count": 4
+        },
+        "uses": 6,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:greater_fey_gem",
+          "count": 1
+        },
+        "output": {
+          "item": "minecraft:piston",
+          "count": 4
+        },
+        "uses": 6,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:greater_fey_gem",
+          "count": 1
+        },
+        "output": {
+          "item": "minecraft:redstone_lamp",
+          "count": 4
+        },
+        "uses": 6,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:shiny_fey_gem",
+          "count": 1
+        },
+        "output": {
+          "item": "minecraft:hopper",
+          "count": 4
+        },
+        "uses": 6,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:greater_fey_gem",
+          "count": 2
+        },
+        "output": {
+          "item": "minecraft:repeater",
+          "count": 4
+        },
+        "uses": 6,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:greater_fey_gem",
+          "count": 3
+        },
+        "output": {
+          "item": "minecraft:comparator",
+          "count": 4
+        },
+        "uses": 6,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:greater_fey_gem",
+          "count": 6
+        },
+        "output": {
+          "item": "feywild:summoning_scroll_spring_pixie",
+          "count": 1
+        },
+        "uses": 1,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:greater_fey_gem",
+          "count": 6
+        },
+        "output": {
+          "item": "feywild:summoning_scroll_summer_pixie",
+          "count": 1
+        },
+        "uses": 1,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:greater_fey_gem",
+          "count": 6
+        },
+        "output": {
+          "item": "feywild:summoning_scroll_autumn_pixie",
+          "count": 1
+        },
+        "uses": 1,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:greater_fey_gem",
+          "count": 6
+        },
+        "output": {
+          "item": "feywild:summoning_scroll_winter_pixie",
+          "count": 1
+        },
+        "uses": 1,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:shiny_fey_gem",
+          "count": 1
+        },
+        "output": {
+          "item": "feywild:fey_altar",
+          "count": 1
+        },
+        "uses": 1,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:lesser_fey_gem",
+          "count": 1
+        },
+        "output": {
+          "item": "minecraft:note_block",
+          "count": 4
+        },
+        "uses": 6,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:greater_fey_gem",
+          "count": 1
+        },
+        "output": {
+          "item": "waystones:return_scroll",
+          "count": 9
+        },
+        "uses": 6,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:greater_fey_gem",
+          "count": 1
+        },
+        "output": {
+          "item": "waystones:bound_scroll",
+          "count": 6
+        },
+        "uses": 6,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:greater_fey_gem",
+          "count": 1
+        },
+        "output": {
+          "item": "waystones:warp_scroll",
+          "count": 6
+        },
+        "uses": 6,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:greater_fey_gem",
+          "count": 1
+        },
+        "output": {
+          "item": "waystones:warp_stone",
+          "count": 2
+        },
+        "uses": 6,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:lesser_fey_gem",
+          "count": 2
+        },
+        "output": {
+          "item": "waystones:warp_plate",
+          "count": 1
+        },
+        "uses": 6,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:lesser_fey_gem",
+          "count": 2
+        },
+        "output": {
+          "item": "supplementaries:globe",
+          "count": 1
+        },
+        "uses": 6,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:lesser_fey_gem",
+          "count": 2
+        },
+        "output": {
+          "item": "supplementaries:clock_block",
+          "count": 1
+        },
+        "uses": 6,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:brilliant_fey_gem",
+          "count": 10
+        },
+        "output": {
+          "item": "endrem:end_crystal_eye",
+          "count": 1
+        },
+        "uses": 6,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:greater_fey_gem",
+          "count": 1
+        },
+        "output": {
+          "item": "naturescompass:naturescompass",
+          "count": 1
+        },
+        "uses": 6,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:shiny_fey_gem",
+          "count": 1
+        },
+        "output": {
+          "item": "tombstone:lost_tablet",
+          "count": 1
+        },
+        "uses": 1,
+        "exp": 0,
+        "mul": 0.05
+      }
+    ]
+  }
+]

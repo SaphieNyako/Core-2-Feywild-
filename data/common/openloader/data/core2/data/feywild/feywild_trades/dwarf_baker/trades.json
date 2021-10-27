@@ -1,0 +1,462 @@
+[
+  {
+    "amount": 3,
+    "trades": [
+      {
+        "input": {
+          "item": "feywild:lesser_fey_gem",
+          "count": 1
+        },
+        "output": {
+          "item": "minecraft:apple",
+          "count": 3
+        },
+        "uses": 10,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:greater_fey_gem",
+          "count": 1
+        },
+        "output": {
+          "item": "minecraft:cookie",
+          "count": 16
+        },
+        "uses": 5,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:greater_fey_gem",
+          "count": 1
+        },
+        "output": {
+          "item": "minecraft:cake",
+          "count": 1
+        },
+        "uses": 3,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:brilliant_fey_gem",
+          "count": 5
+        },
+        "output": {
+          "item": "minecraft:enchanted_golden_apple",
+          "count": 2
+        },
+        "uses": 1,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:greater_fey_gem",
+          "count": 2
+        },
+        "output": {
+          "item": "minecraft:rabbit_stew",
+          "count": 1
+        },
+        "uses": 2,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:greater_fey_gem",
+          "count": 1
+        },
+        "output": {
+          "item": "minecraft:mushroom_stew",
+          "count": 1
+        },
+        "uses": 2,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:greater_fey_gem",
+          "count": 1
+        },
+        "output": {
+          "item": "minecraft:beetroot_soup",
+          "count": 1
+        },
+        "uses": 2,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:lesser_fey_gem",
+          "count": 3
+        },
+        "output": {
+          "item": "minecraft:honey_bottle",
+          "count": 1
+        },
+        "uses": 2,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:greater_fey_gem",
+          "count": 2
+        },
+        "output": {
+          "item": "druidcraft:blueberry_muffin",
+          "count": 16
+        },
+        "uses": 2,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:shiny_fey_gem",
+          "count": 2
+        },
+        "output": {
+          "item": "druidcraft:apple_elderberry_crumble",
+          "count": 8
+        },
+        "uses": 2,
+        "exp": 0,
+        "mul": 0.05
+      }, {
+        "input": {
+          "item": "feywild:shiny_fey_gem",
+          "count": 2
+        },
+        "output": {
+          "item": "druidcraft:apple_elderberry_crumble",
+          "count": 8
+        },
+        "uses": 2,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:greater_fey_gem",
+          "count": 1
+        },
+        "output": {
+          "item": "farmersdelight:apple_pie",
+          "count": 1
+        },
+        "uses": 3,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:greater_fey_gem",
+          "count": 1
+        },
+        "output": {
+          "item": "farmersdelight:sweet_berry_cheesecake",
+          "count": 1
+        },
+        "uses": 3,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:greater_fey_gem",
+          "count": 1
+        },
+        "output": {
+          "item": "farmersdelight:chocolate_pie",
+          "count": 1
+        },
+        "uses": 3,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:greater_fey_gem",
+          "count": 1
+        },
+        "output": {
+          "item": "farmersdelight:sweet_berry_cookie",
+          "count": 16
+        },
+        "uses": 5,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:greater_fey_gem",
+          "count": 1
+        },
+        "output": {
+          "item": "farmersdelight:honey_cookie",
+          "count": 16
+        },
+        "uses": 5,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:lesser_fey_gem",
+          "count": 2
+        },
+        "output": {
+          "item": "farmersdelight:melon_popsicle",
+          "count": 1
+        },
+        "uses": 5,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:greater_fey_gem",
+          "count": 1
+        },
+        "output": {
+          "item": "farmersdelight:fruit_salade",
+          "count": 1
+        },
+        "uses": 2,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:greater_fey_gem",
+          "count": 1
+        },
+        "output": {
+          "item": "farmersdelight:mixed_salade",
+          "count": 1
+        },
+        "uses": 2,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:greater_fey_gem",
+          "count": 1
+        },
+        "output": {
+          "item": "farmersdelight:nether_salade",
+          "count": 1
+        },
+        "uses": 2,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:shiny_fey_gem",
+          "count": 1
+        },
+        "output": {
+          "item": "farmersdelight:chicken_sandwich",
+          "count": 4
+        },
+        "uses": 2,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:shiny_fey_gem",
+          "count": 1
+        },
+        "output": {
+          "item": "farmersdelight:bacon_sandwich",
+          "count": 4
+        },
+        "uses": 2,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:shiny_fey_gem",
+          "count": 1
+        },
+        "output": {
+          "item": "farmersdelight:dumplings",
+          "count": 6
+        },
+        "uses": 2,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:greater_fey_gem",
+          "count": 1
+        },
+        "output": {
+          "item": "farmersdelight:beef_stew",
+          "count": 1
+        },
+        "uses": 2,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:greater_fey_gem",
+          "count": 1
+        },
+        "output": {
+          "item": "farmersdelight:fish_stew",
+          "count": 1
+        },
+        "uses": 2,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:greater_fey_gem",
+          "count": 1
+        },
+        "output": {
+          "item": "farmersdelight:noodle_soup",
+          "count": 1
+        },
+        "uses": 2,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:shiny_fey_gem",
+          "count": 2
+        },
+        "output": {
+          "item": "farmersdelight:paste_with_meatballs",
+          "count": 1
+        },
+        "uses": 2,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:shiny_fey_gem",
+          "count": 2
+        },
+        "output": {
+          "item": "farmersdelight:paste_with_mutton_chop",
+          "count": 1
+        },
+        "uses": 2,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:shiny_fey_gem",
+          "count": 2
+        },
+        "output": {
+          "item": "farmersdelight:roasted_mutton_chop",
+          "count": 1
+        },
+        "uses": 2,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:shiny_fey_gem",
+          "count": 2
+        },
+        "output": {
+          "item": "farmersdelight:vegetable_noodles",
+          "count": 1
+        },
+        "uses": 2,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:shiny_fey_gem",
+          "count": 2
+        },
+        "output": {
+          "item": "farmersdelight:steak_and_potatoes",
+          "count": 1
+        },
+        "uses": 2,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:brilliant_fey_gem",
+          "count": 1
+        },
+        "output": {
+          "item": "farmersdelight:dog_food",
+          "count": 8
+        },
+        "uses": 2,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:brilliant_fey_gem",
+          "count": 1
+        },
+        "output": {
+          "item": "farmersdelight:horse_feed",
+          "count": 2
+        },
+        "uses": 2,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:greater_fey_gem",
+          "count": 1
+        },
+        "output": {
+          "item": "minecraft:golden_carrot",
+          "count": 2
+        },
+        "uses": 2,
+        "exp": 0,
+        "mul": 0.05
+      },
+      {
+        "input": {
+          "item": "feywild:greater_fey_gem",
+          "count": 1
+        },
+        "output": {
+          "item": "supplementaries:pancake",
+          "count": 8
+        },
+        "uses": 5,
+        "exp": 0,
+        "mul": 0.05
+      }
+
+    ]
+  }
+]
