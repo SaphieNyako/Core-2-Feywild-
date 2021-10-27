@@ -19,7 +19,7 @@
     },
     {
       "offer": {
-        "itemKey": "minecraft:empty_map",
+        "itemKey": "minecraft:map",
         "amount": 1
       },
       "request": {
@@ -30,7 +30,7 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 2
+      "tradeLevel": 1
     },
     {
       "offer": {
@@ -45,11 +45,11 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 2
+      "tradeLevel": 1
     },
     {
       "offer": {
-        "itemKey": "waystone:warp_stone",
+        "itemKey": "waystones:warp_stone",
         "amount": 1
       },
       "request": {
@@ -60,7 +60,7 @@
       "maxUses": 4,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 3
+      "tradeLevel": 2
     },
     {
       "offer": {
@@ -75,7 +75,7 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 5
+      "tradeLevel": 2
     },
     {
       "offer": {
@@ -91,7 +91,7 @@
       "tradeExp": 5,
       "maxUses": 4,
       "priceMultiplier": 0.1,
-      "tradeLevel": 4
+      "tradeLevel": 3
     },
     {
       "offer": {
@@ -107,7 +107,7 @@
       "tradeExp": 5,
       "maxUses": 4,
       "priceMultiplier": 0.1,
-      "tradeLevel": 4
+      "tradeLevel": 3
     },
     {
       "offer": {
@@ -123,7 +123,7 @@
       "tradeExp": 5,
       "maxUses": 4,
       "priceMultiplier": 0.1,
-      "tradeLevel": 4
+      "tradeLevel": 3
     },
     {
       "offer": {
@@ -139,7 +139,7 @@
       "tradeExp": 5,
       "maxUses": 4,
       "priceMultiplier": 0.1,
-      "tradeLevel": 4
+      "tradeLevel": 3
     },
     {
       "offer": {
@@ -155,7 +155,7 @@
       "tradeExp": 5,
       "maxUses": 4,
       "priceMultiplier": 0.1,
-      "tradeLevel": 4
+      "tradeLevel": 3
     },
     {
       "offer": {
@@ -171,7 +171,7 @@
       "tradeExp": 5,
       "maxUses": 4,
       "priceMultiplier": 0.1,
-      "tradeLevel": 4
+      "tradeLevel": 3
     },
     {
       "offer": {
@@ -187,7 +187,7 @@
       "tradeExp": 5,
       "maxUses": 4,
       "priceMultiplier": 0.1,
-      "tradeLevel": 4
+      "tradeLevel": 3
     },
     {
       "offer": {
@@ -203,7 +203,7 @@
       "tradeExp": 5,
       "maxUses": 4,
       "priceMultiplier": 0.1,
-      "tradeLevel": 4
+      "tradeLevel": 3
     },
     {
       "offer": {
@@ -219,7 +219,7 @@
       "tradeExp": 5,
       "maxUses": 4,
       "priceMultiplier": 0.1,
-      "tradeLevel": 6
+      "tradeLevel": 4
     },
     {
       "offer": {
@@ -235,7 +235,7 @@
       "tradeExp": 5,
       "maxUses": 4,
       "priceMultiplier": 0.1,
-      "tradeLevel": 6
+      "tradeLevel": 4
     },
     {
       "offer": {
@@ -251,7 +251,7 @@
       "tradeExp": 5,
       "maxUses": 4,
       "priceMultiplier": 0.1,
-      "tradeLevel": 6
+      "tradeLevel": 4
     },
     {
       "offer": {
@@ -267,7 +267,7 @@
       "tradeExp": 5,
       "maxUses": 4,
       "priceMultiplier": 0.1,
-      "tradeLevel": 6
+      "tradeLevel": 4
     },
     {
       "offer": {
@@ -283,7 +283,7 @@
       "tradeExp": 5,
       "maxUses": 4,
       "priceMultiplier": 0.1,
-      "tradeLevel": 6
+      "tradeLevel": 4
     },
     {
       "offer": {
@@ -299,7 +299,7 @@
       "tradeExp": 5,
       "maxUses": 4,
       "priceMultiplier": 0.1,
-      "tradeLevel": 6
+      "tradeLevel": 4
     },
     {
       "offer": {
@@ -314,7 +314,7 @@
       "maxUses": 3,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 7
+      "tradeLevel": 5
     },
     {
       "offer": {
@@ -329,7 +329,7 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 8
+      "tradeLevel": 5
     }
   ]
 }

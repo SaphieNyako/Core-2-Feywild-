@@ -345,7 +345,7 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 5
+      "tradeLevel": 1
     },
     {
       "offer": {
@@ -360,7 +360,7 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 6
+      "tradeLevel": 5
     },
     {
       "offer": {
@@ -368,14 +368,14 @@
         "amount": 1
       },
       "request": {
-        "itemKey": "farmersdelight:barbeque_stick",
+        "itemKey": "farmersdelight:barbecue_stick",
         "amount": 3
       },
       "tradeExp": 20,
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 6
+      "tradeLevel": 5
     },
     {
       "offer": {
@@ -390,7 +390,7 @@
       "maxUses": 16,
       "priceMultiplier": 0.05,
       "demand": 0,
-      "tradeLevel": 6
+      "tradeLevel": 5
     }
   ]
 }
