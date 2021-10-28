@@ -1,0 +1,246 @@
+{
+  "profession": "fletcher",
+  "removeOtherTrades": true,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:leather",
+        "amount": 6
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:carrot",
+        "amount": 22
+      },
+      "request": {
+        "itemKey": "minecraft:leather",
+        "amount": 6
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:leather_helmet",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 5
+      },
+      "tradeExp": 3,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:leather_boots",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 4
+      },
+      "tradeExp": 3,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:leather_chestplate",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 7
+      },
+      "tradeExp": 5,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:leather_leggings",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 6
+      },
+      "tradeExp": 5,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "betterendforge:leather_wrapped_stick",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 3
+      },
+      "tradeExp": 5,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:leather_horse_armor",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 4
+      },
+      "tradeExp": 5,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:saddle",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 3
+      },
+      "tradeExp": 5,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "nefdecomod:saddle_display",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 5,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "nefdecomod:forge",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:greater_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 10,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 3
+      },
+      "request": {
+        "itemKey": "nefdecomod:reinforced_leather_helmet",
+        "amount": 1
+      },
+      "tradeExp": 10,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 2
+      },
+      "request": {
+        "itemKey": "nefdecomod:reinforced_leather_boots",
+        "amount": 1
+      },
+      "tradeExp": 10,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "feywild:greater_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "nefdecomod:reinforced_leather_chestplate",
+        "amount": 1
+      },
+      "tradeExp": 10,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "feywild:greater_fey_gem",
+        "amount": 3
+      },
+      "request": {
+        "itemKey": "nefdecomod:reinforced_leather_leggings",
+        "amount": 1
+      },
+      "tradeExp": 10,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "mysticalagriculture:cow_seeds",
+        "amount": 4
+      },
+      "request": {
+        "itemKey": "feywild:shiny_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 20,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 5
+    }
+  ]
+}

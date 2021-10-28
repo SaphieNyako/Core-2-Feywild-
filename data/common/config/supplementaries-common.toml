@@ -66,7 +66,7 @@
 	[blocks.globe]
 		#how many globe trades to give to the wandering trader. This will effectively increase the chance of him having a globe trader. Increase this if you have other mods that add stuff to that trader
 		#Range: 0 ~ 50
-		chance = 2
+		chance = 0
 		#chanche of finding a globe in a shipwreck treasure chest.
 		#Range: 0.0 ~ 1.0
 		shipwreck_treasure_chance = 0.25
@@ -254,7 +254,7 @@
 		custom_adventurer_maps = [[""]]
 		#Cartographers will sell 'adventurer maps' that will lead to a random vanilla structure (choosen from a thought out preset list).
 		#Best kept disabled if you are adding custom adventurer maps with its config
-		random_adventurer_maps = true
+		random_adventurer_maps = false
 		#enables beacons, lodestones, respawn anchors, beds, conduits, portals to be displayed on maps by clicking one of them with a map
 		block_map_markers = true
 

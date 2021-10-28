@@ -1,0 +1,497 @@
+{
+  "profession": "fletcher",
+  "removeOtherTrades": true,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:stick",
+        "amount": 32
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "farmersdelight:carrot_crate",
+        "amount": 3
+      },
+      "request": {
+        "itemKey": "minecraft:stick",
+        "amount": 32
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "ars_nouveau:wilden_spike",
+        "amount": 1
+      },
+      "tradeExp": 3,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:flint",
+        "amount": 10
+      },
+      "request": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 1,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:arrow",
+        "amount": 10
+      },
+      "request": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 1,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:flint",
+        "amount": 26
+      },
+      "tradeExp": 10,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:bow",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 2
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:string",
+        "amount": 14
+      },
+      "tradeExp": 15,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:feather",
+        "amount": 24
+      },
+      "tradeExp": 20,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:bow",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 1
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "feywild:greater_fey_gem",
+        "amount": 3
+      },
+      "tradeExp": 3,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:crossbow",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 1
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "feywild:greater_fey_gem",
+        "amount": 3
+      },
+      "tradeExp": 3,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "dungeons_gear:flaming_quiver",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:greater_fey_gem",
+        "amount": 3
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "dungeons_gear:torment_quiver",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:greater_fey_gem",
+        "amount": 3
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "dungeons_gear:thundering_quiver",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:greater_fey_gem",
+        "amount": 3
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "dungeons_gear:harpoon_quiver",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:greater_fey_gem",
+        "amount": 3
+      },
+      "tradeExp": 5,
+      "maxUses": 12,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:tipped_arrow",
+        "amount": 5,
+        "effects": [
+          {
+            "potionKey": "random",
+            "blacklistedPotionKeys": [
+              "minecraft:swiftness","minecraft:fire_resistance","minecraft:harming"
+            ]
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 2
+      },
+      "tradeExp": 30,
+      "maxUses": 4,
+      "priceMultiplier": 0.1,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:tipped_arrow",
+        "amount": 5,
+        "effects": [
+          {
+            "potionKey": "random",
+            "blacklistedPotionKeys": [
+              "minecraft:swiftness","minecraft:fire_resistance","minecraft:harming"
+            ]
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 2
+      },
+      "tradeExp": 30,
+      "maxUses": 4,
+      "priceMultiplier": 0.1,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "dungeons_gear:twin_bow",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 3
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "feywild:shiny_fey_gem",
+        "amount": 3
+      },
+      "tradeExp": 3,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 5
+    },
+    {
+      "offer": {
+        "itemKey": "dungeons_gear:power_bow",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 3
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "feywild:shiny_fey_gem",
+        "amount": 3
+      },
+      "tradeExp": 3,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 5
+    },
+    {
+      "offer": {
+        "itemKey": "dungeons_gear:sabrewing",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 3
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "feywild:shiny_fey_gem",
+        "amount": 3
+      },
+      "tradeExp": 3,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 5
+    },
+    {
+      "offer": {
+        "itemKey": "dungeons_gear:guardian_bow",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 3
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "feywild:shiny_fey_gem",
+        "amount": 3
+      },
+      "tradeExp": 3,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 5
+    },
+    {
+      "offer": {
+        "itemKey": "dungeons_gear:hunting_bow",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 3
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "feywild:shiny_fey_gem",
+        "amount": 3
+      },
+      "tradeExp": 3,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 5
+    },
+    {
+      "offer": {
+        "itemKey": "dungeons_gear:snow_bow",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 3
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "feywild:shiny_fey_gem",
+        "amount": 3
+      },
+      "tradeExp": 3,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 5
+    },
+    {
+      "offer": {
+        "itemKey": "dungeons_gear:rapid_crossbow",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 3
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "feywild:shiny_fey_gem",
+        "amount": 3
+      },
+      "tradeExp": 3,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 5
+    },
+    {
+      "offer": {
+        "itemKey": "dungeons_gear:heavy_crossbow",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 3
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "feywild:shiny_fey_gem",
+        "amount": 3
+      },
+      "tradeExp": 3,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 5
+    },
+    {
+      "offer": {
+        "itemKey": "dungeons_gear:scatter_crossbow",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 3
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "feywild:shiny_fey_gem",
+        "amount": 3
+      },
+      "tradeExp": 3,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 5
+    },
+    {
+      "offer": {
+        "itemKey": "dungeons_gear:burst_crossbow",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 3
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "feywild:shiny_fey_gem",
+        "amount": 3
+      },
+      "tradeExp": 3,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 5
+    }
+  ]
+}

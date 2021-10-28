@@ -21,7 +21,7 @@
 			#Range: 0 ~ 1000000
 			illagerCampsiteSpawnpointSeparation = 300
 			#Whether cartographer villagers generate maps for Illager Campsites or not.
-			illagerCampsiteMapTrades = true
+			illagerCampsiteMapTrades = false
 
 		["When Configurations Arise"."Campsite Structures"."Merchant Campsite Spawning Settings"]
 			#Whether merchant Campsites generate on your worlds or not.
@@ -41,7 +41,7 @@
 			#Range: 0 ~ 1000000
 			merchantCampsiteSpawnpointSeparation = 1
 			#Whether cartographer vmerchants generate maps for merchant Campsites or not.
-			merchantCampsiteMapTrades = true
+			merchantCampsiteMapTrades = false
 
 	["When Configurations Arise"."Fortified Structures"]
 
@@ -63,7 +63,7 @@
 			#Range: 0 ~ 1000000
 			illagerCastleSpawnpointSeparation = 1
 			#Whether cartographer villagers generate maps for Illager Castles or not.
-			illagerCastleMapTrades = true
+			illagerCastleMapTrades = false
 
 		["When Configurations Arise"."Fortified Structures"."Illager Fort Spawning Settings"]
 			#Whether Illager Forts generate on your worlds or not.
@@ -83,7 +83,7 @@
 			#Range: 0 ~ 1000000
 			illagerFortSpawnpointSeparation = 500
 			#Whether cartographer villagers generate maps for Illager Forts or not.
-			illagerFortMapTrades = true
+			illagerFortMapTrades = false
 
 		["When Configurations Arise"."Fortified Structures"."Illager Hall Spawning Settings"]
 			#Whether Illager Halls generate on your worlds or not.
@@ -103,7 +103,7 @@
 			#Range: 0 ~ 1000000
 			illagerHallSpawnpointSeparation = 1
 			#Whether cartographer villagers generate maps for Illager Halls or not.
-			illagerHallMapTrades = true
+			illagerHallMapTrades = false
 
 		["When Configurations Arise"."Fortified Structures"."Abandoned Temple Spawning Settings"]
 			#Whether Abandoned Temples generate on your world or not.
@@ -123,7 +123,7 @@
 			#Range: 0 ~ 1000000
 			abandonedTempleSpawnpointSeparation = 1
 			#Whether cartographer villagers generate maps for Abandoned Temples or not.
-			abandonedTempleMapTrades = true
+			abandonedTempleMapTrades = false
 
 		["When Configurations Arise"."Fortified Structures"."Thornborn Towers Spawning Settings"]
 			#Whether Thornborn Towers generate on your world or not.
@@ -143,7 +143,7 @@
 			#Range: 0 ~ 1000000
 			thornbornTowersSpawnpointSeparation = 500
 			#Whether cartographer villagers generate maps for Thornborn Towers or not.
-			thornbornTowersMapTrades = true
+			thornbornTowersMapTrades = false
 
 		["When Configurations Arise"."Fortified Structures"."Monastery Spawning Settings"]
 			#Whether Monasteries generate on your worlds or not.
@@ -163,7 +163,7 @@
 			#Range: 0 ~ 1000000
 			monasterySpawnpointSeparation = 100
 			#Whether cartographer villagers generate maps for Monasteries or not.
-			monasteryMapTrades = true
+			monasteryMapTrades = false
 
 	["When Configurations Arise"."Enigmatic Structures"]
 
@@ -185,7 +185,7 @@
 			#Range: 0 ~ 1000000
 			lighthouseSpawnpointSeparation = 1
 			#Whether cartographer villagers generate maps for Lighthouses or not.
-			lighthouseMapTrades = true
+			lighthouseMapTrades = false
 
 		["When Configurations Arise"."Enigmatic Structures"."Small Blimp Spawning Settings"]
 			#Whether Small Blimps generate on your worlds or not.
@@ -205,7 +205,7 @@
 			#Range: 0 ~ 1000000
 			smallBlimpSpawnpointSeparation = 1
 			#Whether cartographer villagers generate maps for Small Blimps or not.
-			smallBlimpMapTrades = true
+			smallBlimpMapTrades = false
 
 	["When Configurations Arise"."Fungi Structures"]
 
@@ -227,7 +227,7 @@
 			#Range: 0 ~ 1000000
 			mushroomVillageSpawnpointSeparation = 800
 			#Whether cartographer villagers generate maps for Mushroom Villages or not.
-			mushroomVillageMapTrades = true
+			mushroomVillageMapTrades = false
 
 		["When Configurations Arise"."Fungi Structures"."Mushroom Mines Spawning Settings"]
 			#Whether Mushroom Mines generate on your worlds or not.
@@ -247,7 +247,7 @@
 			#Range: 0 ~ 1000000
 			mushroomMinesSpawnpointSeparation = 800
 			#Whether cartographer villagers generate maps for Mushroom Mines or not.
-			mushroomMinesMapTrades = true
+			mushroomMinesMapTrades = false
 
 		["When Configurations Arise"."Fungi Structures"."Mushroom House Spawning Settings"]
 			#Whether Mushroom House generate on your worlds or not.
@@ -349,7 +349,7 @@
 			#Range: 0 ~ 1000000
 			coliseumSpawnpointSeparation = 1000
 			#Whether cartographer villagers generate maps for Coliseums or not.
-			coliseumMapTrades = true
+			coliseumMapTrades = false
 
 		["When Configurations Arise"."Prairie Structures"."Wishing Well Spawning Settings"]
 			#Whether Wishing Wells generate on your worlds or not.
@@ -391,7 +391,7 @@
 			#Range: 0 ~ 1000000
 			infestedTempleSpawnpointSeparation = 1000
 			#Whether cartographer villagers generate maps for Infested Temples or not.
-			infestedTempleMapTrades = true
+			infestedTempleMapTrades = false
 
 		["When Configurations Arise"."Haunted Structures"."Plague Asylum Spawning Settings"]
 			#Whether Plague Asylums generate on your worlds or not.
@@ -411,7 +411,7 @@
 			#Range: 0 ~ 1000000
 			plagueAsylumSpawnpointSeparation = 600
 			#Whether cartographer villagers generate maps for Plague Asylums or not.
-			plagueAsylumMapTrades = true
+			plagueAsylumMapTrades = false
 
 	["When Configurations Arise"."Eerie Structures"]
 
@@ -433,7 +433,7 @@
 			#Range: 0 ~ 1000000
 			heavenlyRiderSpawnpointSeparation = 500
 			#Whether cartographer villagers generate maps for Heavenly Riders or not.
-			heavenlyRiderMapTrades = true
+			heavenlyRiderMapTrades = false
 
 		["When Configurations Arise"."Eerie Structures"."Heavenly Conqueror Spawning Settings"]
 			#Whether Heavenly Conquerors generate on your worlds or not.
@@ -453,7 +453,7 @@
 			#Range: 0 ~ 1000000
 			heavenlyConquerorSpawnpointSeparation = 800
 			#Whether cartographer villagers generate maps for Heavenly Conquerors or not.
-			heavenlyConquerorMapTrades = true
+			heavenlyConquerorMapTrades = false
 
 		["When Configurations Arise"."Eerie Structures"."Heavenly Challenger Spawning Settings"]
 			#Whether Heavenly Challengers generate on your worlds or not.
@@ -473,7 +473,7 @@
 			#Range: 0 ~ 1000000
 			heavenlyChallengerSpawnpointSeparation = 1200
 			#Whether cartographer villagers generate maps for Heavenly Challengers or not.
-			heavenlyChallengerMapTrades = true
+			heavenlyChallengerMapTrades = false
 
 	["When Configurations Arise"."Underworld Structures"]
 
@@ -495,7 +495,7 @@
 			#Range: 0 ~ 1000000
 			miningSystemSpawnpointSeparation = 1
 			#Whether cartographer villagers generate maps for Mining Systems or not.
-			miningSystemMapTrades = true
+			miningSystemMapTrades = false
 
 		["When Configurations Arise"."Underworld Structures"."Scorched Mines Spawning Settings"]
 			#Whether Scorched Mines generate on your worlds or not.
@@ -515,7 +515,7 @@
 			#Range: 0 ~ 1000000
 			scorchedMinesSpawnpointSeparation = 500
 			#Whether cartographer villagers generate maps for Scorched Mines or not.
-			scorchedMinesMapTrades = true
+			scorchedMinesMapTrades = false
 
 		["When Configurations Arise"."Underworld Structures"."Foundry Spawning Settings"]
 			#Whether Foundries generate on your worlds or not.
@@ -535,7 +535,7 @@
 			#Range: 0 ~ 1000000
 			foundrySpawnpointSeparation = 1
 			#Whether cartographer villagers generate maps for Foundries or not.
-			foundryMapTrades = true
+			foundryMapTrades = false
 
 	["When Configurations Arise"."Aquatic Structures"]
 
@@ -557,7 +557,7 @@
 			#Range: 0 ~ 1000000
 			undeadPirateShipSpawnpointSeparation = 1
 			#Whether cartographer villagers generate maps for Undead Pirate Ships or not.
-			undeadPirateShipMapTrades = true
+			undeadPirateShipMapTrades = false
 
 		["When Configurations Arise"."Aquatic Structures"."Thypon Spawning Settings"]
 			#Whether Thypons generate on your worlds or not.
@@ -577,7 +577,7 @@
 			#Range: 0 ~ 1000000
 			typhonSpawnpointSeparation = 1
 			#Whether cartographer villagers generate maps for Thypons or not.
-			typhonMapTrades = true
+			typhonMapTrades = false
 
 		["When Configurations Arise"."Aquatic Structures"."Illager Corsair Spawning Settings"]
 			#Whether Illager Corsairs generate on your worlds or not.
@@ -597,7 +597,7 @@
 			#Range: 0 ~ 1000000
 			illagerCorsairSpawnpointSeparation = 1
 			#Whether cartographer villagers generate maps for Illager Corsairs or not.
-			illagerCorsairMapTrades = true
+			illagerCorsairMapTrades = false
 
 		["When Configurations Arise"."Aquatic Structures"."Illager Galley Spawning Settings"]
 			#Whether Illager Galleys generate on your worlds or not.
@@ -617,7 +617,7 @@
 			#Range: 0 ~ 1000000
 			illagerGalleySpawnpointSeparation = 1
 			#Whether cartographer villagers generate maps for Illager Galleys or not.
-			illagerGalleyMapTrades = true
+			illagerGalleyMapTrades = false
 
 	["When Configurations Arise"."Bandit Structures"]
 
@@ -639,7 +639,7 @@
 			#Range: 0 ~ 1000000
 			banditVillageSpawnpointSeparation = 1
 			#Whether cartographer villagers generate maps for Bandit Villages or not.
-			banditVillageMapTrades = true
+			banditVillageMapTrades = false
 
 		["When Configurations Arise"."Bandit Structures"."Bandit Towers Spawning Settings"]
 			#Whether Bandit Towerss generate on your worlds or not.
@@ -659,7 +659,7 @@
 			#Range: 0 ~ 1000000
 			banditTowersSpawnpointSeparation = 1
 			#Whether cartographer towersrs generate maps for Bandit Towers or not.
-			banditTowersMapTrades = true
+			banditTowersMapTrades = false
 
 	["When Configurations Arise"."Desertic Structures"]
 
@@ -681,7 +681,7 @@
 			#Range: 0 ~ 1000000
 			ceryneianHindSpawnpointSeparation = 800
 			#Whether cartographer villagers generate maps for Ceryneian Hinds or not.
-			ceryneianHindMapTrades = true
+			ceryneianHindMapTrades = false
 
 		["When Configurations Arise"."Desertic Structures"."Shiraz Palace Spawning Settings"]
 			#Whether Shiraz Palaces generate on your worlds or not.
@@ -701,7 +701,7 @@
 			#Range: 0 ~ 1000000
 			shirazPalaceSpawnpointSeparation = 1000
 			#Whether cartographer villagers generate maps for Shiraz Palaces or not.
-			shirazPalaceMapTrades = true
+			shirazPalaceMapTrades = false
 
 	["When Configurations Arise"."Jungle Structures"]
 
@@ -723,5 +723,5 @@
 			#Range: 0 ~ 1000000
 			jungleTreeHouseSpawnpointSeparation = 1000
 			#Whether cartographer villagers generate maps for Jungle Tree Houses or not.
-			jungleTreeHouseMapTrades = true
+			jungleTreeHouseMapTrades = false
 

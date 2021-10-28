@@ -15,7 +15,7 @@
 	#Changes the structure that End Remastered eyes track (set value to "null" to disable)
 	eye_behavior = "endrem:end_gate"
 	#Changes the structure that the End Remastered map locates (set value to "null" to disable)
-	map_behavior = "endrem:end_castle"
+	map_behavior = "null"
 	#Enable/Disable generation of vanilla strongholds
 	enable_strongholds = false
 	#Distance in chunks between ancient witch huts

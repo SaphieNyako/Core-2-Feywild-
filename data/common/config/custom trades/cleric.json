@@ -1,0 +1,417 @@
+{
+  "profession": "cleric",
+  "removeOtherTrades": true,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:rotten_flesh",
+        "amount": 32
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:redstone",
+        "amount": 4
+      },
+      "request": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:redstone",
+        "amount": 4
+      },
+      "request": {
+        "itemKey": "minecraft:carrot",
+        "amount": 22
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:lapis_lazuli",
+        "amount": 3
+      },
+      "request": {
+        "itemKey": "farmersdelight:carrot_crate",
+        "amount": 3
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:lapis_lazuli",
+        "amount": 3
+      },
+      "request": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "tombstone:grave_dust",
+        "amount": 4
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "eidolon:soul_shard",
+        "amount": 4
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "farmersdelight:carrot_crate",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "tombstone:grave_dust",
+        "amount": 2
+      },
+      "tradeExp": 5,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:gold_ingot",
+        "amount": 3
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:mandrake",
+        "amount": 4
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:glowstone_dust",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:greater_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "eidolon:sulfur",
+        "amount": 2
+      },
+      "tradeExp": 5,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "feywild:greater_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "eidolon:ender_calx",
+        "amount": 4
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:scute",
+        "amount": 4
+      },
+      "tradeExp": 15,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "wyrmroost:desert_wyrm",
+        "amount": 4
+      },
+      "tradeExp": 15,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:glass_bottle",
+        "amount": 9
+      },
+      "tradeExp": 15,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:nether_wart",
+        "amount": 22
+      },
+      "tradeExp": 15,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "feywild:greater_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "eidolon:crimson_essence",
+        "amount": 1
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "feywild:greater_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "eidolon:fungus_sprouts",
+        "amount": 1
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "feywild:greater_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "eidolon:warped_sprouts",
+        "amount": 1
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:experience_bottle",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:greater_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 20,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "offer":{
+        "itemKey":"minecraft:potion",
+        "amount":3,
+        "priceModifier":0,
+        "effects":[
+          {
+            "effectKey":"random",
+            "duration":300,
+            "level":0,
+            "isVisible":true
+          }
+        ]
+      },
+      "request":{
+        "itemKey":"feywild:lesser_fey_gem",
+        "amount":1,
+        "priceModifier":0
+      },
+      "tradeExp":5,
+      "maxUses":10,
+      "priceMultiplier":0.1,
+      "tradeLevel":5
+    },
+    {
+      "offer":{
+        "itemKey":"minecraft:potion",
+        "amount":3,
+        "priceModifier":0,
+        "effects":[
+          {
+            "effectKey":"random",
+            "duration":1200,
+            "level":1,
+            "isVisible":true
+          }
+        ]
+      },
+      "request":{
+        "itemKey":"feywild:greater_fey_gem",
+        "amount":1,
+        "priceModifier":0
+      },
+      "tradeExp":10,
+      "maxUses":10,
+      "priceMultiplier":0.1,
+      "tradeLevel":5
+    },
+    {
+      "offer":{
+        "itemKey":"minecraft:potion",
+        "amount":3,
+        "priceModifier":0,
+        "effects":[
+          {
+            "effectKey":"random",
+            "duration":2400,
+            "level":2,
+            "isVisible":true
+          }
+        ]
+      },
+      "request":{
+        "itemKey":"feywild:shiny_fey_gem",
+        "amount":1,
+        "priceModifier":0
+      },
+      "tradeExp":20,
+      "maxUses":10,
+      "priceMultiplier":0.1,
+      "tradeLevel":5
+    },
+    {
+      "offer":{
+        "itemKey":"minecraft:potion",
+        "amount":3,
+        "priceModifier":0,
+        "effects":[
+          {
+            "effectKey":"random",
+            "duration":3600,
+            "level":3,
+            "isVisible":true
+          }
+        ]
+      },
+      "request":{
+        "itemKey":"feywild:brilliant_fey_gem",
+        "amount":1,
+        "priceModifier":0
+      },
+      "tradeExp":30,
+      "maxUses":10,
+      "priceMultiplier":0.1,
+      "tradeLevel":5
+    }
+  ]
+}
