@@ -1,0 +1,367 @@
+{
+  "profession": "toolsmith",
+  "removeOtherTrades": true,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "minecraft:iron_nugget",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:carrot",
+        "amount": 22
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:gold_nugget",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:carrot",
+        "amount": 22
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:coal",
+        "amount": 16
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "minecraft:stone_axe",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:stone_shovel",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:stone_pickaxe",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:stone_hoe",
+          "amount": 1
+        },
+        {
+          "itemKey": "druidcraft:stone_sickle",
+          "amount": 1
+        },
+        {
+          "itemKey": "mysticalworld:stone_knife",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey":"feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 1,
+      "maxUses": 16,
+      "priceMultiplier": 0.5,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "minecraft:iron_axe",
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentKey": "random",
+              "enchantmentLevel": 0
+            }
+          ]
+        },
+        {
+          "itemKey": "minecraft:iron_shovel",
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentKey": "random",
+              "enchantmentLevel": 0
+            }
+          ]
+        },
+        {
+          "itemKey": "minecraft:iron_pickaxe",
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentKey": "random",
+              "enchantmentLevel": 0
+            }
+          ]
+        },
+        {
+          "itemKey": "minecraft:iron_hoe",
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentKey": "random",
+              "enchantmentLevel": 0
+            }
+          ]
+        },
+        {
+          "itemKey": "druidcraft:iron_sickle",
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentKey": "random",
+              "enchantmentLevel": 0
+            }
+          ]
+        },
+        {
+          "itemKey": "farmersdelight:iron_knife",
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentKey": "random",
+              "enchantmentLevel": 0
+            }
+          ]
+        }
+      ],
+      "request": {
+        "itemKey":"feywild:greater_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.5,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "create:empty_schematic",
+        "amount": 8
+      },
+      "request": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 5,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:bell",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:golden_carrot",
+        "amount": 4
+      },
+      "tradeExp": 5,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "create:goggles",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:golden_carrot",
+        "amount": 1
+      },
+      "tradeExp": 5,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "create:wrench",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:golden_carrot",
+        "amount": 3
+      },
+      "tradeExp": 5,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "minecraft:diamond_axe",
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentKey": "random",
+              "enchantmentLevel": 2
+            }
+          ]
+        },
+        {
+          "itemKey": "minecraft:diamond_shovel",
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentKey": "random",
+              "enchantmentLevel": 2
+            }
+          ]
+        },
+        {
+          "itemKey": "minecraft:diamond_pickaxe",
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentKey": "random",
+              "enchantmentLevel": 2
+            }
+          ]
+        },
+        {
+          "itemKey": "minecraft:diamond_hoe",
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentKey": "random",
+              "enchantmentLevel": 2
+            }
+          ]
+        },
+        {
+          "itemKey": "druidcraft:diamond_sickle",
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentKey": "random",
+              "enchantmentLevel": 2
+            }
+          ]
+        },
+        {
+          "itemKey": "farmersdelight:diamond_knife",
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentKey": "random",
+              "enchantmentLevel": 2
+            }
+          ]
+        }
+      ],
+      "request": {
+        "itemKey":"feywild:shiny_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 15,
+      "maxUses": 16,
+      "priceMultiplier": 0.5,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "minecraft:diamond_axe",
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentKey": "random",
+              "enchantmentLevel": 3
+            }
+          ]
+        },
+        {
+          "itemKey": "minecraft:diamond_shovel",
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentKey": "random",
+              "enchantmentLevel": 3
+            }
+          ]
+        },
+        {
+          "itemKey": "minecraft:diamond_pickaxe",
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentKey": "random",
+              "enchantmentLevel": 3
+            }
+          ]
+        },
+        {
+          "itemKey": "minecraft:diamond_hoe",
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentKey": "random",
+              "enchantmentLevel": 3
+            }
+          ]
+        },
+        {
+          "itemKey": "druidcraft:diamond_sickle",
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentKey": "random",
+              "enchantmentLevel": 3
+            }
+          ]
+        },
+        {
+          "itemKey": "farmersdelight:diamond_knife",
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentKey": "random",
+              "enchantmentLevel": 3
+            }
+          ]
+        }
+      ],
+      "request": {
+        "itemKey":"feywild:brilliant_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 15,
+      "maxUses": 16,
+      "priceMultiplier": 0.5,
+      "demand": 0,
+      "tradeLevel": 5
+    }
+  ]
+}

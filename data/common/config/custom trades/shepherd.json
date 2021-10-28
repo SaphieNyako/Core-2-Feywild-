@@ -1,0 +1,575 @@
+{
+  "profession": "mason",
+  "removeOtherTrades": true,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "mysticalworld:spindle",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 1,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "mysticalworld:silk_thread",
+        "amount": 8
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:string",
+        "amount": 14
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:white_wool",
+        "amount": 18
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:black_wool",
+        "amount": 18
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:brown_wool",
+        "amount": 18
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:gray_wool",
+        "amount": 18
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:shears",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 2
+      },
+      "tradeExp": 1,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "minecraft:white_wool",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:orange_wool",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:light_blue_wool",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:yellow_wool",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:lime_wool",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:pink_wool",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:gray_wool",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:light_gray_wool",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:cyan_wool",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:purple_wool",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:blue_wool",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:brown_wool",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:green_wool",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:yellow_wool",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey":"feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 5,
+      "maxUses": 16,
+      "priceMultiplier": 0.5,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "minecraft:white_wool",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:orange_wool",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:light_blue_wool",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:yellow_wool",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:lime_wool",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:pink_wool",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:gray_wool",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:light_gray_wool",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:cyan_wool",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:purple_wool",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:blue_wool",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:brown_wool",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:green_wool",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:yellow_wool",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey":"feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 5,
+      "maxUses": 16,
+      "priceMultiplier": 0.5,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "botania:manaweave_cloth",
+        "amount": 4
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "eidolon:wicked_weave",
+        "amount": 2
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "ars_nouveau:mana_fiber",
+        "amount": 10
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "botania:manaweave_cloth",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "eidolon:tattered_cloth",
+        "amount": 4
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "eidolon:wicked_weave",
+        "amount": 2
+      },
+      "request": {
+        "itemKey": "eidolon:tattered_cloth",
+        "amount": 8
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "ars_nouveau:mana_fiber",
+        "amount": 10
+      },
+      "request": {
+        "itemKey": "eidolon:tattered_cloth",
+        "amount": 8
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "ars_nouveau:mana_fiber",
+        "amount": 10
+      },
+      "request": {
+        "itemKey": "eidolon:tattered_cloth",
+        "amount": 8
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "offer": {
+        "itemKey": "dungeons_gear:battle_robe",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 3
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "feywild:shiny_fey_gem",
+        "amount": 3
+      },
+      "tradeExp": 3,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 5
+    },
+    {
+      "offer": {
+        "itemKey": "dungeons_gear:splendid_robe",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 3
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "feywild:shiny_fey_gem",
+        "amount": 3
+      },
+      "tradeExp": 3,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 5
+    },
+    {
+      "offer": {
+        "itemKey": "dungeons_gear:ember_robe",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 3
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "feywild:shiny_fey_gem",
+        "amount": 3
+      },
+      "tradeExp": 3,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 5
+    },
+    {
+      "offer": {
+        "itemKey": "dungeons_gear:ember_hat",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 3
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "feywild:shiny_fey_gem",
+        "amount": 3
+      },
+      "tradeExp": 3,
+      "maxUses": 10,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 5
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "nefdecomod:alex_plushie",
+          "amount": 1
+        },
+        {
+          "itemKey": "nefdecomod:creeper_plushie",
+          "amount": 1
+        },
+        {
+          "itemKey": "nefdecomod:skeleton_plushie",
+          "amount": 1
+        },
+        {
+          "itemKey": "nefdecomod:zombie_plushie",
+          "amount": 1
+        },
+        {
+          "itemKey": "nefdecomod:steve_plushie",
+          "amount": 1
+        },
+        {
+          "itemKey": "nefdecomod:enderman_plushie",
+          "amount": 1
+        },
+        {
+          "itemKey": "nefdecomod:angel_bee_plushie",
+          "amount": 1
+        },
+        {
+          "itemKey": "nefdecomod:asian_half_plushie",
+          "amount": 1
+        },
+        {
+          "itemKey": "nefdecomod:flammango_plushie",
+          "amount": 1
+        },
+        {
+          "itemKey": "nefdecomod:chela_plushie",
+          "amount": 1
+        },
+        {
+          "itemKey": "nefdecomod:nef_plushie",
+          "amount": 1
+        },
+        {
+          "itemKey": "nefdecomod:drako_plushie",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey":"feywild:greater_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 5,
+      "maxUses": 16,
+      "priceMultiplier": 0.5,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "nefdecomod:alex_plushie",
+          "amount": 1
+        },
+        {
+          "itemKey": "nefdecomod:creeper_plushie",
+          "amount": 1
+        },
+        {
+          "itemKey": "nefdecomod:skeleton_plushie",
+          "amount": 1
+        },
+        {
+          "itemKey": "nefdecomod:zombie_plushie",
+          "amount": 1
+        },
+        {
+          "itemKey": "nefdecomod:steve_plushie",
+          "amount": 1
+        },
+        {
+          "itemKey": "nefdecomod:enderman_plushie",
+          "amount": 1
+        },
+        {
+          "itemKey": "nefdecomod:angel_bee_plushie",
+          "amount": 1
+        },
+        {
+          "itemKey": "nefdecomod:asian_half_plushie",
+          "amount": 1
+        },
+        {
+          "itemKey": "nefdecomod:flammango_plushie",
+          "amount": 1
+        },
+        {
+          "itemKey": "nefdecomod:chela_plushie",
+          "amount": 1
+        },
+        {
+          "itemKey": "nefdecomod:nef_plushie",
+          "amount": 1
+        },
+        {
+          "itemKey": "nefdecomod:drako_plushie",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey":"feywild:greater_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 5,
+      "maxUses": 16,
+      "priceMultiplier": 0.5,
+      "demand": 0,
+      "tradeLevel": 4
+    }
+  ]
+}

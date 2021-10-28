@@ -241,6 +241,49 @@
       "priceMultiplier": 0.05,
       "demand": 0,
       "tradeLevel": 5
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "dungeons_gear:battlestaff",
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentKey": "random",
+              "enchantmentLevel": 2
+            }
+          ]
+        },
+        {
+          "itemKey": "dungeons_gear:battlestaff_of_terror",
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentKey": "random",
+              "enchantmentLevel": 2
+            }
+          ]
+        },
+        {
+          "itemKey": "dungeons_gear:growing_staff",
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentKey": "random",
+              "enchantmentLevel": 2
+            }
+          ]
+        }
+      ],
+      "request": {
+        "itemKey":"feywild:brilliant_fey_gem",
+        "amount": 2
+      },
+      "tradeExp": 15,
+      "maxUses": 16,
+      "priceMultiplier": 0.5,
+      "demand": 0,
+      "tradeLevel": 5
     }
   ]
 }

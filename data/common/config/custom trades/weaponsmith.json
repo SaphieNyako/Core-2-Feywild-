@@ -1,0 +1,310 @@
+{
+  "profession": "weaponsmith",
+  "removeOtherTrades": true,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "minecraft:iron_nugget",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:carrot",
+        "amount": 22
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:gold_nugget",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:carrot",
+        "amount": 22
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:coal",
+        "amount": 16
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "minecraft:stone_axe",
+          "amount": 1
+        },
+        {
+          "itemKey": "minecraft:stone_sword",
+          "amount": 1
+        },
+        {
+          "itemKey": "mysticalworld:stone_spear",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey":"feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 1,
+      "maxUses": 16,
+      "priceMultiplier": 0.5,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "minecraft:iron_axe",
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentKey": "random",
+              "enchantmentLevel": 0
+            }
+          ]
+        },
+        {
+          "itemKey": "mysticalworld:iron_spear",
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentKey": "random",
+              "enchantmentLevel": 0
+            }
+          ]
+        },
+        {
+          "itemKey": "betterendforge:iron_hammer",
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentKey": "random",
+              "enchantmentLevel": 0
+            }
+          ]
+        }
+      ],
+      "request": {
+        "itemKey":"feywild:greater_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.5,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "create:empty_schematic",
+        "amount": 8
+      },
+      "request": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 5,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:bell",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:golden_carrot",
+        "amount": 4
+      },
+      "tradeExp": 5,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "create:goggles",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:golden_carrot",
+        "amount": 1
+      },
+      "tradeExp": 5,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "minecraft:diamond_axe",
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentKey": "random",
+              "enchantmentLevel": 2
+            }
+          ]
+        },
+        {
+          "itemKey": "minecraft:diamond_sword",
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentKey": "random",
+              "enchantmentLevel": 2
+            }
+          ]
+        },
+        {
+          "itemKey": "mysticalworld:diamond_spear",
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentKey": "random",
+              "enchantmentLevel": 2
+            }
+          ]
+        },
+        {
+          "itemKey": "betterendforge:diamond_hammer",
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentKey": "random",
+              "enchantmentLevel": 2
+            }
+          ]
+        }
+      ],
+      "request": {
+        "itemKey":"feywild:brilliant_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 15,
+      "maxUses": 16,
+      "priceMultiplier": 0.5,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "dungeons_gear:cutlass",
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentKey": "random",
+              "enchantmentLevel": 2
+            }
+          ]
+        },
+        {
+          "itemKey": "dungeons_gear:dancers_sword",
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentKey": "random",
+              "enchantmentLevel": 2
+            }
+          ]
+        },
+        {
+          "itemKey": "dungeons_gear:hawkbrand",
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentKey": "random",
+              "enchantmentLevel": 2
+            }
+          ]
+        },
+        {
+          "itemKey": "dungeons_gear:dancers_sword",
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentKey": "random",
+              "enchantmentLevel": 2
+            }
+          ]
+        },
+        {
+          "itemKey": "dungeons_gear:hammer_of_gravity",
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentKey": "random",
+              "enchantmentLevel": 2
+            }
+          ]
+        },
+        {
+          "itemKey": "dungeons_gear:fortune_spear",
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentKey": "random",
+              "enchantmentLevel": 2
+            }
+          ]
+        },
+        {
+          "itemKey": "dungeons_gear:grave_bane",
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentKey": "random",
+              "enchantmentLevel": 2
+            }
+          ]
+        },
+        {
+          "itemKey": "dungeons_gear:venom_glaive",
+          "amount": 1,
+          "enchantments": [
+            {
+              "enchantmentKey": "random",
+              "enchantmentLevel": 2
+            }
+          ]
+        }
+      ],
+      "request": {
+        "itemKey":"feywild:brilliant_fey_gem",
+        "amount": 2
+      },
+      "tradeExp": 15,
+      "maxUses": 16,
+      "priceMultiplier": 0.5,
+      "demand": 0,
+      "tradeLevel": 5
+    }
+  ]
+}

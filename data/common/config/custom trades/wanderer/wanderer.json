@@ -1,0 +1,388 @@
+{
+  "profession": "wanderer",
+  "removeOtherTrades": true,
+  "trades": [
+    {
+      "isRare":false,
+      "multiOffer": [
+        {
+          "itemKey": "druidcraft:white_bedroll",
+          "amount": 1
+        },
+        {
+          "itemKey": "druidcraft:orange_bedroll",
+          "amount": 1
+        },
+        {
+          "itemKey": "druidcraft:light_blue_bedroll",
+          "amount": 1
+        },
+        {
+          "itemKey": "druidcraft:yellow_bedroll",
+          "amount": 1
+        },
+        {
+          "itemKey": "druidcraft:lime_bedroll",
+          "amount": 1
+        },
+        {
+          "itemKey": "druidcraft:pink_bedroll",
+          "amount": 1
+        },
+        {
+          "itemKey": "druidcraft:gray_bedroll",
+          "amount": 1
+        },
+        {
+          "itemKey": "druidcraft:light_gray_bedroll",
+          "amount": 1
+        },
+        {
+          "itemKey": "druidcraft:cyan_bedroll",
+          "amount": 1
+        },
+        {
+          "itemKey": "druidcraft:purple_bedroll",
+          "amount": 1
+        },
+        {
+          "itemKey": "druidcraft:blue_bedroll",
+          "amount": 1
+        },
+        {
+          "itemKey": "druidcraft:brown_bedroll",
+          "amount": 1
+        },
+        {
+          "itemKey": "druidcraft:green_bedroll",
+          "amount": 1
+        },
+        {
+          "itemKey": "druidcraft:yellow_bedroll",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey":"feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.5,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "isRare":false,
+      "offer": {
+        "itemKey": "sophisticatedbackpacks:backpack",
+        "amount": 3
+      },
+      "request": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 3
+      },
+      "tradeExp": 10,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "isRare":false,
+      "multiOffer": [
+        {
+          "itemKey": "sophisticatedbackpacks:pickup_upgrade",
+          "amount": 1
+        },
+        {
+          "itemKey": "sophisticatedbackpacks:filter_upgrade",
+          "amount": 1
+        },
+        {
+          "itemKey": "sophisticatedbackpacks:magnet_upgrade",
+          "amount": 1
+        },
+        {
+          "itemKey": "sophisticatedbackpacks:feeding_upgrade",
+          "amount": 1
+        },
+        {
+          "itemKey": "sophisticatedbackpacks:restock_upgrade",
+          "amount": 1
+        },
+        {
+          "itemKey": "sophisticatedbackpacks:deposit_upgrade",
+          "amount": 1
+        },
+        {
+          "itemKey": "sophisticatedbackpacks:tank_upgrade",
+          "amount": 1
+        },
+        {
+          "itemKey": "druidcraft:light_gray_bedroll",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey":"feywild:greater_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.5,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "isRare":true,
+      "multiOffer": [
+        {
+          "itemKey": "sophisticatedbackpacks:advanced_pickup_upgrade",
+          "amount": 1
+        },
+        {
+          "itemKey": "sophisticatedbackpacks:advanced_filter_upgrade",
+          "amount": 1
+        },
+        {
+          "itemKey": "sophisticatedbackpacks:advanced_magnet_upgrade",
+          "amount": 1
+        },
+        {
+          "itemKey": "sophisticatedbackpacks:advanced_feeding_upgrade",
+          "amount": 1
+        },
+        {
+          "itemKey": "sophisticatedbackpacks:advanced_restock_upgrade",
+          "amount": 1
+        },
+        {
+          "itemKey": "sophisticatedbackpacks:advanced_deposit_upgrade",
+          "amount": 1
+        },
+        {
+          "itemKey": "sophisticatedbackpacks:battery_upgrade",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey":"feywild:shiny_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.5,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "isRare":false,
+      "offer": {
+        "itemKey": "minecraft:lead",
+        "amount": 2
+      },
+      "request": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "isRare":false,
+      "offer": {
+        "itemKey": "nefdecomod:boat_in_bottle",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "isRare":false,
+      "offer": {
+        "itemKey": "supplementaries:globe",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "isRare":false,
+      "offer": {
+        "itemKey": "minecraft:enchanted_book",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 0
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "feywild:shiny_fey_gem",
+        "amount": 2
+      },
+      "additionalRequest": {
+        "itemKey": "minecraft:book",
+        "amount": 1
+      },
+      "tradeExp": 1,
+      "maxUses": 8,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "isRare":true,
+      "offer": {
+        "itemKey": "minecraft:enchanted_book",
+        "amount": 1,
+        "enchantments": [
+          {
+            "enchantmentKey": "random",
+            "enchantmentLevel": 2
+          }
+        ]
+      },
+      "request": {
+        "itemKey": "feywild:shiny_fey_gem",
+        "amount": 2
+      },
+      "additionalRequest": {
+        "itemKey": "minecraft:book",
+        "amount": 1
+      },
+      "tradeExp": 10,
+      "maxUses": 8,
+      "priceMultiplier": 0.1,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "isRare":false,
+      "offer": {
+        "itemKey": "nefdecomod:map",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 1,
+      "maxUses": 4,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "isRare":true,
+      "multiOffer": [
+        {
+          "itemKey": "minecraft:filled_map",
+          "customName": "Treasure Map - Abandoned Temple",
+          "amount": 1,
+          "mapStructure": "dungeons_arise:abandoned_temple"
+        },
+        {
+          "itemKey": "minecraft:filled_map",
+          "customName": "Treasure Map - Bandit Towers",
+          "amount": 1,
+          "mapStructure": "dungeons_arise:bandit_towers"
+        },
+        {
+          "itemKey": "minecraft:filled_map",
+          "customName": "Treasure Map - Bandit Village",
+          "amount": 1,
+          "mapStructure": "dungeons_arise:bandit_village"
+        },
+        {
+          "itemKey": "minecraft:filled_map",
+          "customName": "Treasure Map - Ceryneian Hind",
+          "amount": 1,
+          "mapStructure": "dungeons_arise:ceryneian_hind"
+        },
+        {
+          "itemKey": "minecraft:filled_map",
+          "customName": "Treasure Map - Coliseum",
+          "amount": 1,
+          "mapStructure": "dungeons_arise:coliseum"
+        },
+        {
+          "itemKey": "minecraft:filled_map",
+          "customName": "Treasure Map - Fishing Hut",
+          "amount": 1,
+          "mapStructure": "dungeons_arise:fishing_hut"
+        },
+        {
+          "itemKey": "minecraft:filled_map",
+          "customName": "Treasure Map - Foundy",
+          "amount": 1,
+          "mapStructure": "dungeons_arise:foundry"
+        },
+        {
+          "itemKey": "minecraft:filled_map",
+          "customName": "Treasure Map - Giant Mushroom",
+          "amount": 1,
+          "mapStructure": "dungeons_arise:giant_mushroom"
+        },
+        {
+          "itemKey": "minecraft:filled_map",
+          "customName": "Treasure Map - Heavenly Challenger",
+          "amount": 1,
+          "mapStructure": "dungeons_arise:heavenly_challenger"
+        },
+        {
+          "itemKey": "minecraft:filled_map",
+          "customName": "Treasure Map - Heavenly Conqueror",
+          "amount": 1,
+          "mapStructure": "dungeons_arise:heavenly_conqueror"
+        },
+        {
+          "itemKey": "minecraft:filled_map",
+          "customName": "Treasure Map - Infested Temple",
+          "amount": 1,
+          "mapStructure": "dungeons_arise:infested_temple"
+        },
+        {
+          "itemKey": "minecraft:filled_map",
+          "customName": "Treasure Map - Light House",
+          "amount": 1,
+          "mapStructure": "dungeons_arise:light_house"
+        },
+        {
+          "itemKey": "minecraft:filled_map",
+          "customName": "Treasure Map - Pirate Ship",
+          "amount": 1,
+          "mapStructure": "dungeons_arise:undead_pirate_ship"
+        }
+      ],
+      "request": {
+        "itemKey":"feywild:greater_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.5,
+      "demand": 0,
+      "tradeLevel": 2
+    }
+  ]
+}
