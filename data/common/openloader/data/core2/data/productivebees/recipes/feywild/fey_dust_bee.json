@@ -1,0 +1,38 @@
+{
+  "type": "feywild:fey_altar",
+  "ingredients": [
+    {
+      "item": "ars_nouveau:mana_bloom_crop"
+    },
+    {
+      "item": "ars_nouveau:mana_bloom"
+    },
+    {
+      "item": "ars_nouveau:mana_bloom"
+    },
+    {
+      "item": "feywild:spring_tree_sapling"
+    },
+    {
+      "item": "ars_nouveau:sylph_shards"
+    }
+  ],
+  "output": {
+    "item": "productivebees:spawn_egg_configurable_bee",
+    "nbt": {
+      "EntityTag": {
+        "type": "productivebees:fey_dust"
+      }
+    }
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "feywild"
+    },
+    {
+      "type": "productivebees:bee_exists",
+      "bee": "productivebees:fey_dust"
+    }
+  ]
+}

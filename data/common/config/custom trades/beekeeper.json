@@ -1,0 +1,291 @@
+{
+  "profession": "beekeeper",
+  "removeOtherTrades": true,
+  "trades": [
+    {
+      "offer": {
+        "itemKey": "farmersdelight:honey_cookie",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+   {
+      "offer": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:campfire",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:shears",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 2
+      },
+      "tradeExp": 1,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "minecraft:flower_pot",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:glass_bottle",
+        "amount": 9
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:honeycomb",
+        "amount": 3
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "supplementaries:flower_box",
+        "amount": 2
+      },
+      "request": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 2,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "productivebees:bee_cage",
+        "amount": 4
+      },
+      "request": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 5,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 2
+    },
+    {
+      "offer": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "minecraft:beehive",
+        "amount": 2
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "offer": {
+        "itemKey": "productivebees:treat_on_a_stick",
+        "amount": 1
+      },
+      "request": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 10,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 3
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "productivebees:bottler",
+          "amount": 1
+        },
+        {
+          "itemKey": "productivebees:centrifuge",
+          "amount": 1
+        },
+        {
+          "itemKey": "productivebees:powered_centrifuge",
+          "amount": 1
+        },
+        {
+          "itemKey": "productivebees:honey_generator",
+          "amount": 1
+        },
+        {
+          "itemKey": "productivebees:catcher",
+          "amount": 1
+        },
+        {
+          "itemKey": "productivebees:incubator",
+          "amount": 1
+        },
+        {
+          "itemKey": "productivebees:gene_indexer",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey":"feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 3,
+      "maxUses": 8,
+      "priceMultiplier": 0.5,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "productivebees:expansion_box_oak",
+          "amount": 1
+        },
+        {
+          "itemKey": "productivebees:expansion_box_spruce",
+          "amount": 1
+        },
+        {
+          "itemKey": "productivebees:expansion_box_birch",
+          "amount": 1
+        },
+        {
+          "itemKey": "productivebees:expansion_box_jungle",
+          "amount": 1
+        },
+        {
+          "itemKey": "productivebees:expansion_box_acacia",
+          "amount": 1
+        },
+        {
+          "itemKey": "productivebees:expansion_box_dark_oak",
+          "amount": 1
+        },
+        {
+          "itemKey": "productivebees:expansion_box_crimson",
+          "amount": 1
+        },
+        {
+          "itemKey": "productivebees:expansion_box_warped",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey":"feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 3,
+      "maxUses": 8,
+      "priceMultiplier": 0.5,
+      "demand": 0,
+      "tradeLevel": 4
+    },
+    {
+      "multiOffer": [
+        {
+          "itemKey": "productivebees:upgrade_productivity",
+          "amount": 1
+        },
+        {
+          "itemKey": "productivebees:upgrade_time",
+          "amount": 1
+        },
+        {
+          "itemKey": "productivebees:expansion_box_birch",
+          "amount": 1
+        },
+        {
+          "itemKey": "productivebees:upgrade_breeding",
+          "amount": 1
+        },
+        {
+          "itemKey": "productivebees:upgrade_comb_block",
+          "amount": 1
+        },
+        {
+          "itemKey": "productivebees:upgrade_anti_teleport",
+          "amount": 1
+        },
+        {
+          "itemKey": "productivebees:upgrade_range",
+          "amount": 1
+        },
+        {
+          "itemKey": "productivebees:upgrade_filter",
+          "amount": 1
+        },
+        {
+          "itemKey": "productivebees:upgrade_bee_sampler",
+          "amount": 1
+        }
+      ],
+      "request": {
+        "itemKey":"feywild:greater_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 20,
+      "maxUses": 8,
+      "priceMultiplier": 0.5,
+      "demand": 0,
+      "tradeLevel": 5
+    }
+  ]
+}
