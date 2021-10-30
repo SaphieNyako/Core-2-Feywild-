@@ -1,0 +1,174 @@
+{
+    "music.game": {
+	"replace": true,
+        "sounds": [
+            {
+                "name": "music/game/vind1",
+                "stream": true
+            },            
+            {
+                "name": "music/game/vind2",
+                "stream": true
+            } ,            
+            {
+                "name": "music/game/vind3",
+                "stream": true
+            },
+	    {
+                "name": "music/game/vind4",
+                "stream": true
+            },  
+	    {
+                "name": "music/game/vind5",
+                "stream": true
+            },            
+	    {
+                "name": "music/game/vind6",
+                "stream": true
+            },            
+	    {
+                "name": "music/game/vind7",
+                "stream": true
+            },            
+	    {
+                "name": "music/game/vind8",
+                "stream": true
+            },            
+	    {
+                "name": "music/game/vind9",
+                "stream": true
+            },            
+	    {
+                "name": "music/game/vind10",
+                "stream": true
+            },            
+	    {
+                "name": "music/game/vind11",
+                "stream": true
+            },            
+	    {
+                "name": "music/game/vind12",
+                "stream": true
+            },            
+	    {
+                "name": "music/game/vind13",
+                "stream": true
+            },            
+	    {
+                "name": "music/game/vind14",
+                "stream": true
+            },            
+	    {
+                "name": "music/game/vind15",
+                "stream": true
+            },            
+	    {
+                "name": "music/game/vind16",
+                "stream": true
+            },            
+	    {
+                "name": "music/game/vind17",
+                "stream": true
+            },            
+	    {
+                "name": "music/game/vind18",
+                "stream": true
+            },            
+	    {
+                "name": "music/game/vind19",
+                "stream": true
+            },            
+	    {
+                "name": "music/game/vind20",
+                "stream": true
+            },   
+	    {
+                "name": "music/game/vind21",
+                "stream": true
+            }, 
+	    {
+                "name": "music/game/vind22",
+                "stream": true
+            }, 
+	    {
+                "name": "music/game/vind23",
+                "stream": true
+            },            
+	    {
+                "name": "music/game/vind24",
+                "stream": true
+            },            
+	    {
+                "name": "music/game/vind25",
+                "stream": true
+            },            
+	    {
+                "name": "music/game/vind26",
+                "stream": true
+            },            
+	    {
+                "name": "music/game/vind27",
+                "stream": true
+            },            
+	    {
+                "name": "music/game/vind28",
+                "stream": true
+            },            
+	    {
+                "name": "music/game/vind29",
+                "stream": true
+            },            
+	    {
+                "name": "music/game/vind30",
+                "stream": true
+            },            
+	    {
+                "name": "music/game/vind31",
+                "stream": true
+            }                                          
+          
+        ]
+    },
+    "music.end": {
+	"replace": true,
+	"sounds": [
+	    {
+		 "name": "music/game/end/boss",
+                "stream": true
+            }   
+        ]
+    },         
+    "music.nether": {
+	"replace": true,
+        "sounds": [
+            {
+                "name": "music/game/nether/nvind1",
+                "stream": true
+            },            
+                       {
+                "name": "music/game/nether/nvind2",
+                "stream": true
+            },                        
+	    {
+                "name": "music/game/nether/nvind3",
+                "stream": true
+            },    
+	    {
+                "name": "music/game/nether/nvind4",
+                "stream": true
+            },   
+	    {
+                "name": "music/game/nether/nvind5",
+                "stream": true
+            },   
+	    {
+                "name": "music/game/nether/nvind6",
+                "stream": true
+            },   
+	    {
+                "name": "music/game/nether/nvind7",
+                "stream": true
+            }           
+        ]
+    }
+}
