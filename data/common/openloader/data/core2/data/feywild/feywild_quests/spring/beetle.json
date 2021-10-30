@@ -7,7 +7,7 @@
       "translate": "A Beetle"
     },
     "description": {
-      "text": "Oh look at this little guy! It's so cute! You better be careful when you try to pet it!\n The book says it likes melon! maybe we should bring some seeds with us!"
+      "text": "Oh look at this little guy!A $(b;spring)beetle$()...It's so cute! You better be careful when you try to $(b;spring)pet$() it!\n The book says it likes melon! maybe we should bring some seeds with us!"
     }
   },
   "complete": {

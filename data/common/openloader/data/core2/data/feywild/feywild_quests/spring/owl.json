@@ -1,0 +1,34 @@
+{
+  "parent": "feywild:squid",
+  "reputation": 5,
+  "icon": "minecraft:writable_book",
+  "start": {
+    "title": {
+      "translate": "An Owl"
+    },
+    "description": {
+      "text": "An $(b;spring)owl$()...it looks like a pluffy bird...Guess we have to $(b;spring)pet$() it to make our list complete!"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "An Owl"
+    },
+    "description": {
+      "text": "I'm not sure I like this one...I keeps staring at me from every angle!\n It knows my secrets! It knows my name...\nI'm sorry Master Owl...wised of all animals! -The pixie slowly moves away from the owl-\n Let's go Traveler! It looks straight into your soul! I knows the truth! About everything!"
+    }
+  },
+  "tasks": [
+    {
+      "type": "mysticalworld:owl",
+      "id": "feydata:pet"
+    },
+    {
+      "item": {
+        "item": "mysticalworld:amethyst",
+        "count": 1
+      },
+      "id": "feywild:item"
+    }
+  ]
+}

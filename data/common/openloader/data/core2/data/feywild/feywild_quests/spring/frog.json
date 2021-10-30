@@ -1,0 +1,43 @@
+{
+  "parent": "feywild:beetle",
+  "reputation": 5,
+  "icon": "minecraft:slime_ball",
+  "start": {
+    "title": {
+      "translate": "A Frog"
+    },
+    "description": {
+      "text": "If you like slimy things so much, maybe we should try find one of these $(b;spring)frogs$()! \n -The pixie hold the book to your face so you can see the image - \nThese frogs regularly drop slime balls while hopping around...We definitely have to $(b;spring)pet$() this one!"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "A Frog"
+    },
+    "description": {
+      "text": "Slimy yet cute! Oh Ssst! Listen!...They make a funny sound. Its like nature's music...\n\n-You and the pixie listen to the beautiful croaking concert- "
+    }
+  },
+  "tasks": [
+    {
+      "type": "mysticalworld:frog",
+      "id": "feydata:pet"
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "mysticalagriculture:slime_seeds",
+        "count": 2
+      },
+      "id": "feywild:item"
+    },
+    {
+      "item": {
+        "item": "mysticalworld:amethyst",
+        "count": 2
+      },
+      "id": "feywild:item"
+    }
+  ]
+}

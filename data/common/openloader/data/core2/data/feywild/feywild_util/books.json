@@ -89,5 +89,13 @@
     "mod": "feydata",
     "item": "feydata:shadow_court_historia",
     "count": 1
+  },
+  {
+    "mod": "productivebees",
+    "item": "patchouli:guide_book",
+    "nbt": {
+      "patchouli:book": "productivebees:guide"
+    },
+    "count": 1
   }
 ]

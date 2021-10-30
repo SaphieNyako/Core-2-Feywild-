@@ -1,0 +1,43 @@
+{
+  "parent": "feywild:sprout",
+  "reputation": 5,
+  "icon": "mysticalworld:raw_squid",
+  "start": {
+    "title": {
+      "translate": "Squid Games"
+    },
+    "description": {
+      "text": "\n -The pixie reads from the book - \n$(b;spring)Squids$() can normally be found in groups under the water. Their ink is used for....Oh! Squid tentacles are also delicious when cooked!\n I'll $(b;spring)pet$() you $(b;autumn)mince$()! "
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Squid Games"
+    },
+    "description": {
+      "text": "You are covered ink! \n-The little pixie points and laughs- \nLet's dig in!"
+    }
+  },"tasks": [
+  {
+    "entity": "minecraft:squid",
+    "id": "feywild:kill",
+    "times": 2
+  }
+],
+  "rewards": [
+    {
+      "item": {
+        "item": "mysticalworld:cooked_squid",
+        "count": 4
+      },
+      "id": "feywild:item"
+    },
+    {
+      "item": {
+        "item": "mysticalworld:amethyst",
+        "count": 2
+      },
+      "id": "feywild:item"
+    }
+  ]
+}

@@ -124,6 +124,21 @@
     },
     {
       "offer": {
+        "itemKey": "productivebees:honey_treat",
+        "amount": 4
+      },
+      "request": {
+        "itemKey": "feywild:lesser_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 1,
+      "maxUses": 16,
+      "priceMultiplier": 0.05,
+      "demand": 0,
+      "tradeLevel": 1
+    },
+    {
+      "offer": {
         "itemKey": "feywild:lesser_fey_gem",
         "amount": 1
       },

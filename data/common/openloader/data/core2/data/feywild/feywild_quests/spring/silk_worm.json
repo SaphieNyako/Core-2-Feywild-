@@ -1,0 +1,43 @@
+{
+  "parent": "feywild:owl",
+  "reputation": 5,
+  "icon": "mysticalworld:silkworm_egg",
+  "start": {
+    "title": {
+      "translate": "A Silk Worm"
+    },
+    "description": {
+      "text": "For others we have to travel dimensions...\nThere is one more on the $(b;spring)petting$() list! It's probably mega super rare! A $(b;spring)silkworm$()!"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "A Silk Worm"
+    },
+    "description": {
+      "text": "Let's build a farm! We put them together and we can make a silk farm!\n\n-The pixie was very disappointed after the attempt-"
+    }
+  },
+  "tasks": [
+    {
+      "type": "mysticalworld:silkworm",
+      "id": "feydata:pet"
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "mysticalworld:spindle",
+        "count": 1
+      },
+      "id": "feywild:item"
+    },
+    {
+      "item": {
+        "item": "mysticalworld:amethyst",
+        "count": 1
+      },
+      "id": "feywild:item"
+    }
+  ]
+}

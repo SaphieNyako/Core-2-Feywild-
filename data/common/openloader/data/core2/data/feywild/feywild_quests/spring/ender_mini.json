@@ -1,0 +1,43 @@
+{
+  "parent": "feywild:lava_cat",
+  "reputation": 5,
+  "icon": "mysticalworld:young_pearl",
+  "start": {
+    "title": {
+      "translate": "Ender Mini"
+    },
+    "description": {
+      "text": "And $(b;spring)Ender mini$()...'These creatures inhabit the End along with their large siblings...' The Enderman??\n Doesn't this have something to do with what the Summer and Winter Court been so concerned about? \nMeh! Who cares! Let's go $(b;spring)pet$() this one!"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Ender Mini"
+    },
+    "description": {
+      "text": "This place is weird! Who would want to live here anyways? \nI guess that enormous giant Dragon!! \n Why is there a dragon here!? No I don't want to pet it! Run!"
+    }
+  },
+  "tasks": [
+    {
+      "type": "mysticalworld:ender_mini",
+      "id": "feydata:pet"
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "nefdecomod:endermand_plushie",
+        "count": 1
+      },
+      "id": "feywild:item"
+    },
+    {
+      "item": {
+        "item": "mysticalworld:amethyst",
+        "count": 4
+      },
+      "id": "feywild:item"
+    }
+  ]
+}

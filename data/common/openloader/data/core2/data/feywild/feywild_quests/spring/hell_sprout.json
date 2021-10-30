@@ -1,0 +1,43 @@
+{
+  "parent": "feywild:silk_worm",
+  "reputation": 5,
+  "icon": "minecraft:nether_wart",
+  "start": {
+    "title": {
+      "translate": "Hell Sprout"
+    },
+    "description": {
+      "text": "Now it's getting interesting! $(b;spring)Hell sprouts$()! Nether spawns! \nWonder if they will be as weird as their cousins?\n\nBe careful you might burn yourself petting one!"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Hell Sprout"
+    },
+    "description": {
+      "text": "Nah! I changed my mind...they just as weird as their cousins."
+    }
+  },
+  "tasks": [
+    {
+      "type": "mysticalworld:hell_sprout",
+      "id": "feydata:pet"
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "supplementaries:cage",
+        "count": 1
+      },
+      "id": "feywild:item"
+    },
+    {
+      "item": {
+        "item": "mysticalworld:amethyst",
+        "count": 1
+      },
+      "id": "feywild:item"
+    }
+  ]
+}

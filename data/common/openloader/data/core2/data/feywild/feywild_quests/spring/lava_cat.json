@@ -1,0 +1,43 @@
+{
+  "parent": "feywild:hell_sprout",
+  "reputation": 5,
+  "icon": "minecraft:blaze_rod",
+  "start": {
+    "title": {
+      "translate": "Lava Cat"
+    },
+    "description": {
+      "text": "Wow, a $(b;spring)lava cat$()! Cute and dangerous at the same time! It's made out of lava! How are we going to $(b;spring)pet$() it now??"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Lava Cat"
+    },
+    "description": {
+      "text": "You did it! I want to pet it too! -The pixie happily pet's the lava cat- Ah! Oh! Hot hot hot!"
+    }
+  },
+  "tasks": [
+    {
+      "type": "mysticalworld:lava_cat",
+      "id": "feydata:pet"
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "minecraft:blaze_rod",
+        "count": 4
+      },
+      "id": "feywild:item"
+    },
+    {
+      "item": {
+        "item": "mysticalworld:amethyst",
+        "count": 1
+      },
+      "id": "feywild:item"
+    }
+  ]
+}

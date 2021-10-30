@@ -1,0 +1,43 @@
+{
+  "parent": "feywild:frog",
+  "reputation": 5,
+  "icon": "farmersdelight:tomato",
+  "start": {
+    "title": {
+      "translate": "A Sprout"
+    },
+    "description": {
+      "text": "Oh I know these little $(b;spring)sprouts$()! I sometimes play with them in the forest! They are kind funny...if you $(b;spring)pet$() them to hard they will turn into vegetables!"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "A Sprout"
+    },
+    "description": {
+      "text": "What did you do? It's ok...I was hungry for vegetable soup anyways! \nBesides if they drop seeds you can easily re-grow them yourselves."
+    }
+  },
+  "tasks": [
+    {
+      "type": "mysticalworld:sprout",
+      "id": "feydata:pet"
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "farmersdelight:vegetable_soup",
+        "count": 4
+      },
+      "id": "feywild:item"
+    },
+    {
+      "item": {
+        "item": "mysticalworld:amethyst",
+        "count": 2
+      },
+      "id": "feywild:item"
+    }
+  ]
+}
