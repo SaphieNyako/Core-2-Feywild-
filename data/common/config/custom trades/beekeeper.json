@@ -166,6 +166,21 @@
       "priceMultiplier": 0.05,
       "demand": 0,
       "tradeLevel": 3
+    }, {
+      "offer": {
+        "itemKey": "minecraft:filled_map",
+        "customName": "Treasure Map - Bee Keep",
+        "amount": 1,
+        "mapStructure": "feywild:beekeep"
+      },
+      "request": {
+        "itemKey": "feywild:greater_fey_gem",
+        "amount": 1
+      },
+      "tradeExp": 5,
+      "maxUses": 4,
+      "priceMultiplier": 0.1,
+      "tradeLevel": 3
     },
     {
       "multiOffer": [

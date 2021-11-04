@@ -142,7 +142,7 @@
   {
     "project": 267193,
     "file": 3507658,
-    "side": "common",
+    "side": "server",
     "locked": false,
     "installed": true
   },
@@ -463,7 +463,7 @@
   },
   {
     "project": 484377,
-    "file": 3504051,
+    "file": 3515526,
     "side": "common",
     "locked": false,
     "installed": true

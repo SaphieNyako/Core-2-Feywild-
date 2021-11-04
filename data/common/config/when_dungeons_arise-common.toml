@@ -225,7 +225,7 @@
 			mushroomVillageTransformsTerrain = true
 			#The point in which Mushroom Villages will start spawning. This is based around X = 0, Z = 0.
 			#Range: 0 ~ 1000000
-			mushroomVillageSpawnpointSeparation = 800
+			mushroomVillageSpawnpointSeparation = 1600
 			#Whether cartographer villagers generate maps for Mushroom Villages or not.
 			mushroomVillageMapTrades = false
 

@@ -85,7 +85,7 @@
     
       // The average distance between two bee keeps. Must be higher than minimum.
       // Minimum: 1
-      "average_distance": 30,
+      "average_distance": 20,
       
       // The amount of time in seconds that the magical honey needs to respawn
       // Minimum: 1
@@ -93,7 +93,7 @@
       
       // The minimum distance between two  bee keeps
       // Minimum: 1
-      "minimum_distance": 20
+      "minimum_distance": 10
     },
     
     "blacksmith": {

@@ -4,44 +4,37 @@
   "icon": "minecraft:iron_nugget",
   "start": {
     "title": {
-      "translate": "quest.feywild.summer.kill_golem.start.title"
+      "text": "An audience"
     },
     "description": {
-      "translate": "Before we seek an audience with $(b;summer)Queen Titania$(), you will have to prove your worth to me! \nHmm...So a trial of combat! You will fight....\n- The Pixie thinks deeply about what mortally wounding task she will give you - \n...a Golem! Yes an $(b;spring)Iron Golem$()! \nIf you survive, I will deem you worthy to be in my presence.\nIf you survive....-the pixie giggles-...uh...cough cough...off you go! "
+      "text": "Before we seek an audience with $(b;summer)Queen Titania$(), you will have to prove your worth to me! \nHmm...So a trial of combat! You will fight....\n- The Pixie thinks deeply about what mortally wounding task she will give you - \n...a Zombie! Yes an $(b;spring)Zombie Brute$()! \nIf you survive, I will deem you worthy to be in my presence.\nIf you survive....-the pixie giggles-...uh...cough cough...off you go! "
     }
   },
   "complete": {
     "title": {
-      "translate": "quest.feywild.summer.kill_golem.complete.title"
+      "text": "What a Battle"
     },
     "description": {
-      "translate": "What a battle! I had a few good laughs with your struggles \nbut you pulled through in the end! Which is something. \nNot much, but something. Ah so funny! Ahum...\n What? You expected a reward? Your reward is being in my presence of course! \n\n A reward...the audacity!\n You can have the scraps of the Golem I guess..."
+      "text": "What a battle! I had a few good laughs with your struggles \nbut you pulled through in the end! Which is something. \nNot much, but something. Ah so funny! Ahum...\n What? You expected a reward? Your reward is being in my presence of course! \n\n A reward...the audacity!\n You can have the scraps I guess..."
     }
   },
   "tasks": [
     {
-      "entity": "minecraft:iron_golem",
+      "entity": "eidolon:zombie_brute",
       "id": "feywild:kill"
     }
   ],
   "rewards": [
     {
       "item": {
-        "item": "minecraft:iron_ingot",
+        "item": "minecraft:rotten_flesh",
         "count": 3
       },
       "id": "feywild:item"
     },
     {
       "item": {
-        "item": "minecraft:iron_nugget",
-        "count": 7
-      },
-      "id": "feywild:item"
-    },
-    {
-      "item": {
-        "item": "minecraft:poppy",
+        "item": "eidolon:zombie_heart",
         "count": 1
       },
       "id": "feywild:item"
