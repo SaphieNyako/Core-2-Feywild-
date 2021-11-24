@@ -51,7 +51,7 @@
     
     // Dwarf blacksmith spawn chance
     // Minimum: 0
-    "weight": 20
+    "weight": 5
   },
   
   "spring_pixie": {

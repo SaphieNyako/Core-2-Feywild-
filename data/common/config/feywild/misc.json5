@@ -8,5 +8,9 @@
   
   // Whether the players should be able to select one of the court's scrolls on first login, on first time opening the guide book or none.
   // Allowed values: book, login, none
-  "initial_scroll": "login"
+  "initial_scroll": "login",
+  
+  // This determines the weight of the rune stone appearing in mineshaft treasure chests.
+  // Range: 1 - 100
+  "rune_stone_weight": 20
 }

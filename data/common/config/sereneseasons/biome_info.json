@@ -1,17 +1,17 @@
 { 
-  "feywild:spring_biome": {
+  "feywild:blossoming_wealds": {
   "enable_seasonal_effects": false,
   "use_tropical_seasons": false
 },
-  "feywild:summer_biome": {
+  "feywild:golden_seelie_fields": {
   "enable_seasonal_effects": false,
   "use_tropical_seasons": false
 },
-"feywild:autumn_biome": {
+  "feywild:eternal_fall": {
   "enable_seasonal_effects": false,
   "use_tropical_seasons": false
 },
-"feywild:winter_biome": {
+  "feywild:frozen_retreat": {
   "enable_seasonal_effects": false,
   "use_tropical_seasons": false
 },

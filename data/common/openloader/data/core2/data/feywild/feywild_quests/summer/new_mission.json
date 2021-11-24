@@ -16,11 +16,5 @@
       "description": {
         "text": "Due to our latest victory and offering we where selected as one of the few to go on a mission to retrieve the $(b;summer)Elytra$(). We are not to return without it, or punishment awaits us!\n\nHope my faith in you was just! Let's look for information about the Shadow Court!"    }
     }
-  },
-  "tasks": [
-    {
-      "structure": "feywild:library",
-      "id": "feywild:structure"
-    }
-  ]
+  }
 }

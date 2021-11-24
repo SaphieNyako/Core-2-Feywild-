@@ -82,20 +82,6 @@
       {
         "type": "goblintraders:basic",
         "offer_item": {
-          "item": "feywild:schematics_fey_altar",
-          "count": 1
-        },
-        "payment_item": {
-          "item": "feywild:lesser_fey_gem",
-          "count": 40
-        },
-        "price_multiplier": 0.0,
-        "max_trades": 1,
-        "experience": 50
-      }, 
-      {
-        "type": "goblintraders:basic",
-        "offer_item": {
           "item": "feywild:schematics_gem_transmutation",
           "count": 1
         },
@@ -107,20 +93,6 @@
         "max_trades": 1,
         "experience": 50
       },
-      {
-        "type": "goblintraders:basic",
-        "offer_item": {
-          "item": "feywild:schematics_fey_altar",
-          "count": 1
-        },
-        "payment_item": {
-          "item": "minecraft:emerald",
-          "count": 60
-        },
-        "price_multiplier": 0.0,
-        "max_trades": 1,
-        "experience": 50
-      }, 
       {
         "type": "goblintraders:basic",
         "offer_item": {

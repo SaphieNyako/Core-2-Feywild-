@@ -23,7 +23,7 @@
                       }
                     ],
                     "name": "minecraft:ender_pearl",
-                    "weight": 20
+                    "weight": 10
                   },
                   {
                     "type": "minecraft:item",
@@ -45,7 +45,7 @@
                       }
                     ],
                     "name": "druidcraft:chitin",
-                    "weight": 10
+                    "weight": 20
                   },
                   {
                     "type": "minecraft:item",
@@ -67,7 +67,7 @@
                       }
                     ],
                     "name": "mysticalworld:carapace",
-                    "weight": 10
+                    "weight": 30
                   },
                   {
                     "type": "item",

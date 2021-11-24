@@ -334,7 +334,7 @@
     ]
   },
   {
-    "amount": 4,
+    "amount": 3,
     "trades": [
       {
         "output": {
@@ -374,19 +374,6 @@
         "uses": 5,
         "exp": 1,
         "mul": 0.05
-      },
-      {
-        "output": {
-          "item": "feywild:schematics_fey_altar",
-          "count": 1
-        },
-        "input": {
-          "item": "feywild:brilliant_fey_gem",
-          "count": 2
-        },
-        "uses": 1,
-        "exp": 5,
-        "mul": 0.05
       }
     ]
   },
@@ -400,6 +387,19 @@
         },
         "input": {
           "item": "feywild:brilliant_fey_gem",
+          "count": 1
+        },
+        "uses": 1,
+        "exp": 5,
+        "mul": 0.05
+      },
+      {
+        "output": {
+          "item": "feywild:market_rune_stone",
+          "count": 1
+        },
+        "input": {
+          "item": "feywild:inactive_market_rune_stone",
           "count": 1
         },
         "uses": 1,

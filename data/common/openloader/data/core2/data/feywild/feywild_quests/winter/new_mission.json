@@ -16,11 +16,5 @@
       "description": {
         "text": "Now that we are here...I owe you a explanation, Mortal! \nHad the Summer Court claimed you before we did, you would have become their Champion!...I know right...such inconvenience...\nLuckily we beat them to it, and claimed your soul!\n Queen Mab is willing to return your soul, if we can claim the Elytra for the Winter Court!\n Seems like you are to fulfill your destiny after all.... "    }
     }
-  },
-  "tasks": [
-    {
-      "structure": "feywild:library",
-      "id": "feywild:structure"
-    }
-  ]
+  }
 }
