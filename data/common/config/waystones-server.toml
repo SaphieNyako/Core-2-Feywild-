@@ -47,18 +47,18 @@
 		minimumXpCost = 0.0
 		#The maximum base xp cost (may be exceeded by multipliers defined below), set to 0 to disable all distance-based XP costs
 		#Range: 0.0 ~ Infinity
-		maximumXpCost = 1.0
+		maximumXpCost = 0.0
 		#Set to true if experience cost should be inverted, meaning the shorter the distance, the more expensive. Can be used to encourage other methods for short-distance travel.
 		inverseXpCost = false
 		#The amount of blocks per xp level requirement. If set to 500, the base xp cost for travelling 1000 blocks will be 2 levels.
 		#Range: > 1
-		blocksPerXPLevel = 1000
+		blocksPerXPLevel = 3000
 
 	#These options apply to teleporting between dimensions.
 	[server.dimensionalWarp]
 		#The base xp level cost when travelling between dimensions. Ignores block distance.
 		#Range: > 0
-		dimensionalWarpXpCost = 2
+		dimensionalWarpXpCost = 1
 		#Set to 'ALLOW' to allow dimensional warp in general. Set to 'GLOBAL_ONLY' to restrict dimensional warp to global waystones. Set to 'DENY' to disallow all dimensional warps.
 		#Allowed Values: ALLOW, GLOBAL_ONLY, DENY
 		dimensionalWarp = "ALLOW"

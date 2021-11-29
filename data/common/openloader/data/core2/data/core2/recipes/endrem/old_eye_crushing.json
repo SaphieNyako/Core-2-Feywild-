@@ -1,0 +1,30 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "endrem:old_eye"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:ender_pearl",
+      "count": 2
+    },
+    {
+      "item": "minecraft:blaze_powder",
+      "count": 2,
+      "chance": 0.5
+    },
+    {
+      "item": "botania:mana_diamond",
+      "count": 4,
+      "chance": 0.5
+    },
+    {
+      "item": "botania:mana_powder",
+      "count": 4,
+      "chance": 0.25
+    }
+  ],
+  "processingTime": 200
+}

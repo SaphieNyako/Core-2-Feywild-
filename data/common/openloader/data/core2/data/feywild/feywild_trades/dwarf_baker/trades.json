@@ -228,7 +228,7 @@
           "count": 1
         },
         "output": {
-          "item": "farmersdelight:fruit_salade",
+          "item": "farmersdelight:fruit_salad",
           "count": 1
         },
         "uses": 2,
@@ -241,7 +241,7 @@
           "count": 1
         },
         "output": {
-          "item": "farmersdelight:mixed_salade",
+          "item": "farmersdelight:mixed_salad",
           "count": 1
         },
         "uses": 2,
@@ -254,7 +254,7 @@
           "count": 1
         },
         "output": {
-          "item": "farmersdelight:nether_salade",
+          "item": "farmersdelight:nether_salad",
           "count": 1
         },
         "uses": 2,
@@ -371,7 +371,7 @@
           "count": 2
         },
         "output": {
-          "item": "farmersdelight:roasted_mutton_chop",
+          "item": "farmersdelight:roasted_mutton_chops",
           "count": 1
         },
         "uses": 2,

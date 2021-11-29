@@ -232,7 +232,7 @@
         "enchantments": [
           {
             "enchantmentKey": "random",
-            "enchantmentLevel": 0
+            "enchantmentLevel": 1
           }
         ]
       },

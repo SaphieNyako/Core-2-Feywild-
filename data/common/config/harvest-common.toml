@@ -2,7 +2,7 @@
 #Harvest config
 [common]
 	#The blacklisted crops, these can not be harvested
-	blacklist = ["feywild:mandrake_crop"]
+	blacklist = ["minecraft:nether_wart","feywild:mandrake_crop"]
 	#Use the blacklist as a whitelist instead
 	whitelist = false
 	#Consumes a seed (from the drops) to replant

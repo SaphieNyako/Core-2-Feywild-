@@ -9,7 +9,7 @@
   },
   "ingredients": [
     {
-      "item": "minecraft:iron_chestplate"
+      "item": "dungeons_gear:champions_chestplate"
     },
     {
       "item": "druidcraft:amber"

@@ -137,7 +137,7 @@
 	#Allows to replace a grave plate already set on a grave [false/true|default:true]
 	can_replace_grave_plate = true
 	#The structures that can't be discovered by lost tablets
-	lost_tablet_denied_structures = []
+	lost_tablet_denied_structures = ["eidolon:stray_tower","eidolon:catacomb" ,"eidolon:lab", "dungeons_arise:wishing_well" ,"astralsorcery:small_shrine", "mysticalworld:barrow", "mysticalworld:hut", "mysticalworld:ruined_hut"]
 	#Chance to receive a random beneficial spell effect when praying near a grave [0..100|default:40]
 	#Range: 0 ~ 100
 	chance_pray_reward = 40
