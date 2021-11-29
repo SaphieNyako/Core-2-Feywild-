@@ -2,7 +2,7 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "item": "endrem:magical_eye"
+      "item": "endrem:wither_eye"
     }
   ],
   "results": [
@@ -16,7 +16,7 @@
       "chance": 0.5
     },
     {
-      "item": "mysticalagridition:wither_soul",
+      "item": "mysticalagridition:withering_soul",
       "count": 3,
       "chance": 0.5
     },
