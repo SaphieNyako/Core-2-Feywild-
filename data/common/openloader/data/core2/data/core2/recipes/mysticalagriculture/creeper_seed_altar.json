@@ -1,0 +1,23 @@
+{
+  "type": "feywild:fey_altar",
+  "ingredients": [
+    {
+      "item": "nefdecomod:creeper_plushie"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "mysticalagriculture:soulium_seed_base"
+    },
+    {
+      "item": "mysticalagriculture:tertium_essence"
+    },
+    {
+      "item": "minecraft:tnt"
+    }
+  ],
+  "output": {
+    "item": "mysticalagriculture:creeper_seeds"
+  }
+}

@@ -63,7 +63,7 @@
           "item": "minecraft:iron_ingot",
           "count": 4
         },
-        "uses": 4,
+        "uses": 12,
         "exp": 0,
         "mul": 0.05
       },
@@ -76,7 +76,7 @@
           "item": "minecraft:gold_ingot",
           "count": 3
         },
-        "uses": 4,
+        "uses": 12,
         "exp": 0,
         "mul": 0.05
       },
@@ -102,7 +102,7 @@
           "item": "minecraft:lapis_lazuli",
           "count": 8
         },
-        "uses": 3,
+        "uses": 9,
         "exp": 0,
         "mul": 0.05
       },
@@ -141,7 +141,7 @@
           "item": "minecraft:powered_rail",
           "count": 8
         },
-        "uses": 4,
+        "uses": 12,
         "exp": 0,
         "mul": 0.05
       },
@@ -154,7 +154,7 @@
           "item": "minecraft:detector_rail",
           "count": 8
         },
-        "uses": 4,
+        "uses": 12,
         "exp": 0,
         "mul": 0.05
       },
@@ -167,7 +167,7 @@
           "item": "minecraft:rail",
           "count": 16
         },
-        "uses": 4,
+        "uses": 12,
         "exp": 0,
         "mul": 0.05
       },
@@ -180,7 +180,7 @@
           "item": "minecraft:activator_rail",
           "count": 8
         },
-        "uses": 4,
+        "uses": 12,
         "exp": 0,
         "mul": 0.05
       },
@@ -193,7 +193,7 @@
           "item": "minecraft:tnt",
           "count": 4
         },
-        "uses": 4,
+        "uses": 12,
         "exp": 0,
         "mul": 0.05
       },
@@ -206,7 +206,7 @@
           "item": "minecraft:minecart",
           "count": 1
         },
-        "uses": 4,
+        "uses": 12,
         "exp": 0,
         "mul": 0.05
       },
@@ -219,7 +219,7 @@
           "item": "create:copper_ore",
           "count": 3
         },
-        "uses": 4,
+        "uses": 12,
         "exp": 0,
         "mul": 0.05
       },
@@ -232,7 +232,7 @@
           "item": "mysticalworld:tin_ore",
           "count": 4
         },
-        "uses": 4,
+        "uses": 12,
         "exp": 0,
         "mul": 0.05
       },
@@ -245,7 +245,7 @@
           "item": "wyrmroost:platinum_ore",
           "count": 3
         },
-        "uses": 4,
+        "uses": 12,
         "exp": 0,
         "mul": 0.05
       },
@@ -258,7 +258,7 @@
           "item": "create:zinc_ore",
           "count": 3
         },
-        "uses": 4,
+        "uses": 12,
         "exp": 0,
         "mul": 0.05
       },
@@ -271,7 +271,7 @@
           "item": "ars_nouveau:mana_gem",
           "count": 2
         },
-        "uses": 3,
+        "uses": 9,
         "exp": 0,
         "mul": 0.05
       },
@@ -284,7 +284,7 @@
           "item": "eidolon:lead_ore",
           "count": 3
         },
-        "uses": 3,
+        "uses": 9,
         "exp": 0,
         "mul": 0.05
       },
@@ -297,7 +297,7 @@
           "item": "druidcraft:fiery_glass",
           "count": 6
         },
-        "uses": 3,
+        "uses": 9,
         "exp": 0,
         "mul": 0.05
       },
@@ -310,7 +310,7 @@
           "item": "occultism:silver_ore",
           "count": 3
         },
-        "uses": 3,
+        "uses": 9,
         "exp": 0,
         "mul": 0.05
       }

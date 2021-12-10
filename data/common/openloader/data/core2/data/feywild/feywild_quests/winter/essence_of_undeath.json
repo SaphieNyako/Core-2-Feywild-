@@ -11,6 +11,14 @@
       "text": "Ah Soul Reaper...if you collect $(b;winter)grave soul$() dust you can $(b;spring)exchange$() it for a $(b;winter)essence of undead$()! All that is required is that you $(b;spring)gift$() me a collection of $(b;winter)grave dust$()"
     }
   },
+  "complete": {
+    "title": {
+      "text": "Essence of Undeath"
+    },
+    "description": {
+      "translate": "You have my gratitude mortal...Now find use more souls. "
+    }
+  },
   "tasks": [
     {
       "alignment": "winter",

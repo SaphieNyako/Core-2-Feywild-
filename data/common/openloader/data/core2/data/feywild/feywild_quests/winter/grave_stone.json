@@ -21,7 +21,7 @@
   "tasks": [
     {
       "item": {
-        "item": "tombstone:decorative_grave_simple"
+        "tag": "tombstone:decorative_graves"
       },
       "id": "feywild:craft",
       "amount": 1

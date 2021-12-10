@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "feywild:fey_logs"
+    }
+  ],
+  "results": [
+    {
+      "item": "ars_nouveau:archwood_planks",
+      "count": 4
+    }
+  ],
+  "processingTime": 50
+}

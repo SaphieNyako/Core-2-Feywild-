@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "tag": "forge:logs/archwood"
+    }
+  ],
+  "results": [
+    {
+      "item": "ars_nouveau:archwood_planks",
+      "count": 4
+    }
+  ],
+  "processingTime": 50
+}
